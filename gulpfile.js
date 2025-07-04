@@ -53,7 +53,7 @@ async function setVersion() {
   await fs.copy(`./module.json`, path);
 
   const version = process.env.RELEASE_VER || tag?.replace('v', '');
-
+  console.log(`Set Version: ${version}`);
   const moduleData = JSON.parse(fs.readFileSync(path, 'utf8'));
   moduleData.version = version;
 
@@ -82,7 +82,7 @@ async function buildRelease() {
     `${distPath}/module.zip`
   );
   output.on('close', function () {
-    console.log(`Module data: ${archive.pointer()} bytes)`);
+    console.log(`Module data: ${archive.pointer()} bytes`);
   });
 
   // Create the output archive

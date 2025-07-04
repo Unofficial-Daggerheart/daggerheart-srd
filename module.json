@@ -70,29 +70,6 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
-
-    },
-    {
-      "name": "srd-classes",
-      "label": "srd-classes",
-      "path": "packs/srd-classes",
-      "type": "Item",
-      "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "srd-domains",
-      "label": "srd-domains",
-      "path": "packs/srd-domains",
-      "type": "Item",
-      "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
     }
   ],
   "url": "https://github.com/unofficial-daggerheart/daggerheart-srd",

@@ -1,0 +1,20 @@
+type: Actor
+folder: 7DJYzCQ9vN5p0dFJ
+name: Tier 4
+color: null
+sorting: a
+_id: lfRTJZ09nTPe7Cb2
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.9.3
+  createdTime: 1751622813571
+  modifiedTime: 1751622813571
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!folders!lfRTJZ09nTPe7Cb2'

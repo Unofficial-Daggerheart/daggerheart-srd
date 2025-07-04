@@ -1,0 +1,112 @@
+name: Codex
+type: domain
+folder: CkTKhe4hp0YLzCnS
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h1>Intensive magical study.</h1><p>Those who seek magical knowledge turn to
+    the equations of power recorded in books, written on scrolls, etched into
+    walls, or tattooed on bodies. Codex offers a commanding and versatile
+    understanding of magic to devotees who pursue knowledge beyond the
+    boundaries of common wisdom.</p><p><em>Classes:
+    @UUID[Compendium.world.classes.Item.VHJTNx3qVyBn6ygu]{Bard},
+    @UUID[Compendium.world.classes.Item.6yiJLD1Ml099vI4U]{Wizard}</em></p><table><tbody><tr><td><p>Level</p></td><td><p>Codex
+    Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-ava"
+    data-bs-original-title>Book of Ava</a></li><li class="list-inline-item"><a
+    class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-illiat"
+    data-bs-original-title>Book of Illiat</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-tyfar"
+    data-bs-original-title>Book of
+    Tyfar</a></li></ul></td></tr><tr><td><p>2</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-sitil"
+    data-bs-original-title aria-describedby="tooltip648438">Book of
+    Sitil</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-vagras"
+    data-bs-original-title>Book of
+    Vagras</a></li></ul></td></tr><tr><td><p>3</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-korvax"
+    data-bs-original-title>Book of Korvax</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-norai"
+    data-bs-original-title>Book of
+    Norai</a></li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-exota"
+    data-bs-original-title>Book of Exota</a></li><li class="list-inline-item"><a
+    class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-grynn"
+    data-bs-original-title>Book of
+    Grynn</a></li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-manifest-wall"
+    data-bs-original-title>Manifest Wall</a></li><li class="list-inline-item"><a
+    class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-teleport"
+    data-bs-original-title>Teleport</a></li></ul></td></tr><tr><td><p>6</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-banish"
+    data-bs-original-title>Banish</a></li><li class="list-inline-item"><a
+    class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-sigil-of-retribution"
+    data-bs-original-title>Sigil of
+    Retribution</a></li></ul></td></tr><tr><td><p>7</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-homet"
+    data-bs-original-title>Book of Homet</a></li><li class="list-inline-item"><a
+    class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-codex-touched"
+    data-bs-original-title>Codex-Touched</a></li></ul></td></tr><tr><td><p>8</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-vyola"
+    data-bs-original-title>Book of Vyola</a></li><li class="list-inline-item"><a
+    class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-safe-haven"
+    data-bs-original-title>Safe
+    Haven</a></li></ul></td></tr><tr><td><p>9</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-ronin"
+    data-bs-original-title>Book of Ronin</a></li><li class="list-inline-item"><a
+    class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-disintegration-wave"
+    data-bs-original-title>Disintegration
+    Wave</a></li></ul></td></tr><tr><td><p>10</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-yarrow"
+    data-bs-original-title>Book of Yarrow</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-transcendent-union"
+    data-bs-original-title>Transcendent
+    Union</a></li></ul></td></tr></tbody></table>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.9.3
+  createdTime: 1751662902650
+  modifiedTime: 1751662910144
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+  GHK9xQYeYjLhONPd: 3
+_id: q0u966dVjADauCYA
+sort: 500000
+_key: '!items!q0u966dVjADauCYA'

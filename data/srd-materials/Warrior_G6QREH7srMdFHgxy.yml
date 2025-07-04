@@ -1,0 +1,18 @@
+type: Item
+folder: WpN6W0wyYE3XeeYu
+name: Warrior
+color: null
+sorting: a
+_id: G6QREH7srMdFHgxy
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.9.3
+  lastModifiedBy: null
+_key: '!folders!G6QREH7srMdFHgxy'

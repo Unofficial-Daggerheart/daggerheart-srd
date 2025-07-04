@@ -1,0 +1,20 @@
+type: Actor
+folder: null
+name: Minions
+color: null
+sorting: a
+_id: DSmU3seSOO6mFelA
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.9.3
+  createdTime: 1751622515486
+  modifiedTime: 1751622515486
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!folders!DSmU3seSOO6mFelA'

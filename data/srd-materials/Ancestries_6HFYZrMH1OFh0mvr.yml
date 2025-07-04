@@ -1,0 +1,20 @@
+type: Item
+folder: null
+name: Ancestries
+color: null
+sorting: a
+_id: 6HFYZrMH1OFh0mvr
+description: ''
+sort: 100000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.7.4
+  createdTime: 1751122926080
+  modifiedTime: 1751122926410
+  lastModifiedBy: cNNQ5puNzwCihPuH
+_key: '!folders!6HFYZrMH1OFh0mvr'
