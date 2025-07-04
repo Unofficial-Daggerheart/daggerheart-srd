@@ -1,7 +1,7 @@
 {
   "id": "daggerheart-srd",
   "title": "Daggerheart SRD",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -71,5 +71,9 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "url": "https://github.com/unofficial-daggerheart/daggerheart-srd",
+  "bugs": "https://github.com/unofficial-daggerheart/daggerheart-srd/issues",
+  "download": "https://github.com/unofficial-daggerheart/daggerheart-srd/releases/latest/download/module.zip",
+  "manifest": "https://github.com/unofficial-daggerheart/daggerheart-srd/releases/latest/download/module.json"
 }

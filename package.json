@@ -4,13 +4,16 @@
   "description": "The SRD Compendiums for the Daggerheart system",
   "scripts": {
     "pack": "gulp pack",
-    "unpack": "gulp unpack"
+    "unpack": "gulp unpack",
+    "version": "gulp version",
+    "release": "gulp release"
   },
   "author": "",
   "license": "MIT",
   "private": true,
   "dependencies": {
     "@foundryvtt/foundryvtt-cli": "^1.1.0",
+    "archiver": "^7.0.1",
     "fs-extra": "^11.3.0",
     "gulp": "^4.0.2",
     "gulp-shell": "^0.8.0",
