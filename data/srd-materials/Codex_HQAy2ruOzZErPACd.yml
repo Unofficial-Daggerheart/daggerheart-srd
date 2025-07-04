@@ -1,6 +1,6 @@
 name: Codex
 type: domain
-folder: null
+folder: KEA94yzmvDsaWBLU
 _id: HQAy2ruOzZErPACd
 img: systems/daggerheart/assets/domains/codex.svg
 system:
@@ -9,9 +9,11 @@ system:
     the equations of power recorded in books, written on scrolls, etched into
     walls, or tattooed on bodies. Codex offers a commanding and versatile
     understanding of magic to devotees who pursue knowledge beyond the
-    boundaries of common wisdom.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.VHJTNx3qVyBn6ygu]{Bard},
-    @UUID[Compendium.world.classes.Item.6yiJLD1Ml099vI4U]{Wizard}</em></p><table><tbody><tr><td><p>Level</p></td><td><p>Codex
+    boundaries of common wisdom.</p><p><em>Classes: </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-bard"
+    data-bs-original-title><em>Bard</em></a><em>, </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-wizard"
+    data-bs-original-title><em>Wizard</em></a></p><table><tbody><tr><td><p>Level</p></td><td><p>Codex
     Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
     mb-0"><li class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-ava"
@@ -101,8 +103,8 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751599143884
-  modifiedTime: 1751602155903
+  createdTime: 1751665446860
+  modifiedTime: 1751665446860
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:

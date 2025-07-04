@@ -1,6 +1,6 @@
 name: Valor
 type: domain
-folder: null
+folder: KEA94yzmvDsaWBLU
 _id: ytZPCT0ixXbMWp5B
 img: systems/daggerheart/assets/domains/valor.svg
 system:
@@ -8,9 +8,9 @@ system:
     <h1>Protection.</h1><p>Whether through attack or defense, those who choose
     this discipline channel formidable strength to protect their allies in
     battle. Valor offers great power to those who raise their shields in defense
-    of others.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.8P6Bn4PCxZLEkwPI]{Guardian},
-    </em>@UUID[Compendium.world.classes.Item.HinfqnEB1y8UombX]{Seraph}</p><table><tbody><tr><td><p>Level</p></td><td><p>Valor
+    of others.</p><p><em>Classes: </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#guardian"><em>Guardian</em></a><em>,
+    @UUID[Item.HinfqnEB1y8UombX]{Seraph}</em></p><table><tbody><tr><td><p>Level</p></td><td><p>Valor
     Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
     mb-0"><li class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-bare-bones"
@@ -103,8 +103,8 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751599143884
-  modifiedTime: 1751602048520
+  createdTime: 1751665446860
+  modifiedTime: 1751665446860
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:

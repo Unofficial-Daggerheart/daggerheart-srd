@@ -1,0 +1,66 @@
+name: Warrior
+type: class
+folder: 87zHwgtKFfKA9ANM
+img: icons/svg/sword.svg
+system:
+  description: >-
+    <p>Becoming a warrior requires years, often a lifetime, of training and
+    dedication to the mastery of <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-weapon"
+    data-bs-original-title>weapons</a> and violence. <span class="og-omit">While
+    many who seek to fight hone only their strength, warriors understand the
+    importance of an agile body and mind, making them some of the most
+    sought-after fighters across the realms. Frequently, warriors find
+    employment within an army, a band of mercenaries, or even a royal guard, but
+    their potential is wasted in any position where they cannot continue to
+    improve and expand their skills. Warriors are known to have a favored
+    weapon; to come between them and their blade would be a grievous
+    mistake.</span></p><p><span
+    class="og-omit"><strong>Starting</strong></span><strong> Evasion:</strong>
+    11</p><p><span class="og-omit"><strong>Starting</strong></span><strong> Hit
+    Points:</strong> 6</p><p><strong>Class Items:</strong> The drawing of a
+    lover, or a sharpening stone</p><h4 class="h6">Warrior's Hope
+    Feature</h4><p><em><strong>No Mercy:</strong></em> Spend 3 Hope to gain a +1
+    bonus to your attack rolls until your next rest.</p><h4 class="h6">Class
+    Features</h4><p><em><strong>Attack of Opportunity:</strong></em> If an
+    adversary within Melee range attempts to leave that range, make a reaction
+    roll using a trait of your choice against their Difficulty. Choose one
+    effect on a success, or two if you critically succeed:</p><ul
+    class="og-list-disc"><li>They can't move from where they are.</li><li>You
+    deal damage to them equal to your primary</li><li>weapon's
+    damage.</li><li>You move with them.</li></ul><p><em><strong>Combat
+    Training:</strong></em> You ignore burden when equipping <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-weapon"
+    data-bs-original-title>weapons</a>. When you deal <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-damage-type"
+    data-bs-original-title>physical damage</a>, you gain a bonus to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-damage-roll"
+    data-bs-original-title>damage roll</a> equal to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-level"
+    data-bs-original-title>level</a>.</p>
+  category: blade
+  rarity: bone
+  location: class
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751665436242
+  modifiedTime: 1751665436242
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+_id: gdnM1OqISc4ASFj8
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!gdnM1OqISc4ASFj8'

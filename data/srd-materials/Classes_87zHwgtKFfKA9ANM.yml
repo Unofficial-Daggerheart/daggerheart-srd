@@ -1,0 +1,20 @@
+type: Item
+folder: null
+name: Classes
+color: null
+sorting: a
+_id: 87zHwgtKFfKA9ANM
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751665388537
+  modifiedTime: 1751665388537
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+_key: '!folders!87zHwgtKFfKA9ANM'

@@ -1,6 +1,6 @@
 name: Sage
 type: domain
-folder: null
+folder: KEA94yzmvDsaWBLU
 _id: 1f5cKcUl0iKn0ctg
 img: systems/daggerheart/assets/domains/sage.svg
 system:
@@ -8,9 +8,11 @@ system:
     <h1>The natural world.</h1><p>Those who walk this path tap into the
     unfettered power of the earth and its creatures to unleash raw magic. Sage
     grants its adherents the vitality of a blooming flower and the ferocity of a
-    ravenous predator.</p><p><em>Classes: 
-    @UUID[Compendium.world.classes.Item.5iWDadb9dmJvAI84]{Druid},
-    @UUID[Compendium.world.classes.Item.b9ZMeNlo1qDaZZ3i]{Ranger}</em></p><table><tbody><tr><td><p>Level</p></td><td><p>Sage
+    ravenous predator.</p><p><em>Classes: </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-druid"
+    data-bs-original-title><em>Druid</em></a><em>, </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-ranger"
+    data-bs-original-title><em>Ranger</em></a></p><table><tbody><tr><td><p>Level</p></td><td><p>Sage
     Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
     mb-0"><li class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-gifted-tracker"
@@ -101,8 +103,8 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751599143884
-  modifiedTime: 1751602125867
+  createdTime: 1751665446860
+  modifiedTime: 1751665446860
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:

@@ -1,0 +1,50 @@
+name: Wizard
+type: class
+folder: 87zHwgtKFfKA9ANM
+img: icons/svg/book.svg
+system:
+  description: >-
+    <p><em><strong>Combat Training:</strong></em> You ignore burden when
+    equipping weapons. When you deal physical damage, you gain a bonus to your
+    damage roll equal to your level.</p><p><span
+    class="og-omit"><strong>Starting</strong></span><strong> Evasion:</strong>
+    11</p><p><span class="og-omit"><strong>Starting</strong></span><strong> Hit
+    Points:</strong> 5</p><p><strong>Class Items:</strong> A book you're trying
+    to translate, or a tiny, harmless elemental</p><h4 class="h6">Wizard's Hope
+    Feature</h4><p><em><strong>Not This Time:</strong></em> Spend 3 Hope to
+    force an adversary within Far range to reroll an attack or damage
+    roll.</p><h4 class="h6">Class
+    Feature</h4><p><em><strong>Prestidigitation:</strong></em> You can perform
+    harmless, subtle magical effects at will. For example, you can change an
+    object's color, create a smell, light a candle, cause a tiny object to
+    float, illuminate a room, or repair a small
+    object.</p><p><em><strong>Strange Patterns:</strong></em> Choose a number
+    between 1 and 12. When you roll that number on a Duality Die, gain a Hope or
+    clear a Stress.</p><p>You can change this number when you take a long
+    rest.</p>
+  category: codex
+  rarity: splendor
+  location: class
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751665436242
+  modifiedTime: 1751665436242
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+_id: 6yiJLD1Ml099vI4U
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!6yiJLD1Ml099vI4U'

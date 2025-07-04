@@ -1,6 +1,6 @@
 name: Midnight
 type: domain
-folder: null
+folder: KEA94yzmvDsaWBLU
 _id: Ti0ylvsHS7NSqi5w
 img: systems/daggerheart/assets/domains/midnight.svg
 system:
@@ -8,9 +8,11 @@ system:
     <h1>Shadows and secrecy.</h1><p>Whether by clever tricks, deft magic, or the
     cloak of night, those who channel these forces practice the art of obscurity
     and can uncover sequestered treasures. Midnight offers practitioners the
-    power to control and create enigmas.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.49g9PNReuFMOh7SY]{Rogue},
-    @UUID[Compendium.world.classes.Item.UDU4lOKJqdPHH5FI]{Sorcerer}</em></p><p></p><table><tbody><tr><td
+    power to control and create enigmas.</p><p><em>Classes: </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-rogue"
+    data-bs-original-title><em>Rogue</em></a><em>, </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-sorcerer"
+    data-bs-original-title><em>Sorcerer</em></a></p><p></p><table><tbody><tr><td
     data-colwidth="104"><p>Level</p></td><td><p>Midnight Domain
     Cards</p></td></tr><tr><td data-colwidth="104"><p>1</p></td><td><ul
     class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
@@ -106,8 +108,8 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751599143884
-  modifiedTime: 1751602141079
+  createdTime: 1751665446860
+  modifiedTime: 1751665446860
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:

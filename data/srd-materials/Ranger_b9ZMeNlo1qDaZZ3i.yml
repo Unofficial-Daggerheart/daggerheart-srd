@@ -1,0 +1,54 @@
+name: Ranger
+type: class
+folder: 87zHwgtKFfKA9ANM
+img: icons/svg/trap.svg
+system:
+  description: >-
+    <p>Rangers are highly skilled hunters who, despite their martial abilities,
+    rarely lend their skills to an army. <span class="og-omit">Through mastery
+    of the body and a deep understanding of the wilderness, rangers become sly
+    tacticians, pursuing their quarry with cunning and patience. Many rangers
+    track and fight alongside an animal companion with whom they've forged a
+    powerful spiritual bond. By honing their skills in the wild, rangers become
+    expert trackers, as likely to ensnare their foes in a trap as they are to
+    assail them head-on.</span></p><p><span
+    class="og-omit"><strong>Starting</strong></span><strong> Evasion:</strong>
+    12</p><p><span class="og-omit"><strong>Starting</strong></span><strong> Hit
+    Points:</strong> 6</p><p><strong>Class Items:</strong> A trophy from your
+    first kill, or a seemingly broken compass</p><h4 class="h6">Class
+    Feature</h4><p><em><strong>Ranger's Focus:</strong></em> Spend a Hope and
+    make an attack against a target. On a success, deal your attack's normal
+    damage and temporarily make the attack's target your <em>Focus</em>. Until
+    this feature ends or you make a different creature your <em>Focus</em>, you
+    gain the following benefits against your <em>Focus</em>:</p><ul
+    class="og-list-disc"><li>You know precisely what direction they are
+    in.</li><li>When you deal damage to them, they must mark a
+    Stress.</li><li>When you fail an attack against them, you can end your
+    <em><strong>Ranger's Focus</strong></em> feature to reroll your Duality
+    Dice.</li></ul>
+  category: bone
+  rarity: sage
+  location: class
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751665436242
+  modifiedTime: 1751665436242
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+_id: b9ZMeNlo1qDaZZ3i
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!b9ZMeNlo1qDaZZ3i'

@@ -1,6 +1,6 @@
 name: Arcana
 type: domain
-folder: null
+folder: KEA94yzmvDsaWBLU
 _id: 8hEblKVaAIoIwLKy
 img: systems/daggerheart/assets/domains/arcana.svg
 system:
@@ -8,9 +8,11 @@ system:
     <h1>Innate and Instinctual magic.</h1><p>Those who choose this path tap into
     the raw, enigmatic forces of the realms to manipulate both their own energy
     and the elements. Arcana offers wielders a volatile power, but it is
-    incredibly potent when correctly channeled.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.5iWDadb9dmJvAI84]{Druid},
-    @UUID[Compendium.world.classes.Item.UDU4lOKJqdPHH5FI]{Sorcerer}</em></p><p></p><table><tbody><tr><td
+    incredibly potent when correctly channeled.</p><p><em>Classes: </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-druid"
+    data-bs-original-title><em>Druid</em></a><em>, </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-sorcerer"
+    data-bs-original-title><em>Sorcerer</em></a></p><p></p><table><tbody><tr><td
     data-colwidth="49"><p>Level</p></td><td data-colwidth="166"><p>Arcana Domain
     Cards</p></td></tr><tr><td data-colwidth="49"><p>1</p></td><td
     data-colwidth="166"><ul class="list-inline mb-0"><li
@@ -103,8 +105,8 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751599143884
-  modifiedTime: 1751602234384
+  createdTime: 1751665446860
+  modifiedTime: 1751665446860
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:

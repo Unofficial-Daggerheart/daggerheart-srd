@@ -1,0 +1,20 @@
+type: Item
+folder: null
+name: Domains
+color: null
+sorting: a
+_id: KEA94yzmvDsaWBLU
+description: ''
+sort: 100000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751665393882
+  modifiedTime: 1751665395510
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+_key: '!folders!KEA94yzmvDsaWBLU'

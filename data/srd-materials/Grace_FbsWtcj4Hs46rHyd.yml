@@ -1,6 +1,6 @@
 name: Grace
 type: domain
-folder: null
+folder: KEA94yzmvDsaWBLU
 _id: FbsWtcj4Hs46rHyd
 img: systems/daggerheart/assets/domains/grace.svg
 system:
@@ -8,9 +8,11 @@ system:
     <h1>Charisma.</h1><p>Through rapturous storytelling, charming spells, or a
     shroud of lies, those who channel this power define the realities of their
     adversaries, bending perception to their will. Grace offers its wielders raw
-    magnetism and mastery over language.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.VHJTNx3qVyBn6ygu]{Bard},
-    @UUID[Compendium.world.classes.Item.49g9PNReuFMOh7SY]{Rogue}</em></p><table><tbody><tr><td><p>Level</p></td><td><p>Grace
+    magnetism and mastery over language.</p><p><em>Classes: </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-bard"
+    data-bs-original-title><em>Bard</em></a><em>, </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-rogue"
+    data-bs-original-title><em>Rogue</em></a></p><table><tbody><tr><td><p>Level</p></td><td><p>Grace
     Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
     mb-0"><li class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-deft-deceiver"
@@ -98,8 +100,8 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751599143884
-  modifiedTime: 1751602183345
+  createdTime: 1751665446860
+  modifiedTime: 1751665446860
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:

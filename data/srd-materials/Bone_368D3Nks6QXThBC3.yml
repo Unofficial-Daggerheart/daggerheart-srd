@@ -1,6 +1,6 @@
 name: Bone
 type: domain
-folder: null
+folder: KEA94yzmvDsaWBLU
 _id: 368D3Nks6QXThBC3
 img: systems/daggerheart/assets/domains/bone.svg
 system:
@@ -8,9 +8,11 @@ system:
     <h1>Tactics and the body.</h1><p>Practitioners of this domain have an
     uncanny control over their own physical abilities and an eye for predicting
     the behaviors of others in combat. Adherents to Bone gain an unparalleled
-    understanding of bodies and their movements.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.b9ZMeNlo1qDaZZ3i]{Ranger},
-    @UUID[Compendium.world.classes.Item.gdnM1OqISc4ASFj8]{Warrior}</em></p><p></p><table><tbody><tr><td
+    understanding of bodies and their movements.</p><p><em>Classes: </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-ranger"
+    data-bs-original-title><em>Ranger</em></a><em>, </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-warrior"
+    data-bs-original-title><em>Warrior</em></a></p><p></p><table><tbody><tr><td
     data-colwidth="65"><p>Level</p></td><td><p>Bone Domain
     Cards</p></td></tr><tr><td data-colwidth="65"><p>1</p></td><td><ul
     class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
@@ -102,8 +104,8 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751599143884
-  modifiedTime: 1751602201801
+  createdTime: 1751665446860
+  modifiedTime: 1751665446860
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:

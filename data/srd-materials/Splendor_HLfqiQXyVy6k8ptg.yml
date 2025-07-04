@@ -1,15 +1,15 @@
 name: Splendor
 type: domain
-folder: null
+folder: KEA94yzmvDsaWBLU
 _id: HLfqiQXyVy6k8ptg
 img: systems/daggerheart/assets/domains/splendor.svg
 system:
   description: >-
     <h1>Life.</h1><p>Splendor is the domain of life. Through this magic,
     followers gain the ability to heal and—to an extent—control
-    death.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.HinfqnEB1y8UombX]{Seraph},
-    @UUID[Compendium.world.classes.Item.6yiJLD1Ml099vI4U]{Wizard}</em></p><table><tbody><tr><td><p>Level</p></td><td><p>Splendor
+    death.</p><p><em>Classes: @UUID[Item.HinfqnEB1y8UombX]{Seraph}, </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-wizard"
+    data-bs-original-title><em>Wizard</em></a></p><table><tbody><tr><td><p>Level</p></td><td><p>Splendor
     Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
     mb-0"><li class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-bolt-beacon"
@@ -100,8 +100,8 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751599143884
-  modifiedTime: 1751602095981
+  createdTime: 1751665446860
+  modifiedTime: 1751665446860
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:

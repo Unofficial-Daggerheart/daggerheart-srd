@@ -1,6 +1,6 @@
 name: Blade
 type: domain
-folder: null
+folder: KEA94yzmvDsaWBLU
 _id: iZPVOGPYn0Ws3qRz
 img: systems/daggerheart/assets/domains/blade.svg
 system:
@@ -8,9 +8,11 @@ system:
     <h1>Weapon mastery.</h1><p>Whether by steel, bow, or perhaps a more
     specialized arm, those who follow this path have the skill to cut short the
     lives of others. Wielders of Blade dedicate themselves to achieving
-    inexorable power over death.</p><p><em>Classes: 
-    @UUID[Compendium.world.classes.Item.8P6Bn4PCxZLEkwPI]{Guardian},
-    @UUID[Compendium.world.classes.Item.gdnM1OqISc4ASFj8]{Warrior}</em></p><p></p><table><tbody><tr><td><p>Level</p></td><td><p>Blade
+    inexorable power over death.</p><p><em>Classes: </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-guardian"
+    data-bs-original-title><em>Guardian</em></a><em>, </em><a
+    href="https://callmepartario.github.io/og-dhsrd/#define-warrior"
+    data-bs-original-title><em>Warrior</em></a></p><p></p><table><tbody><tr><td><p>Level</p></td><td><p>Blade
     Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
     mb-0"><li class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-get-back-up"
@@ -96,8 +98,8 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751599143884
-  modifiedTime: 1751602218377
+  createdTime: 1751665446860
+  modifiedTime: 1751665446860
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:
