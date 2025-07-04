@@ -1,0 +1,33 @@
+name: Bard
+type: class
+folder: WpN6W0wyYE3XeeYu
+img: icons/svg/sound.svg
+system:
+  description: ''
+  category: ''
+  rarity: ''
+  location: class
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.9.3
+  createdTime: 1751662930822
+  modifiedTime: 1751662930822
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+  GHK9xQYeYjLhONPd: 3
+_id: wydYvRR0JHAuYGkT
+sort: 0
+_key: '!items!wydYvRR0JHAuYGkT'

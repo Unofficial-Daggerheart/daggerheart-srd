@@ -1,0 +1,33 @@
+name: Rogue
+type: class
+folder: WpN6W0wyYE3XeeYu
+img: icons/svg/cowled.svg
+system:
+  description: ''
+  category: ''
+  rarity: ''
+  location: class
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.9.3
+  createdTime: 1751662942453
+  modifiedTime: 1751662942453
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+  GHK9xQYeYjLhONPd: 3
+_id: ueIaRGO8pa6fT3lY
+sort: 0
+_key: '!items!ueIaRGO8pa6fT3lY'

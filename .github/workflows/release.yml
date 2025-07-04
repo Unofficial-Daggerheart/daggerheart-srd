@@ -38,6 +38,7 @@ jobs:
       run: npm run version
       env:
         RELEASE_VER: ${{ steps.tag.outputs.version }}
+
     - name: Build the release files
       run: npm run release
 

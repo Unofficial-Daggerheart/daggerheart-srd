@@ -1,0 +1,114 @@
+name: Valor
+type: domain
+folder: CkTKhe4hp0YLzCnS
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h1>Protection.</h1><p>Whether through attack or defense, those who choose
+    this discipline channel formidable strength to protect their allies in
+    battle. Valor offers great power to those who raise their shields in defense
+    of others.</p><p><em>Classes:
+    @UUID[Compendium.world.classes.Item.8P6Bn4PCxZLEkwPI]{Guardian},
+    </em>@UUID[Compendium.world.classes.Item.HinfqnEB1y8UombX]{Seraph}</p><table><tbody><tr><td><p>Level</p></td><td><p>Valor
+    Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-bare-bones"
+    data-bs-original-title aria-describedby="tooltip463273">Bare
+    Bones</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-i-am-your-shield"
+    data-bs-original-title>I Am Your Shield</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-bold-presence"
+    data-bs-original-title>Bold
+    Presence</a></li></ul></td></tr><tr><td><p>2</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-body-basher"
+    data-bs-original-title aria-describedby="tooltip754854">Body
+    Basher</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-bold-presence"
+    data-bs-original-title>Bold
+    Presence</a></li></ul></td></tr><tr><td><p>3</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-critical-inspiration"
+    data-bs-original-title aria-describedby="tooltip187590">Critical
+    Inspiration</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-lean-on-me"
+    data-bs-original-title>Lean On
+    Me</a></li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-goad-them-on"
+    data-bs-original-title aria-describedby="tooltip831075">Goad Them
+    On</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-support-tank"
+    data-bs-original-title>Support
+    Tank</a></li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-armorer"
+    data-bs-original-title aria-describedby="tooltip354271">Armorer</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-rousing-strike"
+    data-bs-original-title>Rousing
+    Strike</a></li></ul></td></tr><tr><td><p>6</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-inevitable"
+    data-bs-original-title
+    aria-describedby="tooltip352612">Inevitable</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-rise-up"
+    data-bs-original-title>Rise
+    Up</a></li></ul></td></tr><tr><td><p>7</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-shrug-it-off"
+    data-bs-original-title aria-describedby="tooltip95523">Shrug It
+    Off</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-valor-touched"
+    data-bs-original-title>Valor-Touched</a></li></ul></td></tr><tr><td><p>8</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-full-surge"
+    data-bs-original-title aria-describedby="tooltip114763">Full
+    Surge</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-ground-pound"
+    data-bs-original-title>Ground
+    Pound</a></li></ul></td></tr><tr><td><p>9</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-hold-the-line"
+    data-bs-original-title aria-describedby="tooltip346194">Hold The
+    Line</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-lead-by-example"
+    data-bs-original-title>Lead By
+    Example</a></li></ul></td></tr><tr><td><p>10</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-unbreakable"
+    data-bs-original-title
+    aria-describedby="tooltip84399">Unbreakable</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-unyielding-armor"
+    data-bs-original-title>Unyielding
+    Armor</a></li></ul></td></tr></tbody></table>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.9.3
+  createdTime: 1751662886709
+  modifiedTime: 1751662910144
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+  GHK9xQYeYjLhONPd: 3
+_id: kRq1nQxq63vBQYSd
+sort: 700000
+_key: '!items!kRq1nQxq63vBQYSd'

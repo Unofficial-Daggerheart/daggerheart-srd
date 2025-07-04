@@ -1,0 +1,20 @@
+type: Item
+folder: null
+name: Armor
+color: null
+sorting: a
+_id: f3gVDhVUphpIGSEd
+description: ''
+sort: 100000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.7.4
+  createdTime: 1751120537738
+  modifiedTime: 1751120537773
+  lastModifiedBy: cNNQ5puNzwCihPuH
+_key: '!folders!f3gVDhVUphpIGSEd'

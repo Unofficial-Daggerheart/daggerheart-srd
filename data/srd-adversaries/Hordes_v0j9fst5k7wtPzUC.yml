@@ -1,0 +1,20 @@
+type: Actor
+folder: null
+name: Hordes
+color: null
+sorting: a
+_id: v0j9fst5k7wtPzUC
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.9.3
+  createdTime: 1751622501465
+  modifiedTime: 1751622501465
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!folders!v0j9fst5k7wtPzUC'

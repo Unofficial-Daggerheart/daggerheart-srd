@@ -1,0 +1,112 @@
+name: Sage
+type: domain
+folder: CkTKhe4hp0YLzCnS
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h1>The natural world.</h1><p>Those who walk this path tap into the
+    unfettered power of the earth and its creatures to unleash raw magic. Sage
+    grants its adherents the vitality of a blooming flower and the ferocity of a
+    ravenous predator.</p><p><em>Classes: 
+    @UUID[Compendium.world.classes.Item.5iWDadb9dmJvAI84]{Druid},
+    @UUID[Compendium.world.classes.Item.b9ZMeNlo1qDaZZ3i]{Ranger}</em></p><table><tbody><tr><td><p>Level</p></td><td><p>Sage
+    Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-gifted-tracker"
+    data-bs-original-title aria-describedby="tooltip3822">Gifted
+    Tracker</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-natures-tongue"
+    data-bs-original-title>Nature's Tongue</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-vicious-entangle"
+    data-bs-original-title>Vicious
+    Entangle</a></li></ul></td></tr><tr><td><p>2</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-conjure-swarm"
+    data-bs-original-title aria-describedby="tooltip845193">Conjure
+    Swarm</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-natural-familiar"
+    data-bs-original-title>Natural
+    Familiar</a></li></ul></td></tr><tr><td><p>3</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-corrosive-projectile"
+    data-bs-original-title aria-describedby="tooltip773090">Corrosive
+    Projectile</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-towering-stalk"
+    data-bs-original-title>Towering
+    Stalk</a></li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-death-grip"
+    data-bs-original-title aria-describedby="tooltip675753">Death
+    Grip</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-healing-field"
+    data-bs-original-title>Healing
+    Field</a></li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-thorn-skin"
+    data-bs-original-title aria-describedby="tooltip868990">Thorn
+    Skin</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-wild-fortress"
+    data-bs-original-title>Wild
+    Fortress</a></li></ul></td></tr><tr><td><p>6</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-conjured-steeds"
+    data-bs-original-title>Conjured Steeds</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-forager"
+    data-bs-original-title>Forager</a></li></ul></td></tr><tr><td><p>7</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-sage-touched"
+    data-bs-original-title
+    aria-describedby="tooltip55596">Sage-Touched</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-wild-surge"
+    data-bs-original-title>Wild
+    Surge</a></li></ul></td></tr><tr><td><p>8</p></td><td><ul class="list-inline
+    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-forest-sprites"
+    data-bs-original-title>Forest Sprites</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-rejuvenation-barrier"
+    data-bs-original-title>Rejuvenation
+    Barrier</a></li></ul></td></tr><tr><td><p>9</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-fane-of-the-wilds"
+    data-bs-original-title>Fane of the Wilds</a></li><li
+    class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-plant-dominion"
+    data-bs-original-title>Plant
+    Dominion</a></li></ul></td></tr><tr><td><p>10</p></td><td><ul
+    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-force-of-nature"
+    data-bs-original-title aria-describedby="tooltip404166">Force of
+    Nature</a></li><li class="list-inline-item"><a class="og-nowrap"
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-tempest"
+    data-bs-original-title>Tempest</a></li></ul></td></tr></tbody></table>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.345'
+  systemId: daggerheart
+  systemVersion: 2.9.3
+  createdTime: 1751662893478
+  modifiedTime: 1751662910144
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+  GHK9xQYeYjLhONPd: 3
+_id: q0GrMrQsDuAl4z1B
+sort: 800000
+_key: '!items!q0GrMrQsDuAl4z1B'
