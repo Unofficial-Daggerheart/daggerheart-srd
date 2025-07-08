@@ -5,6 +5,8 @@ const shell = require('gulp-shell');
 const merge = require('merge-stream');
 const archiver = require('archiver');
 
+const NameProcessor = require('./tools/name-processor.js');
+
 const distPath = "./dist";
 const packSource = `./data`;
 const packTarget = `./packs`;
@@ -101,6 +103,21 @@ async function buildRelease() {
 }
 
 /* ----------------------------------------- */
+/*  Styling Utilities
+/* ----------------------------------------- */
+
+async function cleanStyling() {
+  const processor = new NameProcessor({
+    sourceDir: './data',
+    outputDir: './output',
+  });
+
+  await processor.processAll();
+  await fs.rename('./data', './backup');
+  await fs.rename('./output', './data');
+}
+
+/* ----------------------------------------- */
 /*  Export Tasks
 /* ----------------------------------------- */
 
@@ -109,4 +126,5 @@ module.exports = {
   unpack: unpackData,
   version: setVersion,
   release: buildRelease,
+  styling: cleanStyling,
 }

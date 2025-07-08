@@ -6,7 +6,8 @@
     "pack": "gulp pack",
     "unpack": "gulp unpack",
     "version": "gulp version",
-    "release": "gulp release"
+    "release": "gulp release",
+    "styling": "gulp styling"
   },
   "author": "",
   "license": "MIT",
@@ -17,6 +18,7 @@
     "fs-extra": "^11.3.0",
     "gulp": "^4.0.2",
     "gulp-shell": "^0.8.0",
+    "js-yaml": "^4.1.0",
     "merge-stream": "^2.0.0",
     "path": "^0.12.7"
   }
