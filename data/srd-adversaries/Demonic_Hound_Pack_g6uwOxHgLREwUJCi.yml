@@ -1,0 +1,171 @@
+name: Demonic Hound Pack
+type: npc
+img: icons/svg/mystery-man.svg
+system:
+  biography: >-
+    <h1>Details</h1><h4>DESCRIPTION</h4><p>Unnatural hounds lit from within by
+    hellfire.</p><h4>MOTIVES &amp; TACTICS</h4><p>Cause fear, consume flesh,
+    please masters</p><hr /><h1>EXPERIENCE</h1><p>Scent Tracking +3</p><hr
+    /><h1>FEATURES</h1><ul><li>Horde (2d4+1) - Passive: When the Pack has marked
+    half or more of their HP, their standard attack deals 2d4+1 physical damage
+    instead.</li><li>Dreadhowl - Action: Mark a Stress to make all targets
+    within Very Close range lose a Hope. If a target is not able to lose a Hope,
+    they must instead mark 2 Stress.</li><li>Momentum - Reaction: When the Pack
+    makes a successful attack against a PC, you gain a Fear.</li></ul>
+  health:
+    value: 0
+    min: 0
+    max: 6
+    tooltip: ''
+  stress:
+    value: 0
+    min: 0
+    max: 3
+    tooltip: ''
+  threshold:
+    major: 11
+    severe: 23
+  defenses:
+    evasion:
+      value: 15
+      tooltip: >-
+        Your character's Evasion reflects how hard it is for adversaries to hit
+        them.
+    armor:
+      baseValue: 0
+      modifiers: []
+      value: 0
+      tooltip: >-
+        When your character takes damage, you can mark one Armor Slot, then
+        reduce the severity of the damage by one threshold.
+    armor-slots:
+      value: 0
+      max: 6
+      tooltip: >-
+        Armorslots indicate the number of available slots for equipping armor,
+        influencing your overall Armor Score.
+  attributes: {}
+  groups: {}
+  weapon-main:
+    name: Claws and Fangs
+    description: 'Melee | ATK: +0| Phys'
+    damage:
+      baseValue: 2d8
+      modifiers:
+        - name: Modifier
+          value: '+2'
+          enabled: true
+      value: 2d8+2 phy
+    to-hit:
+      baseValue: 0
+      modifiers: []
+      value: 0
+    range: ''
+    modifier: ''
+    dmgType: ''
+  resourceTrackers: []
+  chosenDomains:
+    domain-one: Tier 2
+    domain-two: Horde
+  isNPC: true
+prototypeToken:
+  name: Demonic Hound Pack
+  displayName: 0
+  actorLink: true
+  width: 1
+  height: 1
+  texture:
+    src: icons/svg/mystery-man.svg
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: barHealth
+  bar2:
+    attribute: barStress
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+items: []
+effects: []
+folder: g4XxYIC7GCnI01Jz
+ownership:
+  default: 0
+  DcmXmiW2xhTpcNhE: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1751917455811
+  modifiedTime: 1751917532806
+  lastModifiedBy: DcmXmiW2xhTpcNhE
+_id: g6uwOxHgLREwUJCi
+sort: 300000
+_key: '!actors!g6uwOxHgLREwUJCi'

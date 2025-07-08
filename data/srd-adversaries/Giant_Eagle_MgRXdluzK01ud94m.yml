@@ -1,0 +1,178 @@
+name: Giant Eagle
+type: npc
+img: icons/svg/mystery-man.svg
+system:
+  biography: >-
+    <h1>Details</h1><h4>DESCRIPTION</h4><p>A giant bird of prey with
+    blood-stained talons.</p><h4>MOTIVES &amp; TACTICS</h4><p>Hunt prey, stay
+    mobile, strike decisively</p><hr /><h1>EXPERIENCE</h1><p></p><hr
+    /><h1>FEATURES</h1><ul><li>Flight - Passive: While flying, the Eagle gains a
+    +3 bonus to their Difficulty.</li><li>Deadly Dive - Action: Mark a Stress to
+    attack a target within Far range. On a success, deal 2d10+2 physical damage
+    and knock the target over, making them Vulnerable until they next
+    act.</li><li>Take Off - Action: Make an attack against a target within Very
+    Close range. On a success, deal 2d4+3 physical damage and the target must
+    succeed on an Agility Reaction Roll or become temporarily Restrained within
+    the Eagle’s massive talons. If the target is Restrained, the Eagle
+    immediately lifts into the air to Very Far range above the battlefield while
+    holding them.</li><li>Deadly Drop - Action: While flying, the Eagle can drop
+    a Restrained target they are holding. When dropped, the target is no longer
+    Restrained but starts falling. If their fall isn’t prevented during the PCs’
+    next action, the target takes 2d20 physical damage when they land.</li></ul>
+  health:
+    value: 0
+    min: 0
+    max: 4
+    tooltip: ''
+  stress:
+    value: 0
+    min: 0
+    max: 4
+    tooltip: ''
+  threshold:
+    major: 8
+    severe: 19
+  defenses:
+    evasion:
+      value: 14
+      tooltip: >-
+        Your character's Evasion reflects how hard it is for adversaries to hit
+        them.
+    armor:
+      baseValue: 0
+      modifiers: []
+      value: 0
+      tooltip: >-
+        When your character takes damage, you can mark one Armor Slot, then
+        reduce the severity of the damage by one threshold.
+    armor-slots:
+      value: 0
+      max: 6
+      tooltip: >-
+        Armorslots indicate the number of available slots for equipping armor,
+        influencing your overall Armor Score.
+  attributes: {}
+  groups: {}
+  weapon-main:
+    name: Claws and Beak
+    description: 'Very Close | ATK: +1| Phys'
+    damage:
+      baseValue: 2d6
+      modifiers:
+        - name: Modifier
+          value: '+3'
+          enabled: true
+      value: 2d6+3 phy
+    to-hit:
+      baseValue: 0
+      modifiers: []
+      value: 1
+    range: ''
+    modifier: ''
+    dmgType: ''
+  resourceTrackers: []
+  chosenDomains:
+    domain-one: Tier 2
+    domain-two: Skulk
+  isNPC: true
+prototypeToken:
+  name: Giant Eagle
+  displayName: 0
+  actorLink: true
+  width: 1
+  height: 1
+  texture:
+    src: icons/svg/mystery-man.svg
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: barHealth
+  bar2:
+    attribute: barStress
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+items: []
+effects: []
+folder: LKw7pMt42lpm2gJx
+ownership:
+  default: 0
+  DcmXmiW2xhTpcNhE: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1751917828715
+  modifiedTime: 1751919323948
+  lastModifiedBy: DcmXmiW2xhTpcNhE
+_id: MgRXdluzK01ud94m
+sort: 500000
+_key: '!actors!MgRXdluzK01ud94m'
