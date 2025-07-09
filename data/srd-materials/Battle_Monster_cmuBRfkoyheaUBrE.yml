@@ -1,0 +1,36 @@
+name: Battle Monster
+type: item
+folder: el0bYlqo56yc815T
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 10 Blade Ability</h3><p>Recall Cost: 0</p><p>When you make a
+    successful attack against an adversary, you can mark 4 Stress to force the
+    target to mark a number of Hit Points equal to the number of Hit Points you
+    currently have marked instead of rolling for damage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014149844
+  modifiedTime: 1752014149844
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: cmuBRfkoyheaUBrE
+sort: 0
+_key: '!items!cmuBRfkoyheaUBrE'

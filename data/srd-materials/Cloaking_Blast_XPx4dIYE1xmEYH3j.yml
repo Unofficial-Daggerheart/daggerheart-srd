@@ -1,0 +1,38 @@
+name: Cloaking Blast
+type: item
+folder: Mq1xIWFEpSCmgz4A
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 7 Arcana Spell</h3><p>Recall Cost: 2</p><p>When you make a
+    successful Spellcast Roll to cast a different spell, you can spend a Hope to
+    become Cloaked. While Cloaked, you remain unseen if you are stationary when
+    an adversary moves to where they would normally see you. When you move into
+    or within an adversary's line of sight or make an attack, you are no longer
+    Cloaked.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013444811
+  modifiedTime: 1752013444811
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: XPx4dIYE1xmEYH3j
+sort: 0
+_key: '!items!XPx4dIYE1xmEYH3j'

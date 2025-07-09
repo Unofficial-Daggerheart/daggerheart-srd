@@ -1,0 +1,37 @@
+name: Specter of the Dark
+type: item
+folder: Dggg96ArR2wumEvU
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 10 Midnight Spell</h3><p>Recall Cost: 1</p><p>Mark a Stress to
+    become Spectral until you make an action roll targeting another creature.
+    While Spectral, you're immune to physical damage and can float and pass
+    through solid objects. Other creatures can still see you while you're in
+    this form.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016104320
+  modifiedTime: 1752016104320
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: c7CbZHuHfpnLKOOr
+sort: 0
+_key: '!items!c7CbZHuHfpnLKOOr'

@@ -1,0 +1,40 @@
+name: Natural Familiar
+type: item
+folder: sYSBBlsxG80cvFkj
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 2 Sage Spell</h3><p>Recall Cost: 1</p><p>Spend a Hope to summon a
+    small nature spirit or forest critter to your side until your next rest, you
+    cast Natural Familiar again, or the familiar is targeted by an attack. If
+    you spend an additional Hope, you can summon a familiar that flies. You can
+    communicate with them, make a Spellcast Roll to command them to perform
+    simple tasks, and mark a Stress to see through their eyes. When you deal
+    damage to an adversary within Melee range of your familiar, you add a d6 to
+    your damage roll.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018071366
+  modifiedTime: 1752018071366
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: EVYTy0f5k6pFNXBX
+sort: 0
+_key: '!items!EVYTy0f5k6pFNXBX'

@@ -1,0 +1,38 @@
+name: Rejuvenation Barrier
+type: item
+folder: vjt5805KGhpEtwqn
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 8 Sage Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    (15). Once per rest on a success, create a temporary barrier of protective
+    energy around you at Very Close range. You and all allies within the barrier
+    when this spell is cast clear 1d4 Hit Points. While the barrier is up, you
+    and all allies within have resistance to physical damage from outside the
+    barrier. When you move, the barrier follows you.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018099724
+  modifiedTime: 1752018099724
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: RopfqJRhMw6VIWT3
+sort: 0
+_key: '!items!RopfqJRhMw6VIWT3'

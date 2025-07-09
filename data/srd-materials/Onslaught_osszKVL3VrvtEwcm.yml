@@ -1,0 +1,39 @@
+name: Onslaught
+type: item
+folder: el0bYlqo56yc815T
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 10 Blade Ability</h3><p>Recall Cost: 3</p><p>When you successfully
+    make an attack with your weapon, you never deal damage beneath a target's
+    Major damage threshold (the target always marks a minimum of 2 Hit Points).
+    Additionally, when a creature within your weapon's range deals damage to an
+    ally with an attack that doesn't include you, you can mark a Stress to force
+    them to make a Reaction Roll (15). On a failure, the target must mark a Hit
+    Point.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014234162
+  modifiedTime: 1752014234162
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: osszKVL3VrvtEwcm
+sort: 0
+_key: '!items!osszKVL3VrvtEwcm'

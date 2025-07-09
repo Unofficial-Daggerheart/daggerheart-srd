@@ -1,0 +1,35 @@
+name: Body Basher
+type: item
+folder: lzoBjeCUbqaBuSwB
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 2 Valor Ability</h3><p>Recall Cost: 1</p><p>When you make a
+    successful attack with a weapon in Melee range, add your Strength to your
+    damage roll.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018945618
+  modifiedTime: 1752018945618
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: m8eXkcrLRR9cfCYI
+sort: 0
+_key: '!items!m8eXkcrLRR9cfCYI'

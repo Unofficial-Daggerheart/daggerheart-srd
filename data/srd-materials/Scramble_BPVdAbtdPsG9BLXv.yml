@@ -1,0 +1,35 @@
+name: Scramble
+type: item
+folder: ipDMCdcFopx4MIm7
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 3 Blade Ability</h3><p>Recall Cost: 1</p><p>Once per rest, when a
+    creature within Melee range would deal damage to you, you can avoid the
+    attack and safely move out of Melee range of the enemy.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014275946
+  modifiedTime: 1752014275946
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: BPVdAbtdPsG9BLXv
+sort: 0
+_key: '!items!BPVdAbtdPsG9BLXv'

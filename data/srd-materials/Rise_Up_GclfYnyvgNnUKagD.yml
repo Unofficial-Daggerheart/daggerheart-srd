@@ -1,0 +1,35 @@
+name: Rise Up
+type: item
+folder: srodBVVZOzEq7rAu
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 6 Valor Ability</h3><p>Recall Cost: 2</p><p>Gain a bonus to your
+    Severe damage threshold equal to your Proficiency. When you take damage and
+    mark one or more Hit Points, you can clear a Stress.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752019027257
+  modifiedTime: 1752019027257
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: GclfYnyvgNnUKagD
+sort: 0
+_key: '!items!GclfYnyvgNnUKagD'

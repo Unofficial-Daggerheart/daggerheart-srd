@@ -1,0 +1,40 @@
+name: Restoration
+type: item
+folder: hMgdW7ICgENM4rS5
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 6 Splendor Spell</h3><p>Recall Cost: 2</p><p>After a long rest,
+    place a number of tokens equal to your Spellcast trait on this card. Touch a
+    creature and spend any number of tokens to clear 2 Hit Points or 2 Stress
+    for each token spent. You can also spend a token from this card when
+    touching a creature to clear the Vulnerable condition or heal a physical or
+    magical ailment (the GM might require additional tokens depending on the
+    strength of the ailment). When you take a long rest, clear all unspent
+    tokens.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018552341
+  modifiedTime: 1752018552341
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: qB6uET3YbjtmXDj7
+sort: 0
+_key: '!items!qB6uET3YbjtmXDj7'

@@ -1,0 +1,38 @@
+name: Conjure Swarm
+type: item
+folder: sYSBBlsxG80cvFkj
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 2 Sage Spell</h3><p>Recall Cost: 1</p><p>Tekaira Armored Beetles:
+    Mark a Stress to conjure armored beetles that encircle you. When you next
+    take damage, reduce the severity by one threshold. You can spend a Hope to
+    keep the beetles conjured after taking damage. Fire Flies: Make a Spellcast
+    Roll against all adversaries within Close range. Spend a Hope to deal 2d8+3
+    magic damage to targets you succeeded against.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752017986141
+  modifiedTime: 1752017986141
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: GAeetsz79wuaIo4t
+sort: 0
+_key: '!items!GAeetsz79wuaIo4t'

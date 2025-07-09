@@ -1,0 +1,39 @@
+name: Forager
+type: item
+folder: R3Dd5rt1CzK7lCXS
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 6 Sage Ability</h3><p>Recall Cost: 1</p><p>As an additional
+    downtime move you can choose, roll a d6 to see what you forage. Work with
+    the GM to describe it and add it to your inventory as a consumable. Your
+    party can carry up to five foraged consumables at a time. 1. A unique food
+    (Clear 2 Stress) 2. A beautiful relic (Gain 2 Hope) 3. An arcane rune (+2 to
+    a Spellcast Roll) 4. A healing vial (Clear 2 Hit Points) 5. A luck charm
+    (Reroll any die) 6. Choose one of the options above.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018018093
+  modifiedTime: 1752018018093
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: k3g03takB8eroo8H
+sort: 0
+_key: '!items!k3g03takB8eroo8H'

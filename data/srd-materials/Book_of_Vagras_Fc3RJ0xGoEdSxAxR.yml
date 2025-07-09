@@ -1,0 +1,42 @@
+name: Book of Vagras
+type: item
+folder: 8XDoSGFqTHN6M6tH
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 2 Codex Grimoire</h3><p>Recall Cost: 2</p><p>Runic Lock: Make a
+    Spellcast Roll (15) on an object you're touching that can close (such as a
+    lock, chest, or box). Once per rest on a success, you can lock the object so
+    it can only be opened by creatures of your choice. Someone with access to
+    magic and an hour of time to study the spell can break it. Arcane Door: When
+    you have no adversaries within Melee range, make a Spellcast Roll (13). On a
+    success, spend a Hope to create a portal from where you are to a point
+    within Far range you can see. It closes once a creature has passed through
+    it. Reveal: Make a Spellcast Roll. If there is anything magically hidden
+    within Close range, it is revealed.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015301711
+  modifiedTime: 1752015301711
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: Fc3RJ0xGoEdSxAxR
+sort: 0
+_key: '!items!Fc3RJ0xGoEdSxAxR'

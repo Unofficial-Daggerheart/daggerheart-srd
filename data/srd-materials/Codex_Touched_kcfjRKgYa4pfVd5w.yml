@@ -1,0 +1,37 @@
+name: Codex-Touched
+type: item
+folder: ZPERrQhLDo0CwUYm
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 7 Codex Feature</h3><p>Recall Cost: 2</p><p>When 4 or more of the
+    domain cards in your loadout are from the Codex domain, gain the following
+    benefits: You can mark a Stress to add your Proficiency to a Spellcast Roll.
+    Once per rest, replace this card with any card from your vault without
+    paying its Recall Cost.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015326896
+  modifiedTime: 1752015326896
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: kcfjRKgYa4pfVd5w
+sort: 0
+_key: '!items!kcfjRKgYa4pfVd5w'

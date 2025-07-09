@@ -1,0 +1,37 @@
+name: Book of Yarrow
+type: item
+folder: 8KUkDNG4X33bloXj
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 10 Codex Grimoire</h3><p>Recall Cost: 2</p><p>Timejammer: Make a
+    Spellcast Roll (18). On a success, time temporarily slows to a halt for
+    everyone within Far range except for you. It resumes the next time you make
+    an action roll that targets another creature. Magic Immunity: Spend 5 Hope
+    to become immune to magic damage until your next rest.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015316969
+  modifiedTime: 1752015316969
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: AToXSUXYM4opmM9M
+sort: 0
+_key: '!items!AToXSUXYM4opmM9M'

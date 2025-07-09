@@ -1,0 +1,36 @@
+name: Blink Out
+type: item
+folder: kcjLe2fB5sgql4v1
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 4 Arcana Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    (12). On a success, spend a Hope to teleport to another point you can see
+    within Far range. If any willing creatures are within Very Close range,
+    spend an additional Hope for each creature to bring them with you.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013423056
+  modifiedTime: 1752013423056
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: q7q5uuLMZLDxnXAT
+sort: 0
+_key: '!items!q7q5uuLMZLDxnXAT'

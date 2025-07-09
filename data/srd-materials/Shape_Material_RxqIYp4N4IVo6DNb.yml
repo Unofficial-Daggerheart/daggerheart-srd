@@ -1,0 +1,37 @@
+name: Shape Material
+type: item
+folder: TuhPp6Dh428YHIwG
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 5 Splendor Spell</h3><p>Recall Cost: 1</p><p>Spend a Hope to shape
+    a section of natural material you're touching (such as stone, ice, or wood)
+    to suit your purpose. The area of the material can be no larger than you.
+    For example, you can form a rudimentary tool or create a door. You can only
+    affect the material within Close range of where you're touching it.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018592110
+  modifiedTime: 1752018592110
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: RxqIYp4N4IVo6DNb
+sort: 0
+_key: '!items!RxqIYp4N4IVo6DNb'

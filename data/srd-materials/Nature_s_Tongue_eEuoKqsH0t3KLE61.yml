@@ -1,0 +1,39 @@
+name: Nature's Tongue
+type: item
+folder: Kal4GNb7dCuGk4DZ
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 1 Sage Ability</h3><p>Recall Cost: 0</p><p>You can speak the
+    language of the natural world. When you want to speak to the plants and
+    animals around you, make an Instinct Roll (12). On a success, they'll give
+    you the information they know. On a roll with Fear, their knowledge might be
+    limited or come at a cost. Additionally, before you make a Spellcast Roll
+    while within a natural environment, you can spend a Hope to gain a +2 bonus
+    to the roll.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018076905
+  modifiedTime: 1752018139071
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: eEuoKqsH0t3KLE61
+sort: 300000
+_key: '!items!eEuoKqsH0t3KLE61'

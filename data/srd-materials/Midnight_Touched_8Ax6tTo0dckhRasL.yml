@@ -1,0 +1,38 @@
+name: Midnight-Touched
+type: item
+folder: 52zGCyUgCoTzuxFU
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 7 Midnight Feature</h3><p>Recall Cost: 2</p><p>When 4 or more of
+    the domain cards in your loadout are from the Midnight domain, gain the
+    following benefits: Once per rest, when you have 0 Hope and the GM would
+    gain a Fear, you can gain a Hope instead. When you make a successful attack,
+    you can mark a Stress to add the result of your Fear Die to your damage
+    roll.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016060354
+  modifiedTime: 1752016060354
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 8Ax6tTo0dckhRasL
+sort: 0
+_key: '!items!8Ax6tTo0dckhRasL'

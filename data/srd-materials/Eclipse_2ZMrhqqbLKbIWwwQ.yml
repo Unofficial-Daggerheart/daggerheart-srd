@@ -1,0 +1,40 @@
+name: Eclipse
+type: item
+folder: Dggg96ArR2wumEvU
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 10 Midnight Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast
+    Roll (16). Once per long rest on a success, plunge the entire area within
+    Far range into complete darkness only you and your allies can see through.
+    Attack rolls have disadvantage when targeting you or an ally within this
+    shadow. Additionally, when you or an ally succeeds with Hope against an
+    adversary within this shadow, the target must mark a Stress. This spell
+    lasts until the GM spends a Fear on their turn to clear this effect or you
+    take Severe damage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016027595
+  modifiedTime: 1752016027595
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 2ZMrhqqbLKbIWwwQ
+sort: 0
+_key: '!items!2ZMrhqqbLKbIWwwQ'

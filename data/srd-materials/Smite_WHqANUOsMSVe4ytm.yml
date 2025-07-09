@@ -1,0 +1,36 @@
+name: Smite
+type: item
+folder: TuhPp6Dh428YHIwG
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 5 Splendor Spell</h3><p>Recall Cost: 2</p><p>Once per rest, spend
+    3 Hope to charge your powerful smite. When you next successfully attack with
+    a weapon, double the result of your damage roll. This attack deals magic
+    damage regardless of the weapon's damage type.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018606951
+  modifiedTime: 1752018606951
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: WHqANUOsMSVe4ytm
+sort: 0
+_key: '!items!WHqANUOsMSVe4ytm'

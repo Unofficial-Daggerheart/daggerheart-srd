@@ -1,0 +1,36 @@
+name: Blade-Touched
+type: item
+folder: JDgdlYLCCJsN5l1t
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 7 Blade Feature</h3><p>Recall Cost: 1</p><p>When 4 or more of the
+    domain cards in your loadout are from the Blade domain, gain the following
+    benefits: +2 bonus to your attack rolls. +4 bonus to your Severe damage
+    threshold.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014163869
+  modifiedTime: 1752014163869
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: sjTEekX2S6KAJk0M
+sort: 0
+_key: '!items!sjTEekX2S6KAJk0M'

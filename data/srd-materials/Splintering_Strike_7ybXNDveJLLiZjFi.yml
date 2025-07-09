@@ -1,0 +1,38 @@
+name: Splintering Strike
+type: item
+folder: wqqu8NkVC3QZqpTb
+img: systems/daggerheart/assets/domains/bone.svg
+system:
+  description: >-
+    <h3>Level 9 Bone Ability</h3><p>Recall Cost: 3</p><p>Spend a Hope and make
+    an attack against all adversaries within your weapon's range. Once per long
+    rest, on a success against any targets, roll your weapon's damage and
+    distribute that damage however you wish between the targets you succeeded
+    against. Before you deal damage to each target, roll an additional damage
+    die and add its result to the damage you deal to them.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014851841
+  modifiedTime: 1752014851841
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 7ybXNDveJLLiZjFi
+sort: 0
+_key: '!items!7ybXNDveJLLiZjFi'

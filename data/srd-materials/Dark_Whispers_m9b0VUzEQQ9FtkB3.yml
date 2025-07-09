@@ -1,0 +1,39 @@
+name: Dark Whispers
+type: item
+folder: wVQcwldyaUukh7iy
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 6 Midnight Spell</h3><p>Recall Cost: 0</p><p>You can speak into
+    the mind of any person with whom you've made physical contact. Once you've
+    opened a channel with them, they can speak back into your mind.
+    Additionally, you can mark a Stress to make a Spellcast Roll against them.
+    On a success, you can ask the GM one of the following questions and receive
+    an answer: Where are they? What are they doing? What are they afraid of?
+    What do they cherish most in the world?</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016020538
+  modifiedTime: 1752016020538
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: m9b0VUzEQQ9FtkB3
+sort: 0
+_key: '!items!m9b0VUzEQQ9FtkB3'

@@ -1,0 +1,36 @@
+name: Forceful Push
+type: item
+folder: jmQCnsTcFap2ztY4
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 1 Valor Ability</h3><p>Recall Cost: 0</p><p>Make an attack with
+    your primary weapon. On a success, deal damage and push the target to Close
+    range. On a success with Hope, add a d6 to your damage roll. Spend a Hope to
+    make the target temporarily Vulnerable.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018961567
+  modifiedTime: 1752018997641
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: BWRO2jLmIX0xYH9X
+sort: 300000
+_key: '!items!BWRO2jLmIX0xYH9X'

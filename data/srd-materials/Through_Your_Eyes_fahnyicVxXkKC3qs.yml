@@ -1,0 +1,36 @@
+name: Through Your Eyes
+type: item
+folder: yc2quanFmgtPhzxh
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 4 Grace Spell</h3><p>Recall Cost: 1</p><p>Choose a target within
+    Very Far range. You can see through their eyes and hear through their ears.
+    You can transition between using your own senses or the target's freely
+    until you cast another spell or until your next rest.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015744326
+  modifiedTime: 1752015744326
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: fahnyicVxXkKC3qs
+sort: 0
+_key: '!items!fahnyicVxXkKC3qs'

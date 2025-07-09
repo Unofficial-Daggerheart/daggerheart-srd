@@ -1,0 +1,36 @@
+name: Tactician
+type: item
+folder: ngC0J0PUTxDDZVPn
+img: systems/daggerheart/assets/domains/bone.svg
+system:
+  description: >-
+    <h3>Level 3 Bone Ability</h3><p>Recall Cost: 1</p><p>When you Help an Ally,
+    they can spend a Hope to add one of your Experiences to their roll alongside
+    your advantage die. When making a Tag Team Roll, you can roll a d20 as your
+    Hope Die.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014876995
+  modifiedTime: 1752014876995
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: ejXbDVuApSqonmJi
+sort: 0
+_key: '!items!ejXbDVuApSqonmJi'

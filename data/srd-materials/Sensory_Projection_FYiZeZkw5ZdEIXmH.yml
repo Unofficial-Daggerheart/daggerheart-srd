@@ -1,0 +1,39 @@
+name: Sensory Projection
+type: item
+folder: d3VcFxhzDXaqk0zP
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 9 Arcana Spell</h3><p>Recall Cost: 0</p><p>Once per rest, make a
+    Spellcast Roll (15). On a success, drop into a vision that lets you clearly
+    see and hear any place you have been before as though you are standing there
+    in this moment. You can move freely in this vision and are not constrained
+    by the physics or impediments of a physical body. This spell cannot be
+    detected by mundane or magical means. You drop out of this vision upon
+    taking damage or casting another spell.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013580078
+  modifiedTime: 1752013580078
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: FYiZeZkw5ZdEIXmH
+sort: 0
+_key: '!items!FYiZeZkw5ZdEIXmH'

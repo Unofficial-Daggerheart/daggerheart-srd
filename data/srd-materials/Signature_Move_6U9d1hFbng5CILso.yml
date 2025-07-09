@@ -1,0 +1,36 @@
+name: Signature Move
+type: item
+folder: HOFIiOxX1tbInnk6
+img: systems/daggerheart/assets/domains/bone.svg
+system:
+  description: >-
+    <h3>Level 5 Bone Ability</h3><p>Recall Cost: 1</p><p>Name and describe your
+    signature combat move. Once per rest, when you perform this signature move
+    as part of an action you're taking, you can roll a d20 as your Hope Die. On
+    a success, clear a Stress.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014840472
+  modifiedTime: 1752014840472
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 6U9d1hFbng5CILso
+sort: 0
+_key: '!items!6U9d1hFbng5CILso'

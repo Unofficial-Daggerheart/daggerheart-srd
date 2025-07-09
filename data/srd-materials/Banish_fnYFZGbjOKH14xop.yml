@@ -1,0 +1,40 @@
+name: Banish
+type: item
+folder: VgmCQJImkr6EOHDd
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 6 Codex Spell</h3><p>Recall Cost: 0</p><p>Make a Spellcast Roll
+    against a target within Close range. On a success, roll a number of d20s
+    equal to your Spellcast trait. The target must make a Reaction Roll with a
+    Difficulty equal to your highest result. On a success, the target must mark
+    a Stress but isn't banished. Once per rest on a failure, they are banished
+    from this realm. When the PCs roll with Fear, the Difficulty gains a -1
+    penalty and the target makes another reaction roll. On a success, they
+    return from banishment.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015196105
+  modifiedTime: 1752015196105
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: fnYFZGbjOKH14xop
+sort: 0
+_key: '!items!fnYFZGbjOKH14xop'

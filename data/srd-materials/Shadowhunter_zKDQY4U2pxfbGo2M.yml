@@ -1,0 +1,36 @@
+name: Shadowhunter
+type: item
+folder: s8pn3KLRe1vr59Pv
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 8 Midnight Ability</h3><p>Recall Cost: 2</p><p>Your prowess is
+    enhanced under the cover of shadow. While you're shrouded in low light or
+    darkness, you gain a +1 bonus to your Evasion and make attack rolls with
+    advantage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016096524
+  modifiedTime: 1752016096524
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: zKDQY4U2pxfbGo2M
+sort: 0
+_key: '!items!zKDQY4U2pxfbGo2M'

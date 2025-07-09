@@ -1,0 +1,37 @@
+name: Rain of Blades
+type: item
+folder: 5RlXz5I9Ix5pE4mo
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 1 Midnight Spell</h3><p>Recall Cost: 1</p><p>Spend a Hope to make
+    a Spellcast Roll and conjure throwing blades that strike out at all targets
+    within Very Close range. Targets you succeed against take d8+2 magic damage
+    using your Proficiency. If a target you hit is Vulnerable, they take an
+    extra 1d8 damage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016084378
+  modifiedTime: 1752016138699
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: vsUtE4hI4YeHsVxn
+sort: 300000
+_key: '!items!vsUtE4hI4YeHsVxn'

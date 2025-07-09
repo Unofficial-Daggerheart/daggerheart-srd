@@ -1,0 +1,39 @@
+name: Book of Vyola
+type: item
+folder: UF2E84EAr5mOrgsw
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 8 Codex Grimoire</h3><p>Recall Cost: 2</p><p>Memory Delve: Make a
+    Spellcast Roll against a target within Far range. On a success, peer into
+    the target's mind and ask the GM a question. The GM describes any memories
+    the target has pertaining to the answer. Shared Clarity: Once per long rest,
+    spend a Hope to choose two willing creatures. When one of them would mark
+    Stress, they can choose between the two of them who marks it. This spell
+    lasts until their next rest.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015308772
+  modifiedTime: 1752015308772
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: w8wACQUNt1kSEyT3
+sort: 0
+_key: '!items!w8wACQUNt1kSEyT3'

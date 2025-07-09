@@ -1,0 +1,38 @@
+name: Rune Ward
+type: item
+folder: LCOPN465N1xgj5Hb
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 1 Arcana Spell</h3><p>Recall Cost: 0</p><p>You have a deeply
+    personal trinket that can be infused with protective magic and held as a
+    ward by you or an ally. Describe what it is and why it's important to you.
+    The ward's holder can spend a Hope to reduce incoming damage by 1d8. If the
+    Ward Die result is 8, the ward's power ends after it reduces damage this
+    turn. It can be recharged for free on your next rest.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013553908
+  modifiedTime: 1752013618076
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: ONBzJslK1qH7f3ZF
+sort: 100000
+_key: '!items!ONBzJslK1qH7f3ZF'

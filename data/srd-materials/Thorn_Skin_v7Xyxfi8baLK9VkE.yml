@@ -1,0 +1,39 @@
+name: Thorn Skin
+type: item
+folder: e3ZMaFD7G3vR5BxC
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 5 Sage Spell</h3><p>Recall Cost: 1</p><p>Once per rest, spend a
+    Hope to sprout thorns all over your body. When you do, place a number of
+    tokens equal to your Spellcast trait on this card. When you take damage, you
+    can spend any number of tokens to roll that number of d6s. Add the results
+    together and reduce the incoming damage by that amount. If you're within
+    Melee range of the attacker, deal that amount of damage back to them. When
+    you take a rest, clear all unspent tokens.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018122830
+  modifiedTime: 1752018122830
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: v7Xyxfi8baLK9VkE
+sort: 0
+_key: '!items!v7Xyxfi8baLK9VkE'

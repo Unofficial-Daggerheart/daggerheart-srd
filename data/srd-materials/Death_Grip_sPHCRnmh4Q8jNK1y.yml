@@ -1,0 +1,40 @@
+name: Death Grip
+type: item
+folder: gJv72Jd0fCiWzBk5
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 4 Sage Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    against a target within Close range and choose one of the following options:
+    You pull the target into Melee range or pull yourself into Melee range of
+    them. You constrict the target and force them to mark 2 Stress. All
+    adversaries between you and the target must succeed on a Reaction Roll (13)
+    or be hit by vines, taking 3d6+2 physical damage. On a success, vines reach
+    out from your hands, causing the chosen effect and temporarily Restraining
+    the target.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018004979
+  modifiedTime: 1752018004979
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: sPHCRnmh4Q8jNK1y
+sort: 0
+_key: '!items!sPHCRnmh4Q8jNK1y'

@@ -1,0 +1,36 @@
+name: Arcana-Touched
+type: item
+folder: Mq1xIWFEpSCmgz4A
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 7 Arcana Feature</h3><p>Recall Cost: 2</p><p>When 4 or more of the
+    domain cards in your loadout are from the Arcana domain, gain the following
+    benefits: +1 bonus to your Spellcast Rolls. Once per rest, you can switch
+    the results of your Hope and Fear Dice.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013400319
+  modifiedTime: 1752013400319
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: jTdvJEzfJHdcQFC7
+sort: 0
+_key: '!items!jTdvJEzfJHdcQFC7'

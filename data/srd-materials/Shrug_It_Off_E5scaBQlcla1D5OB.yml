@@ -1,0 +1,35 @@
+name: Shrug It Off
+type: item
+folder: spQBw5FXodwBJAW9
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 7 Valor Ability</h3><p>Recall Cost: 1</p><p>When you would take
+    damage, you can mark a Stress to reduce the severity by one threshold. Then
+    roll a d6. On a result of 3 or less, place this card in your vault.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752019041531
+  modifiedTime: 1752019041531
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: E5scaBQlcla1D5OB
+sort: 0
+_key: '!items!E5scaBQlcla1D5OB'

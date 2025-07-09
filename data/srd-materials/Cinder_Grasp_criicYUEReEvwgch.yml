@@ -1,0 +1,37 @@
+name: Cinder Grasp
+type: item
+folder: CmAaq4HffUuduRmS
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 2 Arcana Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    against a target within Melee range. On a success, the target instantly
+    bursts into flames, takes 1d20+3 magic damage, and is temporarily lit On
+    Fire. When a creature acts while On Fire, they must take an extra 2d6 magic
+    damage if they are still On Fire at the end of their action.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013435160
+  modifiedTime: 1752013435160
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: criicYUEReEvwgch
+sort: 0
+_key: '!items!criicYUEReEvwgch'

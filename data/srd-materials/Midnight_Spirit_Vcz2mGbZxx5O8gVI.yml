@@ -1,0 +1,39 @@
+name: Midnight Spirit
+type: item
+folder: MXogHLL2QDNks3gP
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 2 Midnight Spell</h3><p>Recall Cost: 1</p><p>Spend a Hope to
+    summon a humanoid-sized spirit that can move or carry things for you until
+    your next rest. You can also send it to attack an adversary. When you do,
+    make a Spellcast Roll against a target within Very Far range. On a success,
+    the spirit moves into Melee range with that target. Roll a number of d6s
+    equal to your Spellcast trait and deal that much magic damage to the target.
+    The spirit then dissipates. You can only have one spirit at a time.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016052794
+  modifiedTime: 1752016052794
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: Vcz2mGbZxx5O8gVI
+sort: 0
+_key: '!items!Vcz2mGbZxx5O8gVI'

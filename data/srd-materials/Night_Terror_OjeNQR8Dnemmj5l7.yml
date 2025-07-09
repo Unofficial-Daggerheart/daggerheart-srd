@@ -1,0 +1,40 @@
+name: Night Terror
+type: item
+folder: Mn10DVTIvft7cUdr
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 9 Midnight Spell</h3><p>Recall Cost: 2</p><p>Once per long rest,
+    choose any targets within Very Close range to perceive you as a nightmarish
+    horror. The targets must succeed on a Reaction Roll (16) or become
+    temporarily Horrified. While Horrified, they're Vulnerable. Steal a number
+    of Fear from the GM equal to the number of targets that are Horrified (up to
+    the number of Fear in the GM's pool). Roll a number of d6s equal to the
+    number of stolen Fear and deal the total damage to each Horrified target.
+    Discard the stolen Fear.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016064741
+  modifiedTime: 1752016064741
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: OjeNQR8Dnemmj5l7
+sort: 0
+_key: '!items!OjeNQR8Dnemmj5l7'

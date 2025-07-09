@@ -1,0 +1,38 @@
+name: Tell No Lies
+type: item
+folder: WscnoldOasVaNmNO
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 2 Grace Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    against a target within Very Close range. On a success, they can't lie to
+    you while they remain within Close range, but they are not compelled to
+    speak. If you ask them a question and they refuse to answer, they must mark
+    a Stress and the effect ends. The target is typically unaware this spell has
+    been cast on them until it causes them to utter the truth.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015730816
+  modifiedTime: 1752015730816
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: axP0TFjpQXteU5jh
+sort: 0
+_key: '!items!axP0TFjpQXteU5jh'

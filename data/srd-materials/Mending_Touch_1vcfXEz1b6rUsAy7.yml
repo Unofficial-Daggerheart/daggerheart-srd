@@ -1,0 +1,39 @@
+name: Mending Touch
+type: item
+folder: s3E69u4zQMbVvsuL
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 1 Splendor Spell</h3><p>Recall Cost: 1</p><p>You lay your hands
+    upon a creature and channel healing magic to close their wounds. When you
+    can take a few minutes to focus on the target you're helping, you can spend
+    2 Hope to clear a Hit Point or a Stress on them. Once per long rest, when
+    you spend this healing time learning something new about them or revealing
+    something about yourself, you can clear 2 Hit Points or 2 Stress on them
+    instead.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018521212
+  modifiedTime: 1752018521212
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 1vcfXEz1b6rUsAy7
+sort: 0
+_key: '!items!1vcfXEz1b6rUsAy7'

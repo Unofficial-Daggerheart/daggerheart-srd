@@ -1,0 +1,36 @@
+name: Divination
+type: item
+folder: IsA8VNSMwTVslRbC
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 4 Splendor Spell</h3><p>Recall Cost: 1</p><p>Once per long rest,
+    spend 3 Hope to reach out to the forces beyond and ask one 'yes or no'
+    question about an event, person, place, or situation in the near future. For
+    a moment, the present falls away and you see the answer before you.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018475685
+  modifiedTime: 1752018475685
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 1CB5OaflvoXDJ51S
+sort: 0
+_key: '!items!1CB5OaflvoXDJ51S'

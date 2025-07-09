@@ -1,0 +1,35 @@
+name: Rage Up
+type: item
+folder: MRwfgJoSVoTOUVSL
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 6 Blade Ability</h3><p>Recall Cost: 1</p><p>Before you make an
+    attack, you can mark a Stress to gain a bonus to your damage roll equal to
+    twice your Strength. You can Rage Up twice per attack.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014242539
+  modifiedTime: 1752014242539
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: KI6r9gONB2VDHEEN
+sort: 0
+_key: '!items!KI6r9gONB2VDHEEN'

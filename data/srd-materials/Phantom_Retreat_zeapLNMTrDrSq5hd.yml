@@ -1,0 +1,37 @@
+name: Phantom Retreat
+type: item
+folder: TwsGI7NifaAqSeDW
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 5 Midnight Spell</h3><p>Recall Cost: 2</p><p>Spend a Hope to
+    activate Phantom Retreat where you're currently standing. Spend another Hope
+    at any time before your next rest to disappear from where you are and
+    reappear where you were standing when you activated Phantom Retreat. This
+    spell ends after you reappear.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016069748
+  modifiedTime: 1752016069748
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: zeapLNMTrDrSq5hd
+sort: 0
+_key: '!items!zeapLNMTrDrSq5hd'

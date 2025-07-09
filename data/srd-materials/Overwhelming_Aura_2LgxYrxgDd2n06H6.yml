@@ -1,0 +1,37 @@
+name: Overwhelming Aura
+type: item
+folder: onSPtzBEDo23C2Jx
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 9 Splendor Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast Roll
+    (15) to magically empower your aura. On a success, spend 2 Hope to make your
+    Presence equal to your Spellcast trait until your next long rest. While this
+    spell is active, an adversary must mark a Stress when they target you with
+    an attack.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018530780
+  modifiedTime: 1752018530780
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 2LgxYrxgDd2n06H6
+sort: 0
+_key: '!items!2LgxYrxgDd2n06H6'

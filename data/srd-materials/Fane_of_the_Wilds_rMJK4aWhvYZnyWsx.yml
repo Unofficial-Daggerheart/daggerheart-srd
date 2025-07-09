@@ -1,0 +1,39 @@
+name: Fane of the Wilds
+type: item
+folder: ujMRxnR7sE4XIQzQ
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 9 Sage Ability</h3><p>Recall Cost: 2</p><p>After a long rest,
+    place a number of tokens equal to the number of Sage domain cards in your
+    loadout and vault on this card. When you would make a Spellcast Roll, you
+    can spend any number of tokens after the roll to gain a +1 bonus for each
+    token spent. When you critically succeed on a Spellcast Roll for a Sage
+    domain spell, gain a token. When you take a long rest, clear all unspent
+    tokens.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018011698
+  modifiedTime: 1752018011698
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: rMJK4aWhvYZnyWsx
+sort: 0
+_key: '!items!rMJK4aWhvYZnyWsx'

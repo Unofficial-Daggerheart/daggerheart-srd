@@ -1,0 +1,37 @@
+name: Thought Delver
+type: item
+folder: Ub3cp1ZAfkNYQjVL
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 5 Grace Spell</h3><p>Recall Cost: 2</p><p>You can peek into the
+    minds of others. Spend a Hope to read the vague surface thoughts of a target
+    within Far range. Make a Spellcast Roll against the target to delve for
+    deeper, more hidden thoughts. On a roll with Fear, the target might, at the
+    GM's discretion, become aware that you're reading their thoughts.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015736962
+  modifiedTime: 1752015736962
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: Lt9Wgwf6NA2dqi4s
+sort: 0
+_key: '!items!Lt9Wgwf6NA2dqi4s'

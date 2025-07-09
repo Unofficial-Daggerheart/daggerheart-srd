@@ -1,0 +1,37 @@
+name: Healing Field
+type: item
+folder: gJv72Jd0fCiWzBk5
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 4 Sage Spell</h3><p>Recall Cost: 2</p><p>Once per long rest, you
+    can conjure a field of healing plants around you. Everywhere within Close
+    range of you bursts to life with vibrant nature, allowing you and all allies
+    in the area to clear a Hit Point. Spend 2 Hope to allow you and all allies
+    to clear 2 Hit Points instead.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018050880
+  modifiedTime: 1752018050880
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: pKUf2tre1YrDc4P4
+sort: 0
+_key: '!items!pKUf2tre1YrDc4P4'

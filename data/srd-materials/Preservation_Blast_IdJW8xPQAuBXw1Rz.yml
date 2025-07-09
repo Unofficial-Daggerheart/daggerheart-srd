@@ -1,0 +1,36 @@
+name: Preservation Blast
+type: item
+folder: kcjLe2fB5sgql4v1
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 4 Arcana Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast Roll
+    against all targets within Melee range. Targets you succeed against are
+    forced back to Far range and take d8+3 magic damage using your Spellcast
+    trait.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013536799
+  modifiedTime: 1752013536799
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: IdJW8xPQAuBXw1Rz
+sort: 0
+_key: '!items!IdJW8xPQAuBXw1Rz'

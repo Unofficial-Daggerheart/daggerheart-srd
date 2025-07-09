@@ -1,0 +1,39 @@
+name: Uncanny Disguise
+type: item
+folder: 5RlXz5I9Ix5pE4mo
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 1 Midnight Spell</h3><p>Recall Cost: 0</p><p>When you have a few
+    minutes to prepare, you can mark a Stress to don the facade of any humanoid
+    you can picture clearly in your mind. While disguised, you have advantage on
+    Presence Rolls to avoid scrutiny. Place a number of tokens equal to your
+    Spellcast trait on this card. When you take an action while disguised, spend
+    a token from this card. After the action that spends the last token is
+    resolved, the disguise drops.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016138645
+  modifiedTime: 1752016138699
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: huEd70UOdlO1OlGQ
+sort: 200000
+_key: '!items!huEd70UOdlO1OlGQ'

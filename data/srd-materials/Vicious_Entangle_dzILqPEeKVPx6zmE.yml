@@ -1,0 +1,37 @@
+name: Vicious Entangle
+type: item
+folder: Kal4GNb7dCuGk4DZ
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 1 Sage Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    against a target within Far range. On a success, roots and vines reach out
+    from the ground, dealing 1d8+1 physical damage and temporarily Restraining
+    the target. Additionally on a success, you can spend a Hope to temporarily
+    Restrain another adversary within Very Close range of your target.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018138932
+  modifiedTime: 1752018139071
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: dzILqPEeKVPx6zmE
+sort: 200000
+_key: '!items!dzILqPEeKVPx6zmE'

@@ -1,0 +1,37 @@
+name: Glyph of Nightfall
+type: item
+folder: 74fZFdvIQKM9tRFe
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 4 Midnight Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    against a target within Very Close range. On a success, spend a Hope to
+    conjure a dark glyph upon their body that exposes their weak points,
+    temporarily reducing the target's Difficulty by a value equal to your
+    Knowledge (minimum 1).</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016032382
+  modifiedTime: 1752016032382
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: UD727nzcVJCSpDPs
+sort: 0
+_key: '!items!UD727nzcVJCSpDPs'

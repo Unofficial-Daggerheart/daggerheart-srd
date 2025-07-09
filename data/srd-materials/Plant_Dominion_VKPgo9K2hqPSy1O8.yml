@@ -1,0 +1,37 @@
+name: Plant Dominion
+type: item
+folder: ujMRxnR7sE4XIQzQ
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 9 Sage Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    (18). Once per long rest on a success, you reshape the natural world,
+    changing the surrounding plant life anywhere within Far range of you. For
+    example, you can grow trees instantly, clear a path through dense vines, or
+    create a wall of roots.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018084613
+  modifiedTime: 1752018084613
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: VKPgo9K2hqPSy1O8
+sort: 0
+_key: '!items!VKPgo9K2hqPSy1O8'

@@ -1,0 +1,39 @@
+name: Towering Stalk
+type: item
+folder: eStm5AQuX2U6hWnu
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 3 Sage Spell</h3><p>Recall Cost: 1</p><p>Once per rest, you can
+    conjure a thick, twisting stalk within Close range that can be easily
+    climbed. Its height can grow up to Far range. Mark a Stress to use this
+    spell as an attack. Make a Spellcast Roll against an adversary or group of
+    adversaries within Close range. The erupting stalk lifts targets you succeed
+    against into the air and drops them, dealing d8 physical damage using your
+    Proficiency.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018128870
+  modifiedTime: 1752018128870
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: XEONDmtXpP2mYhdQ
+sort: 0
+_key: '!items!XEONDmtXpP2mYhdQ'

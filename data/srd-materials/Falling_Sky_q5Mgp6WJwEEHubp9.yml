@@ -1,0 +1,36 @@
+name: Falling Sky
+type: item
+folder: KhnXAecyKm2Hx2CX
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 10 Arcana Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    against all adversaries within Far range. Mark any number of Stress to make
+    shards of arcana rain down from above. Targets you succeed against take
+    1d20+2 magic damage for each Stress marked.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013501989
+  modifiedTime: 1752013501989
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: q5Mgp6WJwEEHubp9
+sort: 0
+_key: '!items!q5Mgp6WJwEEHubp9'

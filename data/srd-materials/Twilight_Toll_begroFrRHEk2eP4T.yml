@@ -1,0 +1,39 @@
+name: Twilight Toll
+type: item
+folder: Mn10DVTIvft7cUdr
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 9 Midnight Ability</h3><p>Recall Cost: 1</p><p>Choose a target
+    within Far range. When you succeed on an action roll against them that
+    doesn't result in making a damage roll, place a token on this card. When you
+    deal damage to this target, spend any number of tokens to add a d12 for each
+    token spent to your damage roll. You can only hold Twilight Toll on one
+    creature at a time. When you choose a new target or take a rest, clear all
+    unspent tokens.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016128711
+  modifiedTime: 1752016128711
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: begroFrRHEk2eP4T
+sort: 0
+_key: '!items!begroFrRHEk2eP4T'

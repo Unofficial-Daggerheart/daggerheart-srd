@@ -1,0 +1,37 @@
+name: Valor-Touched
+type: item
+folder: spQBw5FXodwBJAW9
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 7 Valor Feature</h3><p>Recall Cost: 1</p><p>When 4 or more of the
+    domain cards in your loadout are from the Valor domain, gain the following
+    benefits: +1 bonus to your Armor Score. When you take damage and mark one or
+    more Hit Points without marking an Armor Slot, you can clear an Armor
+    Slot.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752019065088
+  modifiedTime: 1752019065088
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: gNZJGW4Nc5GjB4Zs
+sort: 0
+_key: '!items!gNZJGW4Nc5GjB4Zs'

@@ -1,0 +1,36 @@
+name: Frenzy
+type: item
+folder: JkrD0fNDSH8w6q74
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 8 Blade Ability</h3><p>Recall Cost: 3</p><p>Once per long rest,
+    you can go into a Frenzy until there are no more adversaries within sight.
+    While Frenzied, you can't use Armor Slots, and you gain a +10 bonus to your
+    damage rolls and a +8 bonus to your Severe damage threshold.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014196180
+  modifiedTime: 1752014196180
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 6hZuC8ol3xsuDPe7
+sort: 0
+_key: '!items!6hZuC8ol3xsuDPe7'

@@ -1,0 +1,37 @@
+name: Splendor-Touched
+type: item
+folder: BPJsQTao4fxbcUW4
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 7 Splendor Feature</h3><p>Recall Cost: 2</p><p>When 4 or more of
+    the domain cards in your loadout are from the Splendor domain, gain the
+    following benefits: +3 bonus to your Severe damage threshold. Once per long
+    rest, when incoming damage would require you to mark a number of Hit Points,
+    you can choose to mark that much Stress or spend that much Hope instead.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018613882
+  modifiedTime: 1752018613882
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: bradLyEJLV9bGDgT
+sort: 0
+_key: '!items!bradLyEJLV9bGDgT'

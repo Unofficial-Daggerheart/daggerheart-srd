@@ -1,0 +1,40 @@
+name: Safe Haven
+type: item
+folder: UF2E84EAr5mOrgsw
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 8 Codex Spell</h3><p>Recall Cost: 3</p><p>When you have a few
+    minutes of calm to focus, you can spend 2 Hope to summon your Safe Haven, a
+    large interdimensional home where you and your allies can take shelter. When
+    you do, a magical door appears somewhere within Close range. Only creatures
+    of your choice can enter. Once inside, you can make the entrance invisible.
+    You and anyone else inside can always exit. Once you leave, the doorway must
+    be summoned again. When you take a rest within your own Safe Haven, you can
+    choose an additional downtime move.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015344412
+  modifiedTime: 1752015344412
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: RqHSRtRXPr9pL8AE
+sort: 0
+_key: '!items!RqHSRtRXPr9pL8AE'

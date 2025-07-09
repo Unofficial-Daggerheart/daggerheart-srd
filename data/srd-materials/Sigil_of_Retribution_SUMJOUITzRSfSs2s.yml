@@ -1,0 +1,39 @@
+name: Sigil of Retribution
+type: item
+folder: VgmCQJImkr6EOHDd
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 6 Codex Spell</h3><p>Recall Cost: 2</p><p>Mark an adversary within
+    Close range with a sigil of retribution. The GM gains a Fear. When the
+    marked adversary deals damage to you or your allies, place a d8 on this
+    card. You can hold a number of d8s equal to your level. When you
+    successfully attack the marked adversary, roll the dice on this card and add
+    the total to your damage roll, then clear the dice. This effect ends when
+    the marked adversary is defeated or you cast Sigil of Retribution again.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015351653
+  modifiedTime: 1752015351653
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: SUMJOUITzRSfSs2s
+sort: 0
+_key: '!items!SUMJOUITzRSfSs2s'

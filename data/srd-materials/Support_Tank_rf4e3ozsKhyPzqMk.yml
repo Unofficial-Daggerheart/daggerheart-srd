@@ -1,0 +1,35 @@
+name: Support Tank
+type: item
+folder: ZZNzqurB6enGzp3V
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 4 Valor Ability</h3><p>Recall Cost: 2</p><p>When a creature within
+    Close range fails a roll, you can spend 2 Hope to let them reroll their Hope
+    or Fear Die.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752019046915
+  modifiedTime: 1752019046915
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: rf4e3ozsKhyPzqMk
+sort: 0
+_key: '!items!rf4e3ozsKhyPzqMk'

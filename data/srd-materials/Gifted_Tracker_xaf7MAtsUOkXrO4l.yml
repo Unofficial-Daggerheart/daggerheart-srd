@@ -1,0 +1,39 @@
+name: Gifted Tracker
+type: item
+folder: Kal4GNb7dCuGk4DZ
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 1 Sage Ability</h3><p>Recall Cost: 0</p><p>When you're tracking a
+    specific creature or group of creatures based on signs of their passage, you
+    can spend any number of Hope and ask the GM that many questions from the
+    following list: What direction did they go? How long ago did they pass
+    through? What were they doing in this location? How many of them were here?
+    When you encounter creatures you've tracked in this way, gain a +1 bonus to
+    your Evasion against them.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018043453
+  modifiedTime: 1752018139071
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: xaf7MAtsUOkXrO4l
+sort: 100000
+_key: '!items!xaf7MAtsUOkXrO4l'

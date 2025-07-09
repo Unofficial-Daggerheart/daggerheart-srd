@@ -1,0 +1,40 @@
+name: Stunning Sunlight
+type: item
+folder: LyP7CeMlH2Jl4ZZT
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 8 Splendor Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast Roll
+    to unleash powerful rays of burning sunlight against all adversaries in
+    front of you within Far range. On a success, spend any number of Hope and
+    force that many targets you succeeded against to make a Reaction Roll (14).
+    Targets who succeed take 3d20+3 magic damage. Targets who fail take 4d20+5
+    magic damage and are temporarily Stunned. While Stunned, they can't use
+    reactions and can't take any other actions until they clear this
+    condition.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018621634
+  modifiedTime: 1752018621634
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 6wz8NqbGEIxycAPw
+sort: 0
+_key: '!items!6wz8NqbGEIxycAPw'

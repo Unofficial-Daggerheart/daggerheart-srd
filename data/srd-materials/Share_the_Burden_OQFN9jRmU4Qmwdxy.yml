@@ -1,0 +1,37 @@
+name: Share the Burden
+type: item
+folder: 9SX9xJhznDlaPfYc
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 6 Grace Spell</h3><p>Recall Cost: 0</p><p>Once per rest, take on
+    the Stress from a willing creature within Melee range. The target describes
+    what intimate knowledge or emotions telepathically leak from their mind in
+    this moment between you. Transfer any number of their marked Stress to you,
+    then gain a Hope for each Stress transferred.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015716045
+  modifiedTime: 1752015716045
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: OQFN9jRmU4Qmwdxy
+sort: 0
+_key: '!items!OQFN9jRmU4Qmwdxy'

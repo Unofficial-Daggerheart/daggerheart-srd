@@ -1,0 +1,41 @@
+name: Book of Exota
+type: item
+folder: cWgtiqpmIPxJijeZ
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 4 Codex Grimoire</h3><p>Recall Cost: 3</p><p>Repudiate: You can
+    interrupt a magical effect taking place. Make a reaction roll using your
+    Spellcast trait. Once per rest on a success, the effect stops and any
+    consequences are avoided. Create Construct: Spend a Hope to choose a group
+    of objects around you and create an animated construct from them that obeys
+    basic commands. Make a Spellcast Roll to command them to take action. When
+    necessary, they share your Evasion and traits and their attacks deal 2d10+3
+    physical damage. You can only maintain one construct at a time, and they
+    fall apart when they take any amount of damage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015206682
+  modifiedTime: 1752015206682
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 5kyXbhVsdFAZyBzt
+sort: 0
+_key: '!items!5kyXbhVsdFAZyBzt'

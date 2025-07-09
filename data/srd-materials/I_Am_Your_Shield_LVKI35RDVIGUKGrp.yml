@@ -1,0 +1,36 @@
+name: I Am Your Shield
+type: item
+folder: jmQCnsTcFap2ztY4
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 1 Valor Ability</h3><p>Recall Cost: 1</p><p>When a creature within
+    Close range would take damage, you can mark a Stress to take the damage
+    instead. You can then mark any number of Armor Slots to reduce the severity
+    of the damage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018997572
+  modifiedTime: 1752018997641
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: LVKI35RDVIGUKGrp
+sort: 200000
+_key: '!items!LVKI35RDVIGUKGrp'

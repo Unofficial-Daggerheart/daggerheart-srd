@@ -1,0 +1,36 @@
+name: Invigoration
+type: item
+folder: yN7LoGsYD9v6bW7g
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 10 Splendor Spell</h3><p>Recall Cost: 3</p><p>When you or an ally
+    within Close range has used a feature that has an exhaustion limit (such as
+    once per rest or once per session), you can spend any number of Hope and
+    roll that many d6s. If any roll a 6, the feature can be used again.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018502325
+  modifiedTime: 1752018502325
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: xb4ISHbY8QaeKIHJ
+sort: 0
+_key: '!items!xb4ISHbY8QaeKIHJ'

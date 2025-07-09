@@ -1,0 +1,38 @@
+name: Astral Projection
+type: item
+folder: 85jIBsBc1gKdL0je
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 8 Grace Spell</h3><p>Recall Cost: 0</p><p>Once per long rest, mark
+    a Stress to create a projected copy of yourself that can appear anywhere
+    you've been before. You can see and hear through the projection as though it
+    were you and affect the world as though you were there. A creature
+    investigating the projection can tell it's of magical origin. This effect
+    lasts until your next rest or your projection takes any damage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015611414
+  modifiedTime: 1752015611414
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: holyJpXhsUU7cng3
+sort: 0
+_key: '!items!holyJpXhsUU7cng3'

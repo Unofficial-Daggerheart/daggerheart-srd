@@ -1,0 +1,37 @@
+name: Champion's Edge
+type: item
+folder: 3ARDsW15vpEHPrk2
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 5 Blade Ability</h3><p>Recall Cost: 1</p><p>When you critically
+    succeed on an attack, you can spend up to 3 Hope and choose one of the
+    following options for each Hope spent: You clear a Hit Point. You clear an
+    Armor Slot. The target must mark an additional Hit Point. You can't choose
+    the same option more than once.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014172671
+  modifiedTime: 1752014172671
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: asbvqspPmmRNNM8z
+sort: 0
+_key: '!items!asbvqspPmmRNNM8z'

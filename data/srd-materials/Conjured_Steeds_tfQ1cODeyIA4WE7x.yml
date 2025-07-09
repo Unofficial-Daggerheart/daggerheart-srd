@@ -1,0 +1,39 @@
+name: Conjured Steeds
+type: item
+folder: R3Dd5rt1CzK7lCXS
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 6 Sage Spell</h3><p>Recall Cost: 0</p><p>Spend any number of Hope
+    to conjure that many magical steeds (such as horses, camels, or elephants)
+    that you and your allies can ride until your next long rest or the steeds
+    take any damage. The steeds double your land speed while traveling and, when
+    in danger, allow you to move within Far range without having to roll.
+    Creatures riding a steed gain a -2 penalty to attack rolls and a +2 bonus to
+    damage rolls.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752017992566
+  modifiedTime: 1752017992566
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: tfQ1cODeyIA4WE7x
+sort: 0
+_key: '!items!tfQ1cODeyIA4WE7x'

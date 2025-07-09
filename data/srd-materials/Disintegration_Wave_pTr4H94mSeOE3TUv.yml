@@ -1,0 +1,37 @@
+name: Disintegration Wave
+type: item
+folder: HByQnFL4mriJxlpM
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 9 Codex Spell</h3><p>Recall Cost: 4</p><p>Make a Spellcast Roll
+    (18). Once per long rest on a success, the GM tells you which adversaries
+    within Far range have a Difficulty of 18 or lower. Mark a Stress for each
+    one you wish to hit with this spell. They are killed and can't come back to
+    life by any means.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015333153
+  modifiedTime: 1752015333153
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: pTr4H94mSeOE3TUv
+sort: 0
+_key: '!items!pTr4H94mSeOE3TUv'

@@ -1,0 +1,38 @@
+name: Mass Enrapture
+type: item
+folder: 85jIBsBc1gKdL0je
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 8 Grace Spell</h3><p>Recall Cost: 3</p><p>Make a Spellcast Roll
+    against all targets within Far range. Targets you succeed against become
+    temporarily Enraptured. While Enraptured, a target's attention is fixed on
+    you, narrowing their field of view and drowning out any sound but your
+    voice. Mark a Stress to force all Enraptured targets to mark a Stress,
+    ending this spell.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015675644
+  modifiedTime: 1752015675644
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: bM5lacKHFN5cN3L3
+sort: 0
+_key: '!items!bM5lacKHFN5cN3L3'

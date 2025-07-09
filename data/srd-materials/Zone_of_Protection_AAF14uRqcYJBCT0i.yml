@@ -1,0 +1,39 @@
+name: Zone of Protection
+type: item
+folder: hMgdW7ICgENM4rS5
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 6 Splendor Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast Roll
+    (16). Once per long rest on a success, choose a point within Far range and
+    create a visible zone of protection there for all allies within Very Close
+    range of that point. When you do, place a d6 on this card with the 1 value
+    facing up. When an ally in this zone takes damage, they reduce it by the
+    die's value. You then increase the die's value by one. When the die's value
+    would exceed 6, this effect ends.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018635171
+  modifiedTime: 1752018635171
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: AAF14uRqcYJBCT0i
+sort: 0
+_key: '!items!AAF14uRqcYJBCT0i'

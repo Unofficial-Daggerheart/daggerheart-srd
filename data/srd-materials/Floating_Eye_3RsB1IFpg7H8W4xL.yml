@@ -1,0 +1,38 @@
+name: Floating Eye
+type: item
+folder: CmAaq4HffUuduRmS
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 2 Arcana Spell</h3><p>Recall Cost: 0</p><p>Spend a Hope to create
+    a single, small floating orb that you can move anywhere within Very Far
+    range. While this spell is active, you can see through the orb as though
+    you're looking out from its position. You can transition between using your
+    own senses and seeing through the orb freely. If the orb takes damage or
+    moves out of range, the spell ends.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013518778
+  modifiedTime: 1752013518778
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 3RsB1IFpg7H8W4xL
+sort: 0
+_key: '!items!3RsB1IFpg7H8W4xL'

@@ -1,0 +1,41 @@
+name: Book of Sitil
+type: item
+folder: 8XDoSGFqTHN6M6tH
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 2 Codex Grimoire</h3><p>Recall Cost: 2</p><p>Adjust Appearance:
+    You magically shift your appearance and clothing to avoid recognition.
+    Parallela: Spend 2 Hope to cast this spell on yourself or an ally within
+    Close range. The next time the target makes an attack, they can hit an
+    additional target within range that their attack roll would succeed against.
+    You can only hold this spell on one creature at a time. Illusion: Make a
+    Spellcast Roll (14). On a success, create a temporary visual illusion no
+    larger than you within Close range that lasts for as long as you look at it.
+    It holds up to scrutiny until an observer is within Melee range.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015286253
+  modifiedTime: 1752015286253
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: BWjv9mljxL8VKwsL
+sort: 0
+_key: '!items!BWjv9mljxL8VKwsL'

@@ -1,0 +1,36 @@
+name: Wall Walk
+type: item
+folder: LCOPN465N1xgj5Hb
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 1 Arcana Spell</h3><p>Recall Cost: 1</p><p>Spend a Hope to allow a
+    creature you can touch to climb on walls and ceilings as easily as walking
+    on the ground. This lasts until the end of the scene or you cast Wall Walk
+    again.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013617997
+  modifiedTime: 1752013618076
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: VLQd6d6g0toVEkOu
+sort: 200000
+_key: '!items!VLQd6d6g0toVEkOu'

@@ -1,0 +1,35 @@
+name: Armorer
+type: item
+folder: 5zYDNVIkZd1bQck8
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 5 Valor Ability</h3><p>Recall Cost: 1</p><p>While you're wearing
+    armor, gain a +1 bonus to your Armor Score. When you repair armor during a
+    rest, all allies clear an Armor Slot.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018936159
+  modifiedTime: 1752018936159
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: AA5dlwx8c680NNk8
+sort: 0
+_key: '!items!AA5dlwx8c680NNk8'

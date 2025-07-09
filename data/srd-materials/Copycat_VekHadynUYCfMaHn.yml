@@ -1,0 +1,37 @@
+name: Copycat
+type: item
+folder: cx9H9yCS8xxF1gfo
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 9 Grace Spell</h3><p>Recall Cost: 3</p><p>Once per long rest, this
+    card can mimic the features of another domain card of level 8 or lower in
+    another player's loadout. Spend Hope equal to half the card's level to gain
+    access to the feature. It lasts until your next rest or they place the card
+    in their vault.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015617264
+  modifiedTime: 1752015617264
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: VekHadynUYCfMaHn
+sort: 0
+_key: '!items!VekHadynUYCfMaHn'

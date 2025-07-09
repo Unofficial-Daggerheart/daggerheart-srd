@@ -1,0 +1,39 @@
+name: Force of Nature
+type: item
+folder: C6qnqG5r1eW3c5AW
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 10 Sage Spell</h3><p>Recall Cost: 2</p><p>Mark a Stress to
+    transform into a hulking nature spirit, gaining the following benefits: When
+    you succeed on an attack or Spellcast Roll, gain a +10 bonus to the damage
+    roll. When you deal enough damage to defeat a creature within Close range,
+    you absorb them and clear an Armor Slot. You can't be Restrained. Before you
+    make an action roll, you must spend a Hope. If you can't, you revert to your
+    normal form.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018023877
+  modifiedTime: 1752018023877
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 5IXqaK7ACJ2hNdiT
+sort: 0
+_key: '!items!5IXqaK7ACJ2hNdiT'

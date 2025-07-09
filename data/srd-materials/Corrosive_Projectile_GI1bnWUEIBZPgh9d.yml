@@ -1,0 +1,37 @@
+name: Corrosive Projectile
+type: item
+folder: eStm5AQuX2U6hWnu
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 3 Sage Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    against a target within Far range. On a success, deal d6+4 magic damage
+    using your Proficiency. Additionally, mark 2 or more Stress to make them
+    permanently Corroded. While a target is Corroded, they gain a -1 penalty to
+    their Difficulty for every 2 Stress you spent. This condition can stack.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752017998554
+  modifiedTime: 1752017998554
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: GI1bnWUEIBZPgh9d
+sort: 0
+_key: '!items!GI1bnWUEIBZPgh9d'

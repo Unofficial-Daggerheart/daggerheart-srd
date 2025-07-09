@@ -1,0 +1,35 @@
+name: A Soldier's Bond
+type: item
+folder: c3eQsMOT3hiqqN3Q
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 2 Blade Ability</h3><p>Recall Cost: 1</p><p>Once per long rest,
+    when you compliment someone or ask them about something they're good at, you
+    can both gain 3 Hope.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014136266
+  modifiedTime: 1752014136266
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: tCgbwokinbmxef9G
+sort: 0
+_key: '!items!tCgbwokinbmxef9G'

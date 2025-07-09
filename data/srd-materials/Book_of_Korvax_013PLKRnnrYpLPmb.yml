@@ -1,0 +1,40 @@
+name: Book of Korvax
+type: item
+folder: xKdPAiU4upEnVFp0
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 3 Codex Grimoire</h3><p>Recall Cost: 2</p><p>Levitation: Make a
+    Spellcast Roll to temporarily lift a target you can see up into the air and
+    move them within Close range of their original position. Recant: Spend a
+    Hope to force a target within Melee range to make a Reaction Roll (15). On a
+    failure, they forget the last minute of your conversation. Rune Circle: Mark
+    a Stress to create a temporary magical circle on the ground where you stand.
+    All adversaries within Melee range, or who enter Melee range, take 2d12+4
+    magic damage and are knocked back to Very Close range.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015256991
+  modifiedTime: 1752015256991
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 013PLKRnnrYpLPmb
+sort: 0
+_key: '!items!013PLKRnnrYpLPmb'

@@ -1,0 +1,36 @@
+name: Arcane Reflection
+type: item
+folder: KHhn5UbIbW3wzRkn
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 8 Arcana Spell</h3><p>Recall Cost: 1</p><p>When you would take
+    magic damage, you can spend any number of Hope to roll that many d6s. If any
+    roll a 6, the attack is reflected back to the caster, dealing the damage to
+    them instead.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013415788
+  modifiedTime: 1752013415788
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: iIwIakboMN3cOgk0
+sort: 0
+_key: '!items!iIwIakboMN3cOgk0'

@@ -1,0 +1,38 @@
+name: Veil of Night
+type: item
+folder: Uh6M41jVEdhnS68W
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 3 Midnight Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    (13). On a success, you can create a temporary curtain of darkness between
+    two points within Far range. Only you can see through this darkness. You're
+    considered Hidden to adversaries on the other side of the veil, and you have
+    advantage on attacks you make through the darkness. The veil remains until
+    you cast another spell.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016156779
+  modifiedTime: 1752016156779
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: UtdzXnTiqB5JaNc3
+sort: 0
+_key: '!items!UtdzXnTiqB5JaNc3'

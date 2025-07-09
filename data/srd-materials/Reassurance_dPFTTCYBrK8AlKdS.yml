@@ -1,0 +1,36 @@
+name: Reassurance
+type: item
+folder: s3E69u4zQMbVvsuL
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 1 Splendor Ability</h3><p>Recall Cost: 0</p><p>Once per rest,
+    after an ally attempts an action roll but before the consequences take
+    place, you can offer assistance or words of support. When you do, your ally
+    can reroll their dice.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018540735
+  modifiedTime: 1752018540735
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: dPFTTCYBrK8AlKdS
+sort: 0
+_key: '!items!dPFTTCYBrK8AlKdS'

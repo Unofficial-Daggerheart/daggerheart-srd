@@ -1,0 +1,35 @@
+name: Healing Strike
+type: item
+folder: BPJsQTao4fxbcUW4
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 7 Splendor Spell</h3><p>Recall Cost: 1</p><p>When you deal damage
+    to an adversary, you can spend 2 Hope to clear a Hit Point on an ally within
+    Close range.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018492823
+  modifiedTime: 1752018492823
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: m1UB6tQqpJod6J1L
+sort: 0
+_key: '!items!m1UB6tQqpJod6J1L'

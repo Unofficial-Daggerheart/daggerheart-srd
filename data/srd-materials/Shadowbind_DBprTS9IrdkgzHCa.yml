@@ -1,0 +1,35 @@
+name: Shadowbind
+type: item
+folder: MXogHLL2QDNks3gP
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 2 Midnight Spell</h3><p>Recall Cost: 0</p><p>Make a Spellcast Roll
+    against all adversaries within Very Close range. Targets you succeed against
+    are temporarily Restrained as their shadow binds them in place.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016089535
+  modifiedTime: 1752016089535
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: DBprTS9IrdkgzHCa
+sort: 0
+_key: '!items!DBprTS9IrdkgzHCa'

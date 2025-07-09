@@ -1,0 +1,36 @@
+name: Deadly Focus
+type: item
+folder: K3yb5Npctfz19CZZ
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 4 Blade Ability</h3><p>Recall Cost: 2</p><p>Once per rest, you can
+    apply all your focus toward a target of your choice. Until you attack
+    another creature, you defeat the target, or the battle ends, gain a +1 bonus
+    to your Proficiency.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014183284
+  modifiedTime: 1752014183284
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: jxnGpqPfR4S4Xkx8
+sort: 0
+_key: '!items!jxnGpqPfR4S4Xkx8'

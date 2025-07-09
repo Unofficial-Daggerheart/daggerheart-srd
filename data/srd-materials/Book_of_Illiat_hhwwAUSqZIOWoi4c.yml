@@ -1,0 +1,41 @@
+name: Book of Illiat
+type: item
+folder: AS65lpt7Ax9LoEXd
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 1 Codex Grimoire</h3><p>Recall Cost: 2</p><p>Slumber: Make a
+    Spellcast Roll against a target within Very Close range. On a success,
+    they're Asleep until they take damage or the GM spends a Fear on their turn
+    to clear this condition. Arcane Barrage: Once per rest, spend any number of
+    Hope and shoot magical projectiles that strike a target of your choice
+    within Close range. Roll a number of d6s equal to the Hope spent and deal
+    that much magic damage to the target. Telepathy: Spend a Hope to open a line
+    of mental communication with one target you can see. This connection lasts
+    until your next rest or you cast Telepathy again.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015251059
+  modifiedTime: 1752015293726
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: hhwwAUSqZIOWoi4c
+sort: 300000
+_key: '!items!hhwwAUSqZIOWoi4c'

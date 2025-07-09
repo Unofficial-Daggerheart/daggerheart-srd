@@ -1,0 +1,38 @@
+name: Words of Discord
+type: item
+folder: Ub3cp1ZAfkNYQjVL
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 5 Grace Spell</h3><p>Recall Cost: 1</p><p>Whisper words of discord
+    to an adversary within Melee range and make a Spellcast Roll (13). On a
+    success, the target must mark a Stress and make an attack against another
+    adversary instead of against you or your allies. Once this attack is over,
+    the target realizes what happened. The next time you cast Words of Discord
+    on them, gain a -5 penalty to the Spellcast Roll.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015759031
+  modifiedTime: 1752015759031
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 3OZbnBlKPbiVUfS0
+sort: 0
+_key: '!items!3OZbnBlKPbiVUfS0'

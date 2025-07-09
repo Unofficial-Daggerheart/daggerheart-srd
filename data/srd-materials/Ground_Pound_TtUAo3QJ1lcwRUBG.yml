@@ -1,0 +1,37 @@
+name: Ground Pound
+type: item
+folder: 2N3j0hkT3G7KYkET
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 8 Valor Ability</h3><p>Recall Cost: 2</p><p>Spend 2 Hope to slam
+    the ground and make a Strength Roll against all targets within Very Close
+    range. On a success, knock them back to Far range and force them to make a
+    Reaction Roll (17). Targets who fail take 4d10+8 physical damage. Targets
+    who succeed take half damage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018983862
+  modifiedTime: 1752018983862
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: TtUAo3QJ1lcwRUBG
+sort: 0
+_key: '!items!TtUAo3QJ1lcwRUBG'

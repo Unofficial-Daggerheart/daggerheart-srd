@@ -1,0 +1,35 @@
+name: Pick and Pull
+type: item
+folder: 5RlXz5I9Ix5pE4mo
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 1 Midnight Ability</h3><p>Recall Cost: 0</p><p>You have advantage
+    on action rolls to pick nonmagical locks, disarm nonmagical traps, or steal
+    items from a target (either through stealth or by force).</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016077408
+  modifiedTime: 1752016138699
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: T87Vkz1nipf0bREP
+sort: 100000
+_key: '!items!T87Vkz1nipf0bREP'

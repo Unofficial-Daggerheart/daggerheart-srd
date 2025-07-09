@@ -1,0 +1,40 @@
+name: Forest Sprites
+type: item
+folder: vjt5805KGhpEtwqn
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 8 Sage Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast Roll
+    (13). On a success, spend any number of Hope to create an equal number of
+    small forest sprites who appear at points you choose within Far range,
+    providing the following benefits: Your allies gain a +3 bonus to attack
+    rolls against adversaries within Melee range of a sprite. An ally who marks
+    an Armor Slot while within Melee range of a sprite can mark an additional
+    Armor Slot. A sprite vanishes after granting a benefit or taking any
+    damage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018032161
+  modifiedTime: 1752018032161
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: QYt8YnvHNoZigCUr
+sort: 0
+_key: '!items!QYt8YnvHNoZigCUr'

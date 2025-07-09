@@ -1,0 +1,35 @@
+name: Deft Deceiver
+type: item
+folder: 12CnTBqkZBLaXW1f
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 1 Grace Ability</h3><p>Recall Cost: 0</p><p>Spend a Hope to gain
+    advantage on a roll to deceive or trick someone into believing a lie you
+    tell them.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015623307
+  modifiedTime: 1752015663160
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: YLPLg3ENQHa92SMe
+sort: 100000
+_key: '!items!YLPLg3ENQHa92SMe'

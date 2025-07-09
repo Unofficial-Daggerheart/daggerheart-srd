@@ -1,0 +1,37 @@
+name: Stealth Expertise
+type: item
+folder: 74fZFdvIQKM9tRFe
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 4 Midnight Ability</h3><p>Recall Cost: 0</p><p>When you roll with
+    Fear while attempting to move unnoticed through a dangerous area, you can
+    mark a Stress to roll with Hope instead. If an ally within Close range is
+    also attempting to move unnoticed and rolls with Fear, you can mark a Stress
+    to change their result to a roll with Hope.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016119451
+  modifiedTime: 1752016119451
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: tNanJ159rVKXGxnf
+sort: 0
+_key: '!items!tNanJ159rVKXGxnf'

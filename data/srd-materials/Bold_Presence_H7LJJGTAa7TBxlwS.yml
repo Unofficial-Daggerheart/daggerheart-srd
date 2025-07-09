@@ -1,0 +1,35 @@
+name: Bold Presence
+type: item
+folder: lzoBjeCUbqaBuSwB
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 2 Valor Ability</h3><p>Recall Cost: 0</p><p>Spend a Hope to add
+    your Strength to a Presence Roll. Once per rest, when you would gain a
+    condition, you can avoid it by invoking your force of personality.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018950292
+  modifiedTime: 1752018950292
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: H7LJJGTAa7TBxlwS
+sort: 0
+_key: '!items!H7LJJGTAa7TBxlwS'

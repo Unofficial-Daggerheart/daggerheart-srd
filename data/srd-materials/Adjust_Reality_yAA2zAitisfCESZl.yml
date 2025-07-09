@@ -1,0 +1,36 @@
+name: Adjust Reality
+type: item
+folder: KhnXAecyKm2Hx2CX
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 10 Arcana Spell</h3><p>Recall Cost: 1</p><p>After you or a willing
+    ally make any roll, you can spend 5 Hope to change the numerical result of
+    that roll to a result of your choice instead. The result must be plausible
+    within the range of the dice.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013358000
+  modifiedTime: 1752013358000
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: yAA2zAitisfCESZl
+sort: 0
+_key: '!items!yAA2zAitisfCESZl'

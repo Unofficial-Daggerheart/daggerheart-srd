@@ -1,0 +1,37 @@
+name: Flight
+type: item
+folder: YoCxiRIxupKYJzxO
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 3 Arcana Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    (15). On a success, place a number of tokens equal to your Agility on this
+    card (minimum 1). When you make an action roll while flying, spend a token
+    from this card. After the action that spends the last token is resolved, you
+    descend to the ground directly below you.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013509234
+  modifiedTime: 1752013509234
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: hzaBWrAALt1umO1z
+sort: 0
+_key: '!items!hzaBWrAALt1umO1z'

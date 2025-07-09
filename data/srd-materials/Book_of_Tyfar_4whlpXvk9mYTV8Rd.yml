@@ -1,0 +1,40 @@
+name: Book of Tyfar
+type: item
+folder: AS65lpt7Ax9LoEXd
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 1 Codex Grimoire</h3><p>Recall Cost: 2</p><p>Wild Flame: Make a
+    Spellcast Roll against up to three adversaries within Melee range. Targets
+    you succeed against take 2d6 magic damage and must mark a Stress as flames
+    erupt from your hand. Magic Hand: You conjure a magical hand with the same
+    size and strength as your own within Far range. Mysterious Mist: Make a
+    Spellcast Roll (13) to cast a temporary thick fog that gathers in a
+    stationary area within Very Close range. The fog heavily obscures this area
+    and everything in it.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015293618
+  modifiedTime: 1752015293726
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 4whlpXvk9mYTV8Rd
+sort: 200000
+_key: '!items!4whlpXvk9mYTV8Rd'

@@ -1,0 +1,41 @@
+name: Book of Ava
+type: item
+folder: AS65lpt7Ax9LoEXd
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 1 Codex Grimoire</h3><p>Recall Cost: 2</p><p>Power Push: Make a
+    Spellcast Roll against a target within Melee range. On a success, they're
+    knocked back to Far range and take d10+2 magic damage using your
+    Proficiency. Tava's Armor: Spend a Hope to give a target you can touch a +1
+    bonus to their Armor Score until their next rest or you cast Tava's Armor
+    again. Ice Spike: Make a Spellcast Roll (12) to summon a large ice spike
+    within Far range. If you use it as a weapon, make the Spellcast Roll against
+    the target's Difficulty instead. On a success, deal d6 physical damage using
+    your Proficiency.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015201777
+  modifiedTime: 1752015293726
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: Skyb5lmT7RZhsUrL
+sort: 100000
+_key: '!items!Skyb5lmT7RZhsUrL'

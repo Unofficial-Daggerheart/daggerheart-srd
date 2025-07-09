@@ -1,0 +1,40 @@
+name: Tempest
+type: item
+folder: C6qnqG5r1eW3c5AW
+img: systems/daggerheart/assets/domains/sage.svg
+system:
+  description: >-
+    <h3>Level 10 Sage Spell</h3><p>Recall Cost: 2</p><p>Choose one of the
+    following tempests and make a Spellcast Roll against all targets within Far
+    range. Targets you succeed against experience its effects until the GM
+    spends a Fear on their turn to end this spell. Blizzard: Deal 2d20+8 magic
+    damage and targets are temporarily Vulnerable. Hurricane: Deal 3d10+10 magic
+    damage and choose a direction the wind is blowing. Targets can't move
+    against the wind. Sandstorm: Deal 5d6+9 magic damage. Attacks made from
+    beyond Melee range have disadvantage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018113000
+  modifiedTime: 1752018113000
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: ryJVDgTz3P3lvnXB
+sort: 0
+_key: '!items!ryJVDgTz3P3lvnXB'

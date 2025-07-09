@@ -1,0 +1,38 @@
+name: Voice of Reason
+type: item
+folder: uVAqqRY2rmF09bnn
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 3 Splendor Ability</h3><p>Recall Cost: 1</p><p>You speak with an
+    unmatched power and authority. You have advantage on action rolls to
+    de-escalate violent situations or convince someone to follow your lead.
+    Additionally, you're emboldened in moments of duress. When all of your
+    Stress slots are marked, you gain a +1 bonus to your Proficiency for damage
+    rolls.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018629336
+  modifiedTime: 1752018629336
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: NWcsBuhUS18h8H4i
+sort: 0
+_key: '!items!NWcsBuhUS18h8H4i'

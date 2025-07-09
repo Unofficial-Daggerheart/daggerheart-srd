@@ -1,0 +1,39 @@
+name: Rift Walker
+type: item
+folder: O5ETtgyUq27vbXY9
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 6 Arcana Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast Roll
+    (15). On a success, you place an arcane marking on the ground where you
+    currently stand. The next time you successfully cast Rift Walker, a rift in
+    space opens up, providing safe passage back to the exact spot where the
+    marking was placed. This rift stays open until you choose to close it or you
+    cast another spell. You can drop the spell at any time to cast Rift Walker
+    again and place the marking somewhere new.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013542145
+  modifiedTime: 1752013542145
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: ZnhTI9xDBARucYlr
+sort: 0
+_key: '!items!ZnhTI9xDBARucYlr'

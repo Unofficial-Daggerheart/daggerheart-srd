@@ -1,0 +1,36 @@
+name: Second Wind
+type: item
+folder: uVAqqRY2rmF09bnn
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 3 Splendor Ability</h3><p>Recall Cost: 2</p><p>Once per rest, when
+    you succeed on an attack against an adversary, you can clear 3 Stress or a
+    Hit Point. On a success with Hope, you also clear 3 Stress or a Hit Point on
+    an ally within Close range of you.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018579428
+  modifiedTime: 1752018579428
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: NIMane8REY0GOWMi
+sort: 0
+_key: '!items!NIMane8REY0GOWMi'

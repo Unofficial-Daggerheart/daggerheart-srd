@@ -1,0 +1,36 @@
+name: Transcendent Union
+type: item
+folder: 8KUkDNG4X33bloXj
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 10 Codex Spell</h3><p>Recall Cost: 1</p><p>Once per long rest,
+    spend 5 Hope to cast this spell on two or more willing creatures. Until your
+    next rest, when a creature connected by this union would mark Stress or Hit
+    Points, the connected creatures can choose who marks it.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015366240
+  modifiedTime: 1752015366240
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: XHfIsA3o2TChzGJO
+sort: 0
+_key: '!items!XHfIsA3o2TChzGJO'

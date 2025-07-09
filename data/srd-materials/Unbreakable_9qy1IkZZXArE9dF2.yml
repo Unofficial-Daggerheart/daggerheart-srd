@@ -1,0 +1,36 @@
+name: Unbreakable
+type: item
+folder: sQlXyMqlRpUUMaKT
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 10 Valor Ability</h3><p>Recall Cost: 4</p><p>When you mark your
+    last Hit Point, instead of making a death move, you can roll a d6 and clear
+    a number of Hit Points equal to the result. Then place this card in your
+    vault.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752019054376
+  modifiedTime: 1752019054376
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 9qy1IkZZXArE9dF2
+sort: 0
+_key: '!items!9qy1IkZZXArE9dF2'

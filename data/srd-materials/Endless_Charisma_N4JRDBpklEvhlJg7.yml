@@ -1,0 +1,35 @@
+name: Endless Charisma
+type: item
+folder: xI2YB93qlmmaeN6E
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 7 Grace Ability</h3><p>Recall Cost: 1</p><p>After you make an
+    action roll to persuade, lie, or garner favor, you can spend a Hope to
+    reroll the Hope or Fear Die.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015638485
+  modifiedTime: 1752015638485
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: N4JRDBpklEvhlJg7
+sort: 0
+_key: '!items!N4JRDBpklEvhlJg7'

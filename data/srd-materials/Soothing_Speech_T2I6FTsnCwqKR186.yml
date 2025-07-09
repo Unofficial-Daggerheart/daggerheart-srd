@@ -1,0 +1,36 @@
+name: Soothing Speech
+type: item
+folder: yc2quanFmgtPhzxh
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 4 Grace Ability</h3><p>Recall Cost: 1</p><p>During a short rest,
+    when you take the time to comfort another character while using the Tend to
+    Wounds downtime move on them, clear an additional Hit Point on that
+    character. When you do, you also clear 2 Hit Points.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015723294
+  modifiedTime: 1752015723294
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: T2I6FTsnCwqKR186
+sort: 0
+_key: '!items!T2I6FTsnCwqKR186'

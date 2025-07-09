@@ -1,0 +1,37 @@
+name: Battle Cry
+type: item
+folder: JkrD0fNDSH8w6q74
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 8 Blade Ability</h3><p>Recall Cost: 2</p><p>Once per long rest,
+    while you're charging into danger, you can muster a rousing call that
+    inspires your allies. All allies who can hear you each clear a Stress and
+    gain a Hope. Additionally, your allies gain advantage on attack rolls until
+    you or an ally rolls a failure with Fear.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014142834
+  modifiedTime: 1752014142834
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: VfkONoeucDYc5skS
+sort: 0
+_key: '!items!VfkONoeucDYc5skS'

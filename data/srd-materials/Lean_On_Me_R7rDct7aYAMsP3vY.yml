@@ -1,0 +1,35 @@
+name: Lean On Me
+type: item
+folder: Zti9qPK76ZO4QBPt
+img: systems/daggerheart/assets/domains/valor.svg
+system:
+  description: >-
+    <h3>Level 3 Valor Ability</h3><p>Recall Cost: 1</p><p>Once per long rest,
+    when you support an ally after they fail a roll, you and the ally each clear
+    2 Stress.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752019021213
+  modifiedTime: 1752019021213
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: R7rDct7aYAMsP3vY
+sort: 0
+_key: '!items!R7rDct7aYAMsP3vY'

@@ -1,0 +1,37 @@
+name: Healing Hands
+type: item
+folder: KHSjf6W7zvZPoKUY
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 2 Splendor Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
+    (13) and target a creature other than yourself within Melee range. On a
+    success, mark a Stress to clear 2 Hit Points or 2 Stress on the target. On a
+    failure, mark a Stress to clear a Hit Point or a Stress on the target. You
+    can't heal the same target again until your next long rest.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018486484
+  modifiedTime: 1752018486484
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: hykDooNz9BbnB7Ji
+sort: 0
+_key: '!items!hykDooNz9BbnB7Ji'

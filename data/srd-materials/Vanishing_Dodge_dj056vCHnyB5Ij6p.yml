@@ -1,0 +1,37 @@
+name: Vanishing Dodge
+type: item
+folder: 52zGCyUgCoTzuxFU
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 7 Midnight Spell</h3><p>Recall Cost: 1</p><p>When an attack made
+    against you that would deal physical damage fails, you can spend a Hope to
+    envelop yourself in shadow, becoming Hidden and teleporting to a point
+    within Close range of the attacker. You remain Hidden until the next time
+    you make an action roll.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016151651
+  modifiedTime: 1752016151651
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: dj056vCHnyB5Ij6p
+sort: 0
+_key: '!items!dj056vCHnyB5Ij6p'

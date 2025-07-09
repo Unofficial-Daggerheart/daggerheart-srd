@@ -1,0 +1,40 @@
+name: Chain Lightning
+type: item
+folder: yDeODsymKMdnWBqF
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 5 Arcana Spell</h3><p>Recall Cost: 1</p><p>Mark 2 Stress to make a
+    Spellcast Roll, unleashing lightning on all targets within Close range.
+    Targets you succeed against must make a reaction roll with a Difficulty
+    equal to the result of your Spellcast Roll. Targets who fail take 2d8+4
+    magic damage. Additional adversaries not already targeted by Chain Lightning
+    and within Close range of previous targets who took damage must also make
+    the reaction roll. Targets who fail take 2d8+4 magic damage. This chain
+    continues until there are no more adversaries within range.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013428439
+  modifiedTime: 1752013428439
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: bBTwEV92ZO4CvEgh
+sort: 0
+_key: '!items!bBTwEV92ZO4CvEgh'

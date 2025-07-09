@@ -1,0 +1,37 @@
+name: Whirlwind
+type: item
+folder: EH4pc5rjC1S2aoD6
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 1 Blade Ability</h3><p>Recall Cost: 0</p><p>When you make a
+    successful attack against a target within Very Close range, you can spend a
+    Hope to use the attack against all other targets within Very Close range.
+    All additional adversaries you succeed against with this ability take half
+    damage.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014295712
+  modifiedTime: 1752014295805
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: ulWQ4NA55yugB993
+sort: 200000
+_key: '!items!ulWQ4NA55yugB993'

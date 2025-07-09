@@ -1,0 +1,38 @@
+name: Manifest Wall
+type: item
+folder: EYEESnPTTMQMXYV8
+img: systems/daggerheart/assets/domains/codex.svg
+system:
+  description: >-
+    <h3>Level 5 Codex Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast Roll
+    (15). Once per rest on a success, spend a Hope to create a temporary magical
+    wall between two points within Far range. It can be up to 50 feet high and
+    form at any angle. Creatures or objects in its path are shunted to a side of
+    your choice. The wall stays up until your next rest or you cast Manifest
+    Wall again.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015337744
+  modifiedTime: 1752015337744
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: FQvsOeUDmJFZGu5f
+sort: 0
+_key: '!items!FQvsOeUDmJFZGu5f'

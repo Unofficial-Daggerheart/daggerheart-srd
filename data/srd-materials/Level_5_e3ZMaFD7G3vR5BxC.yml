@@ -5,14 +5,15 @@ color: null
 sorting: a
 _id: e3ZMaFD7G3vR5BxC
 description: ''
-sort: 0
+sort: 875000
 flags: {}
 _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
   systemVersion: 2.9.7
-  lastModifiedBy: null
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+  modifiedTime: 1752017964095
 _key: '!folders!e3ZMaFD7G3vR5BxC'

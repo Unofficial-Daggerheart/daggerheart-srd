@@ -1,0 +1,36 @@
+name: Gore and Glory
+type: item
+folder: O3pb4mSeyKSwb2Mi
+img: systems/daggerheart/assets/domains/blade.svg
+system:
+  description: >-
+    <h3>Level 9 Blade Ability</h3><p>Recall Cost: 2</p><p>When you critically
+    succeed on a weapon attack, gain an additional Hope or clear an additional
+    Stress. Additionally, when you deal enough damage to defeat an enemy, gain a
+    Hope or clear a Stress.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014217081
+  modifiedTime: 1752014217081
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: uLQhRphHDLmNBc4b
+sort: 0
+_key: '!items!uLQhRphHDLmNBc4b'

@@ -1,0 +1,39 @@
+name: Final Words
+type: item
+folder: KHSjf6W7zvZPoKUY
+img: systems/daggerheart/assets/domains/splendor.svg
+system:
+  description: >-
+    <h3>Level 2 Splendor Spell</h3><p>Recall Cost: 1</p><p>You can infuse a
+    corpse with a moment of life to speak with it. Make a Spellcast Roll (13).
+    On a success with Hope, the corpse answers up to three questions. On a
+    success with Fear, the corpse answers one question. The corpse answers
+    truthfully, but it can't impart information it didn't know in life. On a
+    failure, or once the corpse has finished answering your questions, the body
+    turns to dust.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752018480893
+  modifiedTime: 1752018480893
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: Ps6wJhfIyP32g6qV
+sort: 0
+_key: '!items!Ps6wJhfIyP32g6qV'

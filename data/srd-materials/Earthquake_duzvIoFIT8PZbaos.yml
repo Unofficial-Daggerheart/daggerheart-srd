@@ -1,0 +1,39 @@
+name: Earthquake
+type: item
+folder: d3VcFxhzDXaqk0zP
+img: systems/daggerheart/assets/domains/arcana.svg
+system:
+  description: >-
+    <h3>Level 9 Arcana Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast Roll
+    (16). Once per rest on a success, all targets within Very Far range who
+    aren't flying must make a Reaction Roll (18). Targets who fail take 3d10+8
+    physical damage and are temporarily Vulnerable. Targets who succeed take
+    half damage. Additionally, when you succeed on the Spellcast Roll, all
+    terrain within Very Far range becomes difficult to move through and
+    structures within this range might sustain damage or crumble.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752013482918
+  modifiedTime: 1752013482918
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: duzvIoFIT8PZbaos
+sort: 0
+_key: '!items!duzvIoFIT8PZbaos'

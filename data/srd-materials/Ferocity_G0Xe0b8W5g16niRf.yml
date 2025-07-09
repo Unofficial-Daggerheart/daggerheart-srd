@@ -1,0 +1,36 @@
+name: Ferocity
+type: item
+folder: 0ZgAbgaoS4DUn8EW
+img: systems/daggerheart/assets/domains/bone.svg
+system:
+  description: >-
+    <h3>Level 2 Bone Ability</h3><p>Recall Cost: 2</p><p>When you cause an
+    adversary to mark 1 or more Hit Points, you can spend 2 Hope to increase
+    your Evasion by the number of Hit Points they marked. This bonus lasts until
+    after the next attack made against you.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752014792051
+  modifiedTime: 1752014792051
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: G0Xe0b8W5g16niRf
+sort: 0
+_key: '!items!G0Xe0b8W5g16niRf'

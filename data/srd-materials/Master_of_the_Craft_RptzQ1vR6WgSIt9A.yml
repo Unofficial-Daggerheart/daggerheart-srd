@@ -1,0 +1,35 @@
+name: Master of the Craft
+type: item
+folder: cx9H9yCS8xxF1gfo
+img: systems/daggerheart/assets/domains/grace.svg
+system:
+  description: >-
+    <h3>Level 9 Grace Ability</h3><p>Recall Cost: 0</p><p>Gain a permanent +2
+    bonus to two of your Experiences or a permanent +3 bonus to one of your
+    Experiences. Then place this card in your vault permanently.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752015683074
+  modifiedTime: 1752015683074
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: RptzQ1vR6WgSIt9A
+sort: 0
+_key: '!items!RptzQ1vR6WgSIt9A'

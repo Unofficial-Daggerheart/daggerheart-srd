@@ -1,0 +1,39 @@
+name: Mass Disguise
+type: item
+folder: wVQcwldyaUukh7iy
+img: systems/daggerheart/assets/domains/midnight.svg
+system:
+  description: >-
+    <h3>Level 6 Midnight Spell</h3><p>Recall Cost: 0</p><p>When you have a few
+    minutes of silence to focus, you can mark a Stress to change the appearance
+    of all willing creatures within Close range. Their new forms must share a
+    general body structure and size, and can be somebody or something you've
+    seen before or entirely fabricated. A disguised creature has advantage on
+    Presence Rolls to avoid scrutiny. Activate a Countdown (8). It ticks down as
+    a consequence the GM chooses. When it triggers, the disguise drops.</p>
+  category: ''
+  rarity: ''
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  Hv1JCJEjUNITYeqB: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.5
+  createdTime: 1752016047363
+  modifiedTime: 1752016047363
+  lastModifiedBy: Hv1JCJEjUNITYeqB
+_id: 5GoInr7xtpYWxRzb
+sort: 0
+_key: '!items!5GoInr7xtpYWxRzb'
