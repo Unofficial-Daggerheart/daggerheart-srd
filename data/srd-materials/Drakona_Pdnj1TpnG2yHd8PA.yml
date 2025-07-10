@@ -2,7 +2,7 @@ name: Drakona
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
 _id: Pdnj1TpnG2yHd8PA
-img: icons/svg/item-bag.svg
+img: modules/daggerheart-srd/assets/ancestry/drakona.svg
 system:
   description: >-
     <p>Drakona resemble wingless dragons in humanoid form and possess a powerful
@@ -36,11 +36,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
   systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  modifiedTime: 1752109720787
+  lastModifiedBy: Hv1JCJEjUNITYeqB
 sort: 0
 ownership:
   default: 0

@@ -2,7 +2,7 @@ name: Infernis
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
 _id: fgukKTZig0vo4Cud
-img: icons/svg/item-bag.svg
+img: modules/daggerheart-srd/assets/ancestry/infernis.svg
 system:
   description: >-
     <p>Infernis are humanoids who possess sharp canine teeth, pointed ears, and
@@ -42,11 +42,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
   systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  modifiedTime: 1752109903503
+  lastModifiedBy: Hv1JCJEjUNITYeqB
 sort: 0
 ownership:
   default: 0
