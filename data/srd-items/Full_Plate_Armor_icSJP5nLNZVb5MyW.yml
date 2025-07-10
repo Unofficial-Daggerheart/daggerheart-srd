@@ -1,0 +1,40 @@
+name: Full Plate Armor
+type: armor
+folder: 9rKEf6zETnYYz9IO
+img: modules/daggerheart-srd/assets/Armor.svg
+system:
+  description: >-
+    <p>Base Thresholds: 8/17</p><p>Base Armor Score: 4</p><p><span
+    class="og-divider og-wrap"><em>Very Heavy:</em> −2 to</span> Evasion; <span
+    class="og-divider og-wrap"> −2 to</span> Agility</p>
+  category: Armor
+  tier: Tier 1
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 8
+    severe: 17
+  baseScore: 4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  oP9DOnt48gLdnVCV: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.16
+  createdTime: 1752124528809
+  modifiedTime: 1752124528809
+  lastModifiedBy: oP9DOnt48gLdnVCV
+_id: icSJP5nLNZVb5MyW
+sort: 0
+_key: '!items!icSJP5nLNZVb5MyW'

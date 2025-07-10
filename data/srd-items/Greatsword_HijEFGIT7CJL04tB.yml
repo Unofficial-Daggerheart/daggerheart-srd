@@ -15,9 +15,9 @@ system:
   equipped: false
   weaponSlot: null
   damage:
-    baseValue: 1d10+3
+    baseValue: d10+3
     modifiers: []
-    value: 1d10+3
+    value: d10+3
   quantity: 1
   weight: 0
   attributes: {}

@@ -1,6 +1,6 @@
 type: Item
 folder: ERm3xpsThdJqZI3V
-name: Physical
+name: Physical Weapons
 color: null
 sorting: a
 _id: BM52XUGzAhAWn2Ut
@@ -11,9 +11,9 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
   systemVersion: 2.10.5
-  lastModifiedBy: GURa9Tm6QJyl1rY7
-  modifiedTime: 1751914903916
+  lastModifiedBy: oP9DOnt48gLdnVCV
+  modifiedTime: 1752127525178
 _key: '!folders!BM52XUGzAhAWn2Ut'

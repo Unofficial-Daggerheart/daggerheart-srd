@@ -1,19 +1,19 @@
 type: Item
 folder: ERm3xpsThdJqZI3V
-name: Armor
+name: Magical Weapons
 color: null
 sorting: a
-_id: 9rKEf6zETnYYz9IO
+_id: I0OJ5wHbL26jlker
 description: ''
-sort: 400000
+sort: 500000
 flags: {}
 _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
   systemVersion: 2.10.5
-  lastModifiedBy: GURa9Tm6QJyl1rY7
-  modifiedTime: 1751914892657
-_key: '!folders!9rKEf6zETnYYz9IO'
+  lastModifiedBy: oP9DOnt48gLdnVCV
+  modifiedTime: 1752127529799
+_key: '!folders!I0OJ5wHbL26jlker'

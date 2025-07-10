@@ -1,12 +1,17 @@
 name: Gambeson Armor
-type: item
+type: armor
 system:
   description: >-
     <p>Base Thresholds: 5/11</p><p>Base Armor Score: 3</p><p><span
     class="og-divider og-wrap"><em>Flexible:</em> +1 to </span>Evasion</p>
   category: Armor
-  rarity: '1'
-  location: worn
+  tier: Tier 1
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 5
+    severe: 11
+  baseScore: 3
   quantity: 1
   weight: 0
   attributes: {}
@@ -23,7 +28,7 @@ _stats:
   exportSource: null
   coreVersion: '13.344'
   systemId: daggerheart
-  systemVersion: 2.10.5
+  systemVersion: 2.10.16
   modifiedTime: 1751921300190
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0

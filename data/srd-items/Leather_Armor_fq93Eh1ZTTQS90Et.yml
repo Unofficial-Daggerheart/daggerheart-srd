@@ -1,5 +1,5 @@
 name: Leather Armor
-type: item
+type: armor
 folder: 9rKEf6zETnYYz9IO
 _id: fq93Eh1ZTTQS90Et
 img: modules/daggerheart-srd/assets/Armor.svg
@@ -7,9 +7,14 @@ system:
   description: >-
     <p>Base Thresholds:<span class="og-divider"> 6/13</span> </p><p>Base Armor
     Score<span class="og-divider">: 3</span></p>
-  category: armor
-  rarity: '1'
-  location: abilities
+  category: Armor
+  tier: Tier 1
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 6
+    severe: 13
+  baseScore: 3
   quantity: 1
   weight: 0
   attributes: {}
@@ -23,7 +28,7 @@ _stats:
   exportSource: null
   coreVersion: '13.344'
   systemId: daggerheart
-  systemVersion: 2.10.5
+  systemVersion: 2.10.16
   modifiedTime: 1751921312471
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
