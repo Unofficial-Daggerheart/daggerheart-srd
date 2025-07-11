@@ -2,7 +2,7 @@ type: Item
 folder: u33Ku5MlJtKcKEry
 name: Bone
 color: null
-sorting: a
+sorting: m
 _id: QTEYFKtp0PO8v7cX
 description: ''
 sort: 0
@@ -11,9 +11,9 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
   systemVersion: 2.9.7
-  lastModifiedBy: GURa9Tm6QJyl1rY7
-  modifiedTime: 1751776752170
+  lastModifiedBy: oP9DOnt48gLdnVCV
+  modifiedTime: 1752256427870
 _key: '!folders!QTEYFKtp0PO8v7cX'

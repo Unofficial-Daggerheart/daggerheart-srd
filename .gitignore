@@ -24,5 +24,6 @@ logs
 # Project
 node_modules
 *.local
+backup
 packs
 dist
