@@ -1,0 +1,38 @@
+name: Savior Chainmail
+type: armor
+folder: sZ6zKr6Ff2JunqDa
+img: icons/equipment/chest/breastplate-collared-leather-grey.webp
+system:
+  description: '<p>Difficult: −1 to all character traits and Evasion.</p>'
+  category: Armor
+  tier: Tier 4
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 18
+    severe: 48
+  baseScore: 8
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059076750
+  modifiedTime: 1754059076750
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: f7WuIVsvppDQ7WOB
+sort: 0
+_key: '!items!f7WuIVsvppDQ7WOB'

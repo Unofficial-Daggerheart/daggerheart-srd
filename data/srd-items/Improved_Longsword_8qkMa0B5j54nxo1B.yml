@@ -1,0 +1,43 @@
+name: Improved Longsword
+type: weapon
+folder: QlNZHbG6Sol9z2kF
+img: icons/weapons/swords/sword-guard-blue.webp
+system:
+  description: ''
+  category: Two-Handed
+  tier: TIer 2
+  trait: agility
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+6
+    modifiers: []
+    permanentModifiers: []
+    value: d10+6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058900575
+  modifiedTime: 1754058900575
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: 8qkMa0B5j54nxo1B
+sort: 0
+_key: '!items!8qkMa0B5j54nxo1B'

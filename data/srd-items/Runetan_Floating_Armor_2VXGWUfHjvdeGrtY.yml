@@ -1,0 +1,41 @@
+name: Runetan Floating Armor
+type: armor
+folder: s4OVsd9RGaQoXb5c
+img: icons/equipment/chest/collar-steel.webp
+system:
+  description: >-
+    <p><em><strong>Shifting:</strong></em> When you are targeted for an attack,
+    you can mark an Armor Slot to give the attack roll against you
+    disadvantage</p>
+  category: Armor
+  tier: Tier 2
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 9
+    severe: 20
+  baseScore: 4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058841650
+  modifiedTime: 1754058841650
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: 2VXGWUfHjvdeGrtY
+sort: 0
+_key: '!items!2VXGWUfHjvdeGrtY'

@@ -1,0 +1,46 @@
+name: Improved Whip
+type: weapon
+folder: aFdVq8BezIKSilIS
+img: icons/weapons/misc/whip-red-yellow.webp
+system:
+  description: >-
+    <p><em><strong>Startling:</strong></em> Mark a Stress to crack the whip and
+    force all adversaries within Melee range back to Close range.</p>
+  category: one-handed
+  tier: Tier 2
+  trait: presence
+  range: veryClose
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+2
+    modifiers: []
+    permanentModifiers: []
+    value: d6+2
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058929892
+  modifiedTime: 1754058930753
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: T4qw7qUQKq5uE9gj
+sort: 500000
+_key: '!items!T4qw7qUQKq5uE9gj'

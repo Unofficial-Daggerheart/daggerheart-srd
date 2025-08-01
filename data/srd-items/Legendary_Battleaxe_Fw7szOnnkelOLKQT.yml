@@ -1,0 +1,44 @@
+name: Legendary Battleaxe
+type: weapon
+folder: RTh4d1xFiQSdYuXT
+img: icons/weapons/axes/axe-battle-black.webp
+system:
+  description: ''
+  category: Two-Handed
+  tier: Tier 4
+  trait: strength
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+12
+    modifiers: []
+    permanentModifiers: []
+    value: d10+12
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059114938
+  modifiedTime: 1754059115816
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: Fw7szOnnkelOLKQT
+sort: 500000
+_key: '!items!Fw7szOnnkelOLKQT'

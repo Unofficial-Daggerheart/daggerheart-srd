@@ -1,0 +1,45 @@
+name: Scepter of Elias
+type: weapon
+folder: pvhnaopPYfT0RqhT
+img: icons/weapons/staves/staff-crescent-purple.webp
+system:
+  description: >-
+    <p><em><strong>Invigorating:</strong></em> On a successful attack, roll a
+    d4. On a result of 4, clear a Stress</p>
+  category: One-Handed
+  tier: Tier 2
+  trait: presence
+  range: far
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+3
+    modifiers: []
+    permanentModifiers: []
+    value: d6+3
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058873598
+  modifiedTime: 1754058873598
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: 91JSezLB5viTsimr
+sort: 0
+_key: '!items!91JSezLB5viTsimr'

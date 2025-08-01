@@ -1,0 +1,45 @@
+name: Elder Bow
+type: weapon
+folder: pvhnaopPYfT0RqhT
+img: icons/weapons/bows/bow-ornamental-gold-blue.webp
+system:
+  description: >-
+    <p><em><strong>Powerful:</strong></em> On a successful attack, roll an
+    additional damage die and discard the lowest result.</p>
+  category: Two-Handed
+  tier: Tier 2
+  trait: instinct
+  range: far
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+4
+    modifiers: []
+    permanentModifiers: []
+    value: d6+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058854687
+  modifiedTime: 1754058858940
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: nJhx9g3Ie4Lpz1Rb
+sort: 100000
+_key: '!items!nJhx9g3Ie4Lpz1Rb'

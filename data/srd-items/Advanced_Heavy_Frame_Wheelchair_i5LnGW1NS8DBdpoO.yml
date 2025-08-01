@@ -1,0 +1,43 @@
+name: Advanced Heavy-Frame Wheelchair
+type: weapon
+folder: cvI8Ydrm8EBR0qVE
+img: icons/commodities/tech/wheel.webp
+system:
+  description: <p><em><strong>Heavy:</strong></em> −1 to Evasion</p>
+  category: Two-handed
+  tier: Tier 1
+  trait: strength
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d12+9
+    modifiers: []
+    permanentModifiers: []
+    value: d12+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058668410
+  modifiedTime: 1754058668410
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: i5LnGW1NS8DBdpoO
+sort: 0
+_key: '!items!i5LnGW1NS8DBdpoO'

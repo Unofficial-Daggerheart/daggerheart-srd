@@ -1,0 +1,41 @@
+name: Harrowbone Armor
+type: armor
+folder: s4OVsd9RGaQoXb5c
+img: icons/equipment/shoulder/pauldron-spiked-bone.webp
+system:
+  description: >-
+    <p><em><strong>Rsilient:</strong></em> Before you mark your last Armor Slot,
+    roll a d6. On a result of 6, reduce the severity by one threshold without
+    marking an Armor Slot.</p>
+  category: Armor
+  tier: Tier 2
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 9
+    severe: 21
+  baseScore: 4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058835457
+  modifiedTime: 1754058837303
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: 2zqpqDs8ET4wJbmN
+sort: 200000
+_key: '!items!2zqpqDs8ET4wJbmN'

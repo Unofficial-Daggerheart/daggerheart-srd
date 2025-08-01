@@ -1,0 +1,44 @@
+name: Longbow
+type: weapon
+folder: BM52XUGzAhAWn2Ut
+img: icons/weapons/bows/longbow-leather-green.webp
+system:
+  description: <p><em><strong>Cumbersome:</strong></em> −1 to Finesse</p>
+  category: Two-Handed
+  tier: Tier 1
+  trait: agility
+  range: veryFar
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+3
+    modifiers: []
+    permanentModifiers: []
+    value: d8+3
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058792750
+  modifiedTime: 1754058792750
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: cKioEHZRwlLmpYo8
+sort: 0
+_key: '!items!cKioEHZRwlLmpYo8'

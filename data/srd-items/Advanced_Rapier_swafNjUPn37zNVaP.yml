@@ -1,0 +1,46 @@
+name: Advanced Rapier
+type: weapon
+folder: YSHeGOtw3WtYQq6I
+img: icons/weapons/swords/greatsword-crossguard-curved.webp
+system:
+  description: >-
+    <p><em><strong>Quick:</strong></em> When you make an attack, you can mark a
+    Stress to target another creature within range.</p>
+  category: One-Handed
+  tier: Tier 3
+  trait: presence
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+6
+    modifiers: []
+    permanentModifiers: []
+    value: d8+6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059014261
+  modifiedTime: 1754059014261
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: swafNjUPn37zNVaP
+sort: 0
+_key: '!items!swafNjUPn37zNVaP'

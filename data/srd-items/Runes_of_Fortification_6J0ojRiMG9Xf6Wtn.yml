@@ -1,0 +1,40 @@
+name: Runes of Fortification
+type: armor
+folder: M3XRdAXzRhFT6In4
+img: icons/commodities/treasure/token-runed-mem-red.webp
+system:
+  description: >-
+    <p><em><strong>Painful:</strong></em> Each time you mark an Armor Slot, you
+    must mark a Stress.</p>
+  category: ARmor
+  tier: Tier 3
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 17
+    severe: 43
+  baseScore: 6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058961312
+  modifiedTime: 1754058961312
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: 6J0ojRiMG9Xf6Wtn
+sort: 0
+_key: '!items!6J0ojRiMG9Xf6Wtn'

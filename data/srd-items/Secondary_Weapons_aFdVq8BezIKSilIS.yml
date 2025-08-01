@@ -1,0 +1,18 @@
+type: Item
+folder: TOKmSW73NL3AaeIa
+name: Secondary Weapons
+color: null
+sorting: a
+_id: aFdVq8BezIKSilIS
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  lastModifiedBy: null
+_key: '!folders!aFdVq8BezIKSilIS'

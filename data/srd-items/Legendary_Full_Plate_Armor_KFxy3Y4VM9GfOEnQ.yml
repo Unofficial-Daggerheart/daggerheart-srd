@@ -1,0 +1,40 @@
+name: Legendary Full Plate Armor
+type: armor
+folder: sZ6zKr6Ff2JunqDa
+img: icons/equipment/chest/breastplate-layered-grey.webp
+system:
+  description: >-
+    <p><span class="og-divider og-wrap"><em>Very Heavy:</em> −2 to</span>
+    Evasion; <span class="og-divider og-wrap">−2 to</span> Agility</p>
+  category: Armor
+  tier: Tier 4
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 17
+    severe: 44
+  baseScore: 7
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059074159
+  modifiedTime: 1754059074159
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: KFxy3Y4VM9GfOEnQ
+sort: 0
+_key: '!items!KFxy3Y4VM9GfOEnQ'

@@ -1,0 +1,46 @@
+name: Advanced Shortsword
+type: weapon
+folder: h2cuWcYd59DMYKVA
+img: icons/weapons/swords/shortsword-guard-worn.webp
+system:
+  description: >-
+    <p><em><strong>Paired:</strong></em> +4 to primary weapon damage to targets
+    within Melee range</p>
+  category: One-Handed
+  tier: Tier 3
+  trait: agility
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+4
+    modifiers: []
+    permanentModifiers: []
+    value: d8+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059040692
+  modifiedTime: 1754059044518
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: NdbH9bAfMifYSbbd
+sort: 100000
+_key: '!items!NdbH9bAfMifYSbbd'

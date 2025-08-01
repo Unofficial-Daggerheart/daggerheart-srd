@@ -1,0 +1,44 @@
+name: Legendary Cutlass
+type: weapon
+folder: RTh4d1xFiQSdYuXT
+img: icons/weapons/swords/scimitar-guard.webp
+system:
+  description: ''
+  category: One-Handed
+  tier: Tier 4
+  trait: presence
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+10
+    modifiers: []
+    permanentModifiers: []
+    value: d8+10
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059117974
+  modifiedTime: 1754059117974
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: Dp0s8Iap6mk4e5B3
+sort: 0
+_key: '!items!Dp0s8Iap6mk4e5B3'

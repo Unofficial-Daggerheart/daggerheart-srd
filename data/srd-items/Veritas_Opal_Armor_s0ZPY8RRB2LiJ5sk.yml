@@ -1,0 +1,40 @@
+name: Veritas Opal Armor
+type: armor
+folder: sZ6zKr6Ff2JunqDa
+img: icons/equipment/chest/robe-layered-white.webp
+system:
+  description: >-
+    <p><em><strong>Truthseeking:</strong></em> This armor glows when another
+    creature within Close range tells a lie.</p>
+  category: Armor
+  tier: Tier 4
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 13
+    severe: 36
+  baseScore: 6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059077639
+  modifiedTime: 1754059077639
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: s0ZPY8RRB2LiJ5sk
+sort: 0
+_key: '!items!s0ZPY8RRB2LiJ5sk'

@@ -1,0 +1,38 @@
+name: Advanced Chainmail Armor
+type: armor
+folder: M3XRdAXzRhFT6In4
+img: icons/equipment/chest/breastplate-scale-grey.webp
+system:
+  description: <p><span class="og-divider og-wrap"><em>Heavy:</em> −1 to</span> Evasion</p>
+  category: Armor
+  tier: Tier 3
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 13
+    severe: 31
+  baseScore: 6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058954750
+  modifiedTime: 1754058959643
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: VMfpxICwEl0M4ku8
+sort: 500000
+_key: '!items!VMfpxICwEl0M4ku8'

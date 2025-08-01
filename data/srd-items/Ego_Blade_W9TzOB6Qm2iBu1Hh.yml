@@ -1,0 +1,45 @@
+name: Ego Blade
+type: weapon
+folder: pvhnaopPYfT0RqhT
+img: icons/weapons/swords/sword-guard-serrated.webp
+system:
+  description: >-
+    <p><em><strong>Pompous:</strong></em> You must have a Presence of 0 or lower
+    to use this weapon</p>
+  category: One-handed
+  tier: Tier 2
+  trait: agility
+  range: melee
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d12+4
+    modifiers: []
+    permanentModifiers: []
+    value: d12+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058852760
+  modifiedTime: 1754058858940
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: W9TzOB6Qm2iBu1Hh
+sort: 800000
+_key: '!items!W9TzOB6Qm2iBu1Hh'

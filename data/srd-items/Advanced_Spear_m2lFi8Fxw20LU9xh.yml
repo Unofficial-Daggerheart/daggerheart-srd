@@ -1,0 +1,44 @@
+name: Advanced Spear
+type: weapon
+folder: YSHeGOtw3WtYQq6I
+img: icons/weapons/polearms/spear-flared-worn.webp
+system:
+  description: ''
+  category: "Two-Handed \t"
+  tier: Tier 3
+  trait: finesse
+  range: veryClose
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+9
+    modifiers: []
+    permanentModifiers: []
+    value: d8+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059016451
+  modifiedTime: 1754059016451
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: m2lFi8Fxw20LU9xh
+sort: 0
+_key: '!items!m2lFi8Fxw20LU9xh'

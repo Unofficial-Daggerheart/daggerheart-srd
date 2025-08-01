@@ -1,0 +1,45 @@
+name: Ghostblade
+type: weapon
+folder: EjmSgebfzNvfK6oK
+img: icons/skills/melee/strike-blade-hooked-blue-red.webp
+system:
+  description: >-
+    <p><em><strong>Otherworldly:</strong></em> On a successful attack, you can
+    deal physical or magic damage.</p>
+  category: One-handed
+  tier: Tier 3
+  trait: presence
+  range: melee
+  damageType: ''
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+7
+    modifiers: []
+    permanentModifiers: []
+    value: d10+7
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058987988
+  modifiedTime: 1754058987988
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: pLb0oiq5LJLoeRsW
+sort: 0
+_key: '!items!pLb0oiq5LJLoeRsW'

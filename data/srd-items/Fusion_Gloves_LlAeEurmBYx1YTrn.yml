@@ -1,0 +1,45 @@
+name: Fusion Gloves
+type: weapon
+folder: hy5o9lU0MhROJFal
+img: icons/equipment/hand/gauntlet-armored-leather-teal-orange.webp
+system:
+  description: >-
+    <p><em><strong>Bonded:</strong></em> Gain a bonus to your damage rolls equal
+    to your level.</p>
+  category: Two-Handed
+  tier: Tier 4
+  trait: knowledge
+  range: veryFar
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+9
+    modifiers: []
+    permanentModifiers: []
+    value: d6+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059086927
+  modifiedTime: 1754059092250
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: LlAeEurmBYx1YTrn
+sort: 800000
+_key: '!items!LlAeEurmBYx1YTrn'

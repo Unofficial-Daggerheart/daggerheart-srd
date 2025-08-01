@@ -1,0 +1,43 @@
+name: Improved Broadsword
+type: weapon
+folder: QlNZHbG6Sol9z2kF
+img: icons/weapons/swords/greatsword-crossguard-engraved-green.webp
+system:
+  description: <p><em><strong>Reliable:</strong></em> +1 to attack rolls</p>
+  category: One-handed
+  tier: Tier 2
+  trait: agility
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+3
+    modifiers: []
+    permanentModifiers: []
+    value: d8+3
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058888443
+  modifiedTime: 1754058892215
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: TeXbqTMM8vw0xFt7
+sort: 500000
+_key: '!items!TeXbqTMM8vw0xFt7'

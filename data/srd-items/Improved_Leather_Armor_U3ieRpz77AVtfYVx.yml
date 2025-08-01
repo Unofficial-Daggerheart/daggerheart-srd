@@ -1,0 +1,38 @@
+name: Improved Leather Armor
+type: armor
+folder: s4OVsd9RGaQoXb5c
+img: icons/equipment/chest/vest-leather-brown.webp
+system:
+  description: <p>-</p>
+  category: Armor
+  tier: Tier 2
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 9
+    severe: 20
+  baseScore: 4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058838805
+  modifiedTime: 1754058838805
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: U3ieRpz77AVtfYVx
+sort: 0
+_key: '!items!U3ieRpz77AVtfYVx'

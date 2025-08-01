@@ -1,0 +1,43 @@
+name: Advanced Broadsword
+type: weapon
+folder: YSHeGOtw3WtYQq6I
+img: icons/weapons/swords/greatsword-crossguard-engraved-green.webp
+system:
+  description: <p><em><strong>Reliable:</strong></em> +1 to attack rolls</p>
+  category: One-handed
+  tier: Tier 3
+  trait: agility
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+6
+    modifiers: []
+    permanentModifiers: []
+    value: d8+6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059003870
+  modifiedTime: 1754059012761
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: plxyfi5XO7C0fmym
+sort: 800000
+_key: '!items!plxyfi5XO7C0fmym'

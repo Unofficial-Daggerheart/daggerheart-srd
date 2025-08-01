@@ -1,0 +1,38 @@
+name: Legendary Chainmail Armor
+type: armor
+folder: sZ6zKr6Ff2JunqDa
+img: icons/equipment/chest/breastplate-scale-grey.webp
+system:
+  description: <p><span class="og-divider og-wrap"><em>Heavy:</em> −1 to</span> Evasion</p>
+  category: Armor
+  tier: Tier 4
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 15
+    severe: 40
+  baseScore: 7
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059073313
+  modifiedTime: 1754059073313
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: anpm8RdOb4EhFAyF
+sort: 0
+_key: '!items!anpm8RdOb4EhFAyF'

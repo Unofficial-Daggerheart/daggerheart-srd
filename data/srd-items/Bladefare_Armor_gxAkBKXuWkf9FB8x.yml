@@ -1,0 +1,40 @@
+name: Bladefare Armor
+type: armor
+folder: M3XRdAXzRhFT6In4
+img: icons/equipment/shoulder/shoulderguard-studded-steel.webp
+system:
+  description: >-
+    <p><em><strong>Physical:</strong></em> You can’t mark an Armor Slot to
+    reduce magic damage.</p>
+  category: ARmor
+  tier: Tier 3
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 16
+    severe: 39
+  baseScore: 6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058958784
+  modifiedTime: 1754058959643
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: gxAkBKXuWkf9FB8x
+sort: 400000
+_key: '!items!gxAkBKXuWkf9FB8x'

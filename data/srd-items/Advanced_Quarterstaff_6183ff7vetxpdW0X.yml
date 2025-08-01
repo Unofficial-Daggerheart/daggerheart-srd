@@ -1,0 +1,44 @@
+name: Advanced Quarterstaff
+type: weapon
+folder: YSHeGOtw3WtYQq6I
+img: icons/weapons/staves/staff-simple.webp
+system:
+  description: ''
+  category: Two-Handed
+  tier: Tier 3
+  trait: instinct
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+9
+    modifiers: []
+    permanentModifiers: []
+    value: d10+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059012747
+  modifiedTime: 1754059012761
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: 6183ff7vetxpdW0X
+sort: 300000
+_key: '!items!6183ff7vetxpdW0X'

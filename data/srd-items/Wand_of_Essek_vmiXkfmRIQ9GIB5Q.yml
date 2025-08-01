@@ -1,0 +1,45 @@
+name: Wand of Essek
+type: weapon
+folder: hy5o9lU0MhROJFal
+img: icons/weapons/wands/wand-gem-purple.webp
+system:
+  description: >-
+    <p><em><strong>Timebending:</strong></em> You can choose the target of your
+    attack after making your attack roll.</p>
+  category: One-Handed
+  tier: Tier 4
+  trait: knowledge
+  range: far
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+13
+    modifiers: []
+    permanentModifiers: []
+    value: d8+13
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059101729
+  modifiedTime: 1754059101729
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: vmiXkfmRIQ9GIB5Q
+sort: 0
+_key: '!items!vmiXkfmRIQ9GIB5Q'

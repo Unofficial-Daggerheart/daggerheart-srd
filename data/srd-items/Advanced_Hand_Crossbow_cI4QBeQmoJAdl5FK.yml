@@ -1,0 +1,44 @@
+name: Advanced Hand Crossbow
+type: weapon
+folder: h2cuWcYd59DMYKVA
+img: icons/weapons/crossbows/crossbow-simple-red.webp
+system:
+  description: ''
+  category: One-Handed
+  tier: Tier 3
+  trait: finesse
+  range: far
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+5
+    modifiers: []
+    permanentModifiers: []
+    value: d6+5
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059038720
+  modifiedTime: 1754059044518
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: cI4QBeQmoJAdl5FK
+sort: 700000
+_key: '!items!cI4QBeQmoJAdl5FK'

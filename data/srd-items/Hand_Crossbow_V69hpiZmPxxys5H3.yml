@@ -1,0 +1,44 @@
+name: Hand Crossbow
+type: weapon
+folder: IdvtUdfLrXHZsELL
+img: icons/weapons/crossbows/crossbow-simple-red.webp
+system:
+  description: ''
+  category: One-Handed
+  tier: '1'
+  trait: finesse
+  range: far
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+1
+    modifiers: []
+    permanentModifiers: []
+    value: d6+1
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058811065
+  modifiedTime: 1754058812786
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: V69hpiZmPxxys5H3
+sort: 200000
+_key: '!items!V69hpiZmPxxys5H3'

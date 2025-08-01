@@ -1,0 +1,45 @@
+name: Bladed Whip
+type: weapon
+folder: QlNZHbG6Sol9z2kF
+img: icons/skills/melee/strike-chain-whip-blue.webp
+system:
+  description: >-
+    <p><em><strong>Quick:</strong></em> When you make an attack, you can mark a
+    Stress to target another creature within range.</p>
+  category: One-handed
+  tier: Tier 2
+  trait: ''
+  range: ''
+  damageType: ''
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: 1d8
+    modifiers: []
+    permanentModifiers: []
+    value: 1d8
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058882860
+  modifiedTime: 1754058892215
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: IkXqjf0z3MjjtSRG
+sort: 700000
+_key: '!items!IkXqjf0z3MjjtSRG'

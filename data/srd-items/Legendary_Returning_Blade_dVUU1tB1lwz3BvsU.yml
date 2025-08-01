@@ -1,0 +1,46 @@
+name: Legendary Returning Blade
+type: weapon
+folder: hy5o9lU0MhROJFal
+img: icons/weapons/swords/sword-runed-glowing.webp
+system:
+  description: >-
+    <p><em><strong>Returning:</strong></em> When this weapon is thrown within
+    its range, it appears in your hand immediately after the attack.</p>
+  category: one-handed
+  tier: Tier 4
+  trait: finesse
+  range: close
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+9
+    modifiers: []
+    permanentModifiers: []
+    value: d8+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059093595
+  modifiedTime: 1754059093595
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: dVUU1tB1lwz3BvsU
+sort: 0
+_key: '!items!dVUU1tB1lwz3BvsU'

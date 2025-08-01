@@ -1,0 +1,40 @@
+name: Spiked Plate Armor
+type: armor
+folder: M3XRdAXzRhFT6In4
+img: icons/equipment/shoulder/pauldron-spiked-black.webp
+system:
+  description: >-
+    <p><em><strong>Sharp:</strong></em> On a successful attack against a target
+    within Melee range, add a d4 to the damage roll.</p>
+  category: ARmor
+  tier: Tier 3
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 10
+    severe: 25
+  baseScore: 5
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058962196
+  modifiedTime: 1754058962196
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: yG0NyDYFofYibi3O
+sort: 0
+_key: '!items!yG0NyDYFofYibi3O'

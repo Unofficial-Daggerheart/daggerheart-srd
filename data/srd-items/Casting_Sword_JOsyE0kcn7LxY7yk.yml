@@ -1,0 +1,45 @@
+name: Casting Sword
+type: weapon
+folder: pvhnaopPYfT0RqhT
+img: icons/weapons/swords/sword-broad-serrated-blue.webp
+system:
+  description: >-
+    <p><em><strong>Versatile:</strong></em> This weapon can also be used with
+    these statistics—Knowledge, Far, d6+3</p>
+  category: two-HAnded
+  tier: Tier 2
+  trait: strength
+  range: melee
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: 1d10+4
+    modifiers: []
+    permanentModifiers: []
+    value: 1d10+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058850677
+  modifiedTime: 1754058858940
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: JOsyE0kcn7LxY7yk
+sort: 700000
+_key: '!items!JOsyE0kcn7LxY7yk'

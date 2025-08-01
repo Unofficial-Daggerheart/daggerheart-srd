@@ -1,0 +1,46 @@
+name: Hammer of Exota
+type: weapon
+folder: pvhnaopPYfT0RqhT
+img: icons/weapons/hammers/hammer-double-engraved-ruby.webp
+system:
+  description: >-
+    <p><strong>Eruptive:</strong> On a successful attack against a target within
+    Melee range, all other adversaries within Very Close range must succeed on a
+    reaction roll (14) or take half damage.</p>
+  category: Two-Handed
+  tier: Tier 2
+  trait: instinct
+  range: melee
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+6
+    modifiers: []
+    permanentModifiers: []
+    value: d8+6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058855503
+  modifiedTime: 1754058858940
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: TzFMq60180S3LaTL
+sort: 200000
+_key: '!items!TzFMq60180S3LaTL'

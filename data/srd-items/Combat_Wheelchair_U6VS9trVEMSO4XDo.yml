@@ -1,0 +1,18 @@
+type: Item
+folder: RqqUcVfRlD99E4Os
+name: Combat Wheelchair
+color: null
+sorting: a
+_id: U6VS9trVEMSO4XDo
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  lastModifiedBy: null
+_key: '!folders!U6VS9trVEMSO4XDo'

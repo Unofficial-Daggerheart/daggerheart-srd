@@ -1,0 +1,40 @@
+name: Elundrian Chain Armor
+type: armor
+folder: s4OVsd9RGaQoXb5c
+img: icons/equipment/shoulder/pauldron-segmented-red.webp
+system:
+  description: >-
+    <p><em><strong>Warded:</strong></em> You reduce incoming magic damage by
+    your Armor Score before applying it to your damage thresholds.</p>
+  category: ARmor
+  tier: Tier 2
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 9
+    severe: 21
+  baseScore: 4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058833109
+  modifiedTime: 1754058837303
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: FTTEY1HFtLKezbK8
+sort: 100000
+_key: '!items!FTTEY1HFtLKezbK8'

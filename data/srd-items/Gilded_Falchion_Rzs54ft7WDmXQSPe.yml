@@ -1,0 +1,45 @@
+name: Gilded Falchion
+type: weapon
+folder: QlNZHbG6Sol9z2kF
+img: icons/weapons/swords/sword-guard-bronze.webp
+system:
+  description: >-
+    <p><em>Powerful:</em> On a successful attack, roll an additional damage die
+    and discard the lowest result.</p>
+  category: One-handed
+  tier: Tier 2
+  trait: strength
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+4
+    modifiers: []
+    permanentModifiers: []
+    value: d10+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058885570
+  modifiedTime: 1754058892215
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: Rzs54ft7WDmXQSPe
+sort: 100000
+_key: '!items!Rzs54ft7WDmXQSPe'

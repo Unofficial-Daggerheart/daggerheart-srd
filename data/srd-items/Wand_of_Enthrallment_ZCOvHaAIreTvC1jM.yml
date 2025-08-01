@@ -1,0 +1,45 @@
+name: Wand of Enthrallment
+type: weapon
+folder: pvhnaopPYfT0RqhT
+img: icons/weapons/wands/wand-skull-horned.webp
+system:
+  description: >-
+    <p><em><strong>Persuasive:</strong></em> Before you make a Presence Roll,
+    you can mark a Stress to gain a +2 bonus to the result.</p>
+  category: One-handed
+  tier: Tier 2
+  trait: presence
+  range: far
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+4
+    modifiers: []
+    permanentModifiers: []
+    value: d6+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058874436
+  modifiedTime: 1754058874436
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: ZCOvHaAIreTvC1jM
+sort: 0
+_key: '!items!ZCOvHaAIreTvC1jM'

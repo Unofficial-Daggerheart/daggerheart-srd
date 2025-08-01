@@ -1,0 +1,46 @@
+name: Improved Small Dagger
+type: weapon
+folder: aFdVq8BezIKSilIS
+img: icons/weapons/daggers/dagger-straight-cracked.webp
+system:
+  description: >-
+    <p><em><strong>Paired:</strong></em> +3 to primary weapon damage to targets
+    within Melee range</p>
+  category: One-Handed
+  tier: Tier 2
+  trait: finesse
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+2
+    modifiers: []
+    permanentModifiers: []
+    value: d8+2
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058928070
+  modifiedTime: 1754058930753
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: QeMbrBD21qT6bxDZ
+sort: 300000
+_key: '!items!QeMbrBD21qT6bxDZ'

@@ -1,0 +1,47 @@
+name: Parrying Dagger
+type: weapon
+folder: aFdVq8BezIKSilIS
+img: icons/weapons/daggers/dagger-black.webp
+system:
+  description: >-
+    <p><em><strong>Parry:</strong></em> When you are attacked, roll this
+    weapon's damage dice. If any of the attacker's damage dice rolled the same
+    value as your dice, the matching results are discarded from the attacker's
+    damage dice before the damage you take is totaled.</p>
+  category: One-handed
+  tier: Tier 2
+  trait: finesse
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+2
+    modifiers: []
+    permanentModifiers: []
+    value: d6+2
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058930738
+  modifiedTime: 1754058930753
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: UrGF4FByAmpx3qiG
+sort: 200000
+_key: '!items!UrGF4FByAmpx3qiG'

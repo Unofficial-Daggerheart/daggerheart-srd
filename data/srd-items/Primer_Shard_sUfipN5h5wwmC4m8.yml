@@ -1,0 +1,46 @@
+name: Primer Shard
+type: weapon
+folder: uQkAUA46tedZu7Zz
+img: icons/commodities/gems/gem-faceted-diamond-blue.webp
+system:
+  description: >-
+    <p><em><strong>Locked On:</strong></em> On a successful attack, your next
+    attack against the same target with your primary weapon</p><p>automatically
+    succeeds.</p>
+  category: One-Handed
+  tier: Tier 4
+  trait: instinct
+  range: veryClose
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d4
+    modifiers: []
+    permanentModifiers: []
+    value: d4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059146710
+  modifiedTime: 1754059146710
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: sUfipN5h5wwmC4m8
+sort: 0
+_key: '!items!sUfipN5h5wwmC4m8'

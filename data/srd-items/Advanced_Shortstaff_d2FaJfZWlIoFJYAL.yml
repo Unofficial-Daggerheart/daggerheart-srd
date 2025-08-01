@@ -1,0 +1,44 @@
+name: Advanced Shortstaff
+type: weapon
+folder: EjmSgebfzNvfK6oK
+img: icons/weapons/staves/staff-simple-spiral-green.webp
+system:
+  description: ''
+  category: one-handed
+  tier: Tier 3
+  trait: instinct
+  range: close
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+7
+    modifiers: []
+    permanentModifiers: []
+    value: d8+7
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058981922
+  modifiedTime: 1754058982902
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: d2FaJfZWlIoFJYAL
+sort: 800000
+_key: '!items!d2FaJfZWlIoFJYAL'

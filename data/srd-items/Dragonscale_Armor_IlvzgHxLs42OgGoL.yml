@@ -1,0 +1,40 @@
+name: Dragonscale Armor
+type: armor
+folder: M3XRdAXzRhFT6In4
+img: icons/commodities/leather/scales-brown.webp
+system:
+  description: >-
+    <p><em><strong>Impenetrable:</strong></em> Once per short rest, when you
+    would mark your last Hit</p><p>Point, you can instead mark a Stress.</p>
+  category: ARmor
+  tier: Tier 3
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 11
+    severe: 27
+  baseScore: 5
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058959628
+  modifiedTime: 1754058959643
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: IlvzgHxLs42OgGoL
+sort: 200000
+_key: '!items!IlvzgHxLs42OgGoL'

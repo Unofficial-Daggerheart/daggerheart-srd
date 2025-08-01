@@ -1,0 +1,44 @@
+name: Legendary Hand Runes
+type: weapon
+folder: hy5o9lU0MhROJFal
+img: icons/equipment/hand/gauntlet-armored-leather-teal.webp
+system:
+  description: ''
+  category: one-Handed
+  tier: Tier 4
+  trait: instinct
+  range: veryClose
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+9
+    modifiers: []
+    permanentModifiers: []
+    value: d10+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059092236
+  modifiedTime: 1754059092250
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: aBdZ3MJlDhXvmtel
+sort: 300000
+_key: '!items!aBdZ3MJlDhXvmtel'

@@ -1,0 +1,46 @@
+name: Black Powder Revolver
+type: weapon
+folder: YSHeGOtw3WtYQq6I
+img: icons/weapons/guns/gun-purple.webp
+system:
+  description: >-
+    <p><em><strong>Reloading:</strong></em> After you make an attack, roll a d6.
+    On a result of 1, you must mark a Stress to reload this weapon before you
+    can fire it again.</p>
+  category: One-handed
+  tier: Tier 3
+  trait: finesse
+  range: far
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+8
+    modifiers: []
+    permanentModifiers: []
+    value: d6+8
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059018162
+  modifiedTime: 1754059018162
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: eZl3yNNwCNqTvaHm
+sort: 0
+_key: '!items!eZl3yNNwCNqTvaHm'

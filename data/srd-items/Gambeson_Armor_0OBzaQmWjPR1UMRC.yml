@@ -1,0 +1,41 @@
+name: Gambeson Armor
+type: armor
+system:
+  description: >-
+    <p>Base Thresholds: 5/11</p><p>Base Armor Score: 3</p><p><span
+    class="og-divider og-wrap"><em>Flexible:</em> +1 to </span>Evasion</p>
+  category: Armor
+  tier: Tier 1
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 5
+    severe: 11
+  baseScore: 3
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+img: icons/equipment/chest/shirt-collared-yellow.webp
+effects: []
+folder: 9rKEf6zETnYYz9IO
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058614343
+  modifiedTime: 1754058614343
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: 0OBzaQmWjPR1UMRC
+sort: 0
+_key: '!items!0OBzaQmWjPR1UMRC'

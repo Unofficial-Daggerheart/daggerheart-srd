@@ -1,0 +1,44 @@
+name: Improved Hallowed Axe
+type: weapon
+folder: pvhnaopPYfT0RqhT
+img: icons/weapons/axes/axe-broad-chipped-glow-yellow.webp
+system:
+  description: ''
+  category: One-handed
+  tier: Tier 2
+  trait: strength
+  range: melee
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+4
+    modifiers: []
+    permanentModifiers: []
+    value: d8+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058860570
+  modifiedTime: 1754058860570
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: M4VlRbmJ21Kp277Q
+sort: 0
+_key: '!items!M4VlRbmJ21Kp277Q'

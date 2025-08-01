@@ -1,0 +1,40 @@
+name: Improved Gambeson Armor
+type: armor
+system:
+  description: >-
+    <p><span class="og-divider og-wrap"><em>Flexible:</em> +1 to
+    </span>Evasion</p>
+  category: Armor
+  tier: Tier 2
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 7
+    severe: 16
+  baseScore: 4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+img: icons/equipment/chest/shirt-collared-yellow.webp
+effects: []
+folder: s4OVsd9RGaQoXb5c
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058838009
+  modifiedTime: 1754058838009
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: ppPCV4uJgicSssbZ
+sort: 0
+_key: '!items!ppPCV4uJgicSssbZ'

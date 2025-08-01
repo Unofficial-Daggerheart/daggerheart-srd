@@ -1,0 +1,45 @@
+name: Devouring Dagger
+type: weapon
+folder: pvhnaopPYfT0RqhT
+img: icons/weapons/daggers/dagger-bone-grey.webp
+system:
+  description: >-
+    <p><em><strong>Scary:</strong></em> On a successful attack, the target must
+    mark a Stress.</p>
+  category: One-handed
+  tier: Tier 2
+  trait: finesse
+  range: melee
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+4
+    modifiers: []
+    permanentModifiers: []
+    value: d8+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058851873
+  modifiedTime: 1754058858940
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: K29C80q43WX7Gh8S
+sort: 900000
+_key: '!items!K29C80q43WX7Gh8S'

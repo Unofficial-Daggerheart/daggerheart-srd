@@ -1,0 +1,46 @@
+name: Advanced Grappler
+type: weapon
+folder: h2cuWcYd59DMYKVA
+img: icons/tools/fishing/hook-simple-steel-grey.webp
+system:
+  description: >-
+    <p><em><strong>Hooked:</strong></em> On a successful attack, you can pull
+    the target into Melee range.</p>
+  category: one-handed
+  tier: Tier 3
+  trait: finesse
+  range: close
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+4
+    modifiers: []
+    permanentModifiers: []
+    value: d6+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059036637
+  modifiedTime: 1754059044518
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: 5FvIPtopdJ6dfBGX
+sort: 500000
+_key: '!items!5FvIPtopdJ6dfBGX'

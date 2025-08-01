@@ -1,0 +1,45 @@
+name: Steelforged Halberd
+type: weapon
+folder: QlNZHbG6Sol9z2kF
+img: icons/weapons/polearms/halberd-curved-steel.webp
+system:
+  description: >-
+    <p><em><strong>Scary:</strong></em> On a successful attack, the target must
+    mark a Stress.</p>
+  category: Two-handed
+  tier: Tier 2
+  trait: strength
+  range: veryClose
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+4
+    modifiers: []
+    permanentModifiers: []
+    value: d8+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058909055
+  modifiedTime: 1754058909055
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: qRrzFWbVP7jwwvJF
+sort: 0
+_key: '!items!qRrzFWbVP7jwwvJF'

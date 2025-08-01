@@ -1,0 +1,46 @@
+name: Braveshield
+type: weapon
+folder: uQkAUA46tedZu7Zz
+img: icons/equipment/shield/heater-steel-spiral.webp
+system:
+  description: >-
+    <p><em><strong>Sheltering:</strong></em> When you mark an Armor Slot, it
+    reduces damage for you and all allies within Melee range of you who took the
+    same damage.</p>
+  category: One-handed
+  tier: Tier 4
+  trait: agility
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d4+6
+    modifiers: []
+    permanentModifiers: []
+    value: d4+6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059138064
+  modifiedTime: 1754059138064
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: u1YByoFNI2w33KbJ
+sort: 0
+_key: '!items!u1YByoFNI2w33KbJ'

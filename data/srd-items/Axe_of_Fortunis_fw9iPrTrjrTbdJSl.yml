@@ -1,0 +1,45 @@
+name: Axe of Fortunis
+type: weapon
+folder: EjmSgebfzNvfK6oK
+img: icons/weapons/axes/axe-battle-worn-black.webp
+system:
+  description: >-
+    <p><em><strong>Lucky:</strong></em> On a failed attack, you can mark a
+    Stress to reroll your attack</p>
+  category: Two-handed
+  tier: Tier 3
+  trait: strength
+  range: melee
+  damageType: ''
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+8
+    modifiers: []
+    permanentModifiers: []
+    value: d10+8
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058985015
+  modifiedTime: 1754058985015
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: fw9iPrTrjrTbdJSl
+sort: 0
+_key: '!items!fw9iPrTrjrTbdJSl'

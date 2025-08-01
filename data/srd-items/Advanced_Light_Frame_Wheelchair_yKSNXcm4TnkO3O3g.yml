@@ -1,0 +1,45 @@
+name: Advanced Light-Frame Wheelchair
+type: weapon
+folder: cvI8Ydrm8EBR0qVE
+img: icons/commodities/wood/wood-wheel-brown.webp
+system:
+  description: >-
+    <p><em><strong>Quick:</strong></em> When you make an attack, you can mark a
+    Stress to target another creature within range.</p>
+  category: One-handed
+  tier: Tier 3
+  trait: agility
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+6
+    modifiers: []
+    permanentModifiers: []
+    value: d8+6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058670018
+  modifiedTime: 1754058670018
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: yKSNXcm4TnkO3O3g
+sort: 0
+_key: '!items!yKSNXcm4TnkO3O3g'

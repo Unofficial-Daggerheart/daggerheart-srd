@@ -1,0 +1,45 @@
+name: Impact Gauntlet
+type: weapon
+folder: RTh4d1xFiQSdYuXT
+img: icons/magic/earth/strike-fist-stone-gray.webp
+system:
+  description: >-
+    <p><em><strong>Concussive:</strong></em> On a successful attack, you can
+    spend a Hope to knock the target back to Far range.</p>
+  category: One-handed
+  tier: Tier 4
+  trait: strength
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+11
+    modifiers: []
+    permanentModifiers: []
+    value: d10+11
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059114166
+  modifiedTime: 1754059115816
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: llF1xxsIIRqHdmNu
+sort: 400000
+_key: '!items!llF1xxsIIRqHdmNu'

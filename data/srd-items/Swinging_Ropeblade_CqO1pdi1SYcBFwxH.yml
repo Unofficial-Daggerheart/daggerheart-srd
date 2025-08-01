@@ -1,0 +1,46 @@
+name: Swinging Ropeblade
+type: weapon
+folder: RTh4d1xFiQSdYuXT
+img: icons/equipment/neck/necklace-simple-hook-stone.webp
+system:
+  description: >-
+    <p><em><strong>Grappling:</strong></em> On a successful attack, you can
+    spend a Hope to Restrain the target or pull them into Melee range with
+    you.</p>
+  category: Two-handed
+  tier: Tier 4
+  trait: presence
+  range: close
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+9
+    modifiers: []
+    permanentModifiers: []
+    value: d8+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059131192
+  modifiedTime: 1754059131192
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: CqO1pdi1SYcBFwxH
+sort: 0
+_key: '!items!CqO1pdi1SYcBFwxH'

@@ -1,0 +1,38 @@
+name: Bellamoi Fine Armor
+type: armor
+folder: M3XRdAXzRhFT6In4
+img: icons/equipment/chest/breastplate-layered-gold.webp
+system:
+  description: <p><em><strong>Gilded:</strong></em> +1 to Presence</p>
+  category: ARmor
+  tier: Tier 3
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 11
+    severe: 27
+  baseScore: 5
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058958005
+  modifiedTime: 1754058959643
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: ozREGpbi4eGslsy7
+sort: 300000
+_key: '!items!ozREGpbi4eGslsy7'

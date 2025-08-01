@@ -1,0 +1,46 @@
+name: Magus Revolver
+type: weapon
+folder: hy5o9lU0MhROJFal
+img: icons/weapons/guns/gun-pistol-brown.webp
+system:
+  description: >-
+    <p><em><strong>Reloading:</strong></em> After you make an attack, roll a d6.
+    On a result of 1, you must mark a Stress to reload this weapon before you
+    can fire it again.</p>
+  category: One-Handed
+  tier: Tier 4
+  trait: finesse
+  range: veryFar
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+13
+    modifiers: []
+    permanentModifiers: []
+    value: d6+13
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059096959
+  modifiedTime: 1754059096959
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: 23jFVwBD3z5FvU34
+sort: 0
+_key: '!items!23jFVwBD3z5FvU34'

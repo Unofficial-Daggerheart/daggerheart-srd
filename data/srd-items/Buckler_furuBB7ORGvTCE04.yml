@@ -1,0 +1,46 @@
+name: Buckler
+type: weapon
+folder: h2cuWcYd59DMYKVA
+img: icons/equipment/shield/round-wooden-boss-steel-red.webp
+system:
+  description: >-
+    <p><em><strong>Deflecting:</strong></em> When you are attacked, you can mark
+    an Armor Slot to gain a bonus to your Evasion equal to your Armor Score
+    against the attack.</p>
+  category: ONE-HANDED
+  tier: Tier 3
+  trait: agility
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d4+4
+    modifiers: []
+    permanentModifiers: []
+    value: d4+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059045245
+  modifiedTime: 1754059045245
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: furuBB7ORGvTCE04
+sort: 0
+_key: '!items!furuBB7ORGvTCE04'

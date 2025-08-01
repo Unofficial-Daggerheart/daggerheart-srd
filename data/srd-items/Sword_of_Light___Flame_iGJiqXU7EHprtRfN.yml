@@ -1,0 +1,45 @@
+name: Sword of Light & Flame
+type: weapon
+folder: hy5o9lU0MhROJFal
+img: icons/magic/fire/dagger-rune-enchant-flame-strong-red.webp
+system:
+  description: >-
+    <p><em><strong>Hot:</strong></em> This weapon cuts through solid
+    material.</p>
+  category: Two-Handed
+  tier: Tier 4
+  trait: strength
+  range: melee
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+11
+    modifiers: []
+    permanentModifiers: []
+    value: d10+11
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059099453
+  modifiedTime: 1754059099453
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: iGJiqXU7EHprtRfN
+sort: 0
+_key: '!items!iGJiqXU7EHprtRfN'

@@ -1,0 +1,44 @@
+name: Legendary Spear
+type: weapon
+folder: RTh4d1xFiQSdYuXT
+img: icons/weapons/polearms/spear-flared-worn.webp
+system:
+  description: ''
+  category: "Two-Handed \t"
+  tier: Tier 4
+  trait: finesse
+  range: veryClose
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+12
+    modifiers: []
+    permanentModifiers: []
+    value: d8+12
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059127938
+  modifiedTime: 1754059127938
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: URi83WQ0sW8umz0b
+sort: 0
+_key: '!items!URi83WQ0sW8umz0b'

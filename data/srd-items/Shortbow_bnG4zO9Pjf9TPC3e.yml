@@ -1,0 +1,44 @@
+name: Shortbow
+type: weapon
+folder: BM52XUGzAhAWn2Ut
+img: icons/weapons/bows/shortbow-leather.webp
+system:
+  description: ''
+  category: Two-Handed
+  tier: Tier 1
+  trait: agility
+  range: far
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+3
+    modifiers: []
+    permanentModifiers: []
+    value: d6+3
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058797625
+  modifiedTime: 1754058797625
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: bnG4zO9Pjf9TPC3e
+sort: 0
+_key: '!items!bnG4zO9Pjf9TPC3e'

@@ -1,0 +1,45 @@
+name: Curved Dagger
+type: weapon
+folder: RTh4d1xFiQSdYuXT
+img: icons/weapons/daggers/dagger-jagged-handguard-black.webp
+system:
+  description: >-
+    <p><em><strong>Serrated:</strong></em> When you roll a 1 on a damage die, it
+    deals 8 damage instead.</p>
+  category: One-handed
+  tier: Tier 4
+  trait: finesse
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+9
+    modifiers: []
+    permanentModifiers: []
+    value: d8+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059110550
+  modifiedTime: 1754059115816
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: EoVRkXe4fdQObwS5
+sort: 800000
+_key: '!items!EoVRkXe4fdQObwS5'

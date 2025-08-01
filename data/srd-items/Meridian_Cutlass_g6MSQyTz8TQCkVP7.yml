@@ -1,0 +1,46 @@
+name: Meridian Cutlass
+type: weapon
+folder: YSHeGOtw3WtYQq6I
+img: icons/weapons/swords/scimitar-guard-gold.webp
+system:
+  description: >-
+    <p><em><strong>Dueling:</strong></em> When there are no other creatures
+    within Close range of the target, gain advantage on your attack roll against
+    them.</p>
+  category: One-handed
+  tier: Tier 3
+  trait: presence
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+5
+    modifiers: []
+    permanentModifiers: []
+    value: d10+5
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059024115
+  modifiedTime: 1754059024115
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: g6MSQyTz8TQCkVP7
+sort: 0
+_key: '!items!g6MSQyTz8TQCkVP7'

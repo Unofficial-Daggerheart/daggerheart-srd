@@ -1,0 +1,46 @@
+name: Legendary Whip
+type: weapon
+folder: uQkAUA46tedZu7Zz
+img: icons/weapons/misc/whip-red-yellow.webp
+system:
+  description: >-
+    <p><em><strong>Startling:</strong></em> Mark a Stress to crack the whip and
+    force all adversaries within Melee range back to Close range.</p>
+  category: one-handed
+  tier: Tier 4
+  trait: presence
+  range: veryClose
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+6
+    modifiers: []
+    permanentModifiers: []
+    value: d6+6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059145824
+  modifiedTime: 1754059145824
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: I7CkPeM5YoWrCmfl
+sort: 0
+_key: '!items!I7CkPeM5YoWrCmfl'

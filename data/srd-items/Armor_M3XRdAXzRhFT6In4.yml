@@ -1,0 +1,18 @@
+type: Item
+folder: w5sAr2rry9YiAkfo
+name: Armor
+color: null
+sorting: a
+_id: M3XRdAXzRhFT6In4
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  lastModifiedBy: null
+_key: '!folders!M3XRdAXzRhFT6In4'

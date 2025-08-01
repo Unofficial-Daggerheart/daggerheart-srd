@@ -1,0 +1,44 @@
+name: Round Shield
+type: weapon
+folder: IdvtUdfLrXHZsELL
+img: icons/equipment/shield/buckler-wooden-boss-brown.webp
+system:
+  description: <p><em><strong>Protective:</strong></em> +1 to Armor Score</p>
+  category: One-handed
+  tier: '1'
+  trait: strength
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d4
+    modifiers: []
+    permanentModifiers: []
+    value: d4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058811934
+  modifiedTime: 1754058812786
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: ZLsQOFBCmzDFwJJa
+sort: 400000
+_key: '!items!ZLsQOFBCmzDFwJJa'

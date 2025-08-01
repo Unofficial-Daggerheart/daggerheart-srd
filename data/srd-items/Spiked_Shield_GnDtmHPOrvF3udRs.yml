@@ -1,0 +1,45 @@
+name: Spiked Shield
+type: weapon
+folder: aFdVq8BezIKSilIS
+img: icons/environment/traps/metal-spikes.webp
+system:
+  description: >-
+    <p><em><strong>Double Duty:</strong></em> +1 to Armor Score; +1 to primary
+    weapon damage within Melee range</p>
+  category: One-Handed
+  tier: Tier 2
+  trait: strength
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+2
+    modifiers: []
+    permanentModifiers: []
+    value: d6+2
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058934405
+  modifiedTime: 1754058934405
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: GnDtmHPOrvF3udRs
+sort: 0
+_key: '!items!GnDtmHPOrvF3udRs'

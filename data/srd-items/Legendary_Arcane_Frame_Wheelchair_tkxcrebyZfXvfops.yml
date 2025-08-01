@@ -1,0 +1,45 @@
+name: Legendary Arcane-Frame Wheelchair
+type: weapon
+folder: U6VS9trVEMSO4XDo
+img: icons/commodities/tech/cylinder-blue.webp
+system:
+  description: >-
+    <p><em><strong>Reliable:</strong></em> +1 to attack rolls<br /><br /><em>Set
+    the item's weapon trait to your spellcast trait</em></p>
+  category: One-handed
+  tier: Tier 1
+  trait: ''
+  range: far
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+9
+    modifiers: []
+    permanentModifiers: []
+    value: d6+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058674496
+  modifiedTime: 1754058674496
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: tkxcrebyZfXvfops
+sort: 0
+_key: '!items!tkxcrebyZfXvfops'

@@ -1,0 +1,46 @@
+name: Legendary Scepter
+type: weapon
+folder: hy5o9lU0MhROJFal
+img: icons/weapons/staves/staff-crescent-green.webp
+system:
+  description: >-
+    <p><em><strong>Versatile:</strong></em> This weapon can also be used with
+    these statistics—Presence, Melee, d8.</p>
+  category: Two-Handed
+  tier: Tier 4
+  trait: presence
+  range: far
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+9
+    modifiers: []
+    permanentModifiers: []
+    value: d6+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059094609
+  modifiedTime: 1754059094609
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: Eb5mbF9n07bbgB9t
+sort: 0
+_key: '!items!Eb5mbF9n07bbgB9t'

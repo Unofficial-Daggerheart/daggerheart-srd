@@ -1,0 +1,44 @@
+name: Crossbow
+type: weapon
+folder: BM52XUGzAhAWn2Ut
+img: icons/weapons/crossbows/crossbow-slotted.webp
+system:
+  description: ''
+  category: Two-Handed
+  tier: Tier 1
+  trait: finesse
+  range: far
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+1
+    modifiers: []
+    permanentModifiers: []
+    value: d6+1
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058787157
+  modifiedTime: 1754058790746
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: SphOIkgHlSuTc52m
+sort: 400000
+_key: '!items!SphOIkgHlSuTc52m'

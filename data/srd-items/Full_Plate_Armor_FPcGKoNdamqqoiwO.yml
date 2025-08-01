@@ -1,0 +1,42 @@
+name: Full Plate Armor
+type: armor
+folder: 9rKEf6zETnYYz9IO
+img: icons/equipment/chest/breastplate-layered-grey.webp
+system:
+  description: >-
+    <p>Base Thresholds: 8/17</p><p>Base Armor Score: 4</p><p><span
+    class="og-divider og-wrap"><em>Very Heavy:</em> −2 to</span> Evasion; <span
+    class="og-divider og-wrap"> −2 to</span> Agility</p>
+  category: Armor
+  tier: Tier 1
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 8
+    severe: 17
+  baseScore: 4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 2
+  oP9DOnt48gLdnVCV: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058613261
+  modifiedTime: 1754058613261
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: FPcGKoNdamqqoiwO
+sort: 0
+_key: '!items!FPcGKoNdamqqoiwO'

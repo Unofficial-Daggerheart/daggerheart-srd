@@ -1,0 +1,46 @@
+name: Legendary Small Dagger
+type: weapon
+folder: uQkAUA46tedZu7Zz
+img: icons/weapons/daggers/dagger-straight-cracked.webp
+system:
+  description: >-
+    <p><em><strong>Paired:</strong></em> +5 to primary weapon damage to targets
+    within Melee range</p>
+  category: One-Handed
+  tier: Tier 4
+  trait: finesse
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d8+6
+    modifiers: []
+    permanentModifiers: []
+    value: d8+6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059143983
+  modifiedTime: 1754059144001
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: v2c4Q0rsDATEr5VJ
+sort: 25000
+_key: '!items!v2c4Q0rsDATEr5VJ'

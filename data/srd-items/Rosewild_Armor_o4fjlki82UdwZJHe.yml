@@ -1,0 +1,40 @@
+name: Rosewild Armor
+type: armor
+folder: s4OVsd9RGaQoXb5c
+img: icons/equipment/chest/breastplate-collared-steel.webp
+system:
+  description: >-
+    <p><em><strong>Hopeful:</strong></em> When you would spend a Hope, you can
+    mark an Armor Slot instead.</p>
+  category: Armor
+  tier: Tier 2
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 11
+    severe: 23
+  baseScore: 5
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058840803
+  modifiedTime: 1754058840803
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: o4fjlki82UdwZJHe
+sort: 0
+_key: '!items!o4fjlki82UdwZJHe'

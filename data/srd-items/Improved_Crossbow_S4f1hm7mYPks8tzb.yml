@@ -1,0 +1,44 @@
+name: Improved Crossbow
+type: weapon
+folder: QlNZHbG6Sol9z2kF
+img: icons/weapons/crossbows/crossbow-slotted.webp
+system:
+  description: ''
+  category: Two-Handed
+  tier: Tier 2
+  trait: finesse
+  range: far
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+4
+    modifiers: []
+    permanentModifiers: []
+    value: d6+4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058889473
+  modifiedTime: 1754058892215
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: S4f1hm7mYPks8tzb
+sort: 600000
+_key: '!items!S4f1hm7mYPks8tzb'

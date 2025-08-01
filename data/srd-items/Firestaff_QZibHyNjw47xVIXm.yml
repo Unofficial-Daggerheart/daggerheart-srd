@@ -1,0 +1,45 @@
+name: Firestaff
+type: weapon
+folder: EjmSgebfzNvfK6oK
+img: icons/weapons/staves/staff-ornate-red.webp
+system:
+  description: >-
+    <p><em><strong>Burning:</strong></em> When you roll a 6 on a damage die, the
+    target must mark a Stress</p>
+  category: Two-handed
+  tier: Tier 3
+  trait: instinct
+  range: far
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+7
+    modifiers: []
+    permanentModifiers: []
+    value: d6+7
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058986884
+  modifiedTime: 1754058986884
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: QZibHyNjw47xVIXm
+sort: 0
+_key: '!items!QZibHyNjw47xVIXm'

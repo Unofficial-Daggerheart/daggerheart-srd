@@ -1,0 +1,40 @@
+name: Monett’s Cloak
+type: armor
+folder: M3XRdAXzRhFT6In4
+img: icons/equipment/back/cape-layered-red.webp
+system:
+  description: >-
+    <p><em><strong>Magic:</strong></em> You can’t mark an Armor Slot to reduce
+    physical damage.</p>
+  category: ARmor
+  tier: Tier 3
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 16
+    severe: 39
+  baseScore: 6
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058960452
+  modifiedTime: 1754058960452
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: V2a5pnaXLt7CkfII
+sort: 0
+_key: '!items!V2a5pnaXLt7CkfII'

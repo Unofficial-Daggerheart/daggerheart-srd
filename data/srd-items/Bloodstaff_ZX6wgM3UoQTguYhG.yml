@@ -1,0 +1,45 @@
+name: Bloodstaff
+type: weapon
+folder: hy5o9lU0MhROJFal
+img: icons/magic/death/skull-weapon-staff-glow-pink.webp
+system:
+  description: >-
+    <p><em><strong>Painful:</strong></em> Each time you make a successful
+    attack, you must mark a Stress.</p>
+  category: Two-Handed
+  tier: Tier 4
+  trait: instinct
+  range: far
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d20+7
+    modifiers: []
+    permanentModifiers: []
+    value: d20+7
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059085005
+  modifiedTime: 1754059092250
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: ZX6wgM3UoQTguYhG
+sort: 700000
+_key: '!items!ZX6wgM3UoQTguYhG'

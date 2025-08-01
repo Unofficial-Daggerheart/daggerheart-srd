@@ -1,0 +1,44 @@
+name: Legendary Dualstaff
+type: weapon
+folder: hy5o9lU0MhROJFal
+img: icons/weapons/staves/staff-simple-brown.webp
+system:
+  description: ''
+  category: two-handed
+  tier: Tier 4
+  trait: instinct
+  range: far
+  damageType: magical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d6+12
+    modifiers: []
+    permanentModifiers: []
+    value: d6+12
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059088645
+  modifiedTime: 1754059092250
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: fMQ3vVLYkfdLlMk6
+sort: 200000
+_key: '!items!fMQ3vVLYkfdLlMk6'

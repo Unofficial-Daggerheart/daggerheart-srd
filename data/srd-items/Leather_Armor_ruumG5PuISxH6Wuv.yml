@@ -1,0 +1,41 @@
+name: Leather Armor
+type: armor
+folder: 9rKEf6zETnYYz9IO
+img: icons/equipment/chest/vest-leather-brown.webp
+system:
+  description: >-
+    <p>Base Thresholds:<span class="og-divider"> 6/13</span> </p><p>Base Armor
+    Score<span class="og-divider">: 3</span></p>
+  category: Armor
+  tier: Tier 1
+  location: backpack
+  equipped: false
+  baseThresholds:
+    major: 6
+    severe: 13
+  baseScore: 3
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754058615496
+  modifiedTime: 1754058615496
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: ruumG5PuISxH6Wuv
+sort: 0
+_key: '!items!ruumG5PuISxH6Wuv'

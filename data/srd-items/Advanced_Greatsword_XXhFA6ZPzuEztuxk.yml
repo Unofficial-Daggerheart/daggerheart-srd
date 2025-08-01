@@ -1,0 +1,46 @@
+name: Advanced Greatsword
+type: weapon
+folder: YSHeGOtw3WtYQq6I
+img: icons/weapons/swords/greatsword-sheathed.webp
+system:
+  description: >-
+    <p><em><strong>Massive:</strong></em> −1 to Evasion; on a successful attack,
+    roll an additional damage die and discard the lowest result.</p>
+  category: Two-Handed
+  tier: Tier 3
+  trait: strength
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+9
+    modifiers: []
+    permanentModifiers: []
+    value: d10+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059008261
+  modifiedTime: 1754059012761
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 2
+  GURa9Tm6QJyl1rY7: 3
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: XXhFA6ZPzuEztuxk
+sort: 200000
+_key: '!items!XXhFA6ZPzuEztuxk'

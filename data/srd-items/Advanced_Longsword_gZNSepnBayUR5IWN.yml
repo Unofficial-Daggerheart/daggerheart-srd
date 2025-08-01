@@ -1,0 +1,43 @@
+name: Advanced Longsword
+type: weapon
+folder: YSHeGOtw3WtYQq6I
+img: icons/weapons/swords/sword-guard-blue.webp
+system:
+  description: ''
+  category: Two-Handed
+  tier: Tier 3
+  trait: agility
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: d10+9
+    modifiers: []
+    permanentModifiers: []
+    value: d10+9
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754059010906
+  modifiedTime: 1754059012761
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: gZNSepnBayUR5IWN
+sort: 600000
+_key: '!items!gZNSepnBayUR5IWN'
