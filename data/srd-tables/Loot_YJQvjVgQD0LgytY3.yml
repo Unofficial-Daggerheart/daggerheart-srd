@@ -1384,7 +1384,7 @@ results:
     documentUuid: Compendium.daggerheart-srd.srd-items.Item.FAcDxmaIzZOPYqAd
     _key: '!tables.results!YJQvjVgQD0LgytY3.SHcbYetMDwi0yB9w'
 replacement: true
-displayRoll: true
+displayRoll: false
 folder: null
 sort: 0
 ownership:
@@ -1399,7 +1399,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754156993991
-  modifiedTime: 1754157260262
+  modifiedTime: 1754159734455
   lastModifiedBy: PBdPE9squMuZKhHK
-formula: 1d61
+formula: 1d60
 _key: '!tables!YJQvjVgQD0LgytY3'

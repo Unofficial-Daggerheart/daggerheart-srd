@@ -1388,7 +1388,7 @@ results:
       lastModifiedBy: PBdPE9squMuZKhHK
     _key: '!tables.results!FQafxTWOHgUeycVu.QzIGE4cVpRtkosmG'
 replacement: true
-displayRoll: true
+displayRoll: false
 folder: null
 sort: 0
 ownership:
@@ -1403,7 +1403,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754156973720
-  modifiedTime: 1754158825325
+  modifiedTime: 1754159761390
   lastModifiedBy: PBdPE9squMuZKhHK
 formula: 1d60
 _key: '!tables!FQafxTWOHgUeycVu'
