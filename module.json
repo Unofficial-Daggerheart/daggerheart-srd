@@ -70,10 +70,23 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "srd-tables",
+      "label": "srd-tables",
+      "path": "packs/srd-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart"
     }
   ],
   "url": "https://github.com/unofficial-daggerheart/daggerheart-srd",
   "bugs": "https://github.com/unofficial-daggerheart/daggerheart-srd/issues",
   "download": "https://github.com/unofficial-daggerheart/daggerheart-srd/releases/latest/download/module.zip",
-  "manifest": "https://github.com/unofficial-daggerheart/daggerheart-srd/releases/latest/download/module.json"
+  "manifest": "https://github.com/unofficial-daggerheart/daggerheart-srd/releases/latest/download/module.json",
+  "description": "",
+  "flags": {}
 }
