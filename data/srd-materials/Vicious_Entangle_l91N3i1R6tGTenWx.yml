@@ -10,7 +10,7 @@ system:
     ground, dealing [[/roll 1d8+1]] physical damage and temporarily
     @UUID[Compendium.daggerheart-srd.srd-materials.Item.967FSSCW150Zpp5E]{restraining}the
     target.</p><p>Additionally on a success, you can spend a Hope to temporarily
-    @UUID[Compendium.mikes-daggerheart-compendiums.mike-dh-references.Item.oYhv37yGK1xLTS6y]{Restrain}
+    @UUID[Compendium.daggerheart-srd.srd-materials.Item.967FSSCW150Zpp5E]{restrain}
     another adversary within <strong>Very Close</strong> range of your
     target.</p>
   category: Sage - level 1
@@ -31,7 +31,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139708798
-  modifiedTime: 1754144129671
+  modifiedTime: 1754152577894
   lastModifiedBy: PBdPE9squMuZKhHK
 sort: 0
 ownership:
