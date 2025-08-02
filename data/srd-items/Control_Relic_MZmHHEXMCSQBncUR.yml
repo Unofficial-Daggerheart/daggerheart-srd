@@ -1,0 +1,32 @@
+name: Control Relic
+type: item
+folder: YayQIYitpacIM2u2
+_id: MZmHHEXMCSQBncUR
+img: icons/commodities/treasure/token-worn-yang-brown.webp
+system:
+  description: <p>You gain a +1 bonus to your Finesse. You can only carry one relic.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754157923095
+  modifiedTime: 1754157976903
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!MZmHHEXMCSQBncUR'

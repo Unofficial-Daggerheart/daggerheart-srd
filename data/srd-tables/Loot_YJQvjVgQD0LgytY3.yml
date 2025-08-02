@@ -1,0 +1,1405 @@
+name: Loot
+_id: YJQvjVgQD0LgytY3
+img: icons/commodities/treasure/token-runed-fehu-gold.webp
+description: ''
+results:
+  - type: document
+    weight: 1
+    range:
+      - 1
+      - 1
+    _id: pNR31hnAd8KtOocN
+    name: Premium Bedroll
+    img: icons/sundries/survival/bedroll-blue-red.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157055575
+      modifiedTime: 1754157130894
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.Fat9RaU1Ru4iflZQ
+    _key: '!tables.results!YJQvjVgQD0LgytY3.pNR31hnAd8KtOocN'
+  - type: document
+    weight: 1
+    range:
+      - 2
+      - 2
+    _id: oLCGmFJfbItFk0iq
+    name: Piper Whistle
+    img: icons/tools/instruments/pipe-flue-tan.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157055751
+      modifiedTime: 1754157153231
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.qvR0mKBIlS7vO9cy
+    _key: '!tables.results!YJQvjVgQD0LgytY3.oLCGmFJfbItFk0iq'
+  - type: document
+    weight: 1
+    range:
+      - 3
+      - 3
+    _id: gxqw1tailrhm5H3A
+    name: Charging Quiver
+    img: icons/containers/ammunition/arrows-quiver-black.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157055922
+      modifiedTime: 1754157180393
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.0jeXnlUfAyo8K1tK
+    _key: '!tables.results!YJQvjVgQD0LgytY3.gxqw1tailrhm5H3A'
+  - type: document
+    weight: 1
+    range:
+      - 4
+      - 4
+    _id: icYg6r3Da3jsy88L
+    name: Alistair's Torch
+    img: icons/sundries/lights/torch-brown-lit.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157056091
+      modifiedTime: 1754157194182
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.tbRbKn6XUg26veGv
+    _key: '!tables.results!YJQvjVgQD0LgytY3.icYg6r3Da3jsy88L'
+  - type: document
+    weight: 1
+    range:
+      - 5
+      - 5
+    _id: Wpc3wD4E7gMxlc1j
+    name: Speaking Orbs
+    img: icons/commodities/treasure/brooch-pink-orbs.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157056270
+      modifiedTime: 1754157213414
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.Aye1nuPPvP2ryvcB
+    _key: '!tables.results!YJQvjVgQD0LgytY3.Wpc3wD4E7gMxlc1j'
+  - type: document
+    weight: 1
+    range:
+      - 6
+      - 6
+    _id: LEPhzG5jGHs3WpvE
+    name: Manacles
+    img: icons/sundries/survival/cuffs-shackles-steel.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157056450
+      modifiedTime: 1754157236672
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.TSURw1Pky1USVsKt
+    _key: '!tables.results!YJQvjVgQD0LgytY3.LEPhzG5jGHs3WpvE'
+  - type: document
+    weight: 1
+    range:
+      - 7
+      - 7
+    _id: 4WtznRCKO5XzpYrg
+    name: Arcane Cloak
+    img: icons/equipment/back/cloak-collared-feathers-green.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157056633
+      modifiedTime: 1754157248007
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.Om51b249yPsP520e
+    _key: '!tables.results!YJQvjVgQD0LgytY3.4WtznRCKO5XzpYrg'
+  - type: document
+    weight: 1
+    range:
+      - 8
+      - 8
+    _id: vscXdppjJCdYfB6T
+    name: Woven Net
+    img: icons/tools/fishing/net-tan.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157056810
+      modifiedTime: 1754157284491
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.zUwDLRIOw6jzx3px
+    _key: '!tables.results!YJQvjVgQD0LgytY3.vscXdppjJCdYfB6T'
+  - type: document
+    weight: 1
+    range:
+      - 9
+      - 9
+    _id: NFLyh59KdDPrhAAm
+    name: Fire Jar
+    img: icons/consumables/potions/potion-jar-corked-orange.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157056988
+      modifiedTime: 1754157298124
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.SA64frYGofqESSrV
+    _key: '!tables.results!YJQvjVgQD0LgytY3.NFLyh59KdDPrhAAm'
+  - type: document
+    weight: 1
+    range:
+      - 10
+      - 10
+    _id: jJ4OA6PbWXTPyUw6
+    name: Suspended Rod
+    img: icons/commodities/tech/pipe-lead-closed.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157057171
+      modifiedTime: 1754157320066
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.cFIVGQJDomXH0GFS
+    _key: '!tables.results!YJQvjVgQD0LgytY3.jJ4OA6PbWXTPyUw6'
+  - type: document
+    weight: 1
+    range:
+      - 11
+      - 11
+    _id: Wld2eYAIAFr6VMWj
+    name: Glamour Stone
+    img: icons/commodities/gems/gem-cut-faceted-square-purple.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157057352
+      modifiedTime: 1754157331036
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.VQOlu2qzUmhX6rLH
+    _key: '!tables.results!YJQvjVgQD0LgytY3.Wld2eYAIAFr6VMWj'
+  - type: document
+    weight: 1
+    range:
+      - 12
+      - 12
+    _id: jTKBGveTOyKCfqis
+    name: Empty Chest
+    img: icons/containers/chest/chest-reinforced-steel-red.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157057536
+      modifiedTime: 1754157344171
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.AR7nSnENYGsBHbkE
+    _key: '!tables.results!YJQvjVgQD0LgytY3.jTKBGveTOyKCfqis'
+  - type: document
+    weight: 1
+    range:
+      - 13
+      - 13
+    _id: tMQgsCJ3znDCGDvs
+    name: Companion Case
+    img: icons/containers/chest/chest-simple-box-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157057706
+      modifiedTime: 1754157357136
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.MvVqDUKpVEEYwIuC
+    _key: '!tables.results!YJQvjVgQD0LgytY3.tMQgsCJ3znDCGDvs'
+  - type: document
+    weight: 1
+    range:
+      - 14
+      - 14
+    _id: vSvnE6t28I9X1ZqN
+    name: Piercing Arrows
+    img: icons/skills/ranged/arrow-flying-spiral-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157057895
+      modifiedTime: 1754157383811
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.DUiR3TxoUeQAY1LH
+    _key: '!tables.results!YJQvjVgQD0LgytY3.vSvnE6t28I9X1ZqN'
+  - type: document
+    weight: 1
+    range:
+      - 15
+      - 15
+    _id: NUeRWRkPh2usqzQJ
+    name: Valorstone
+    img: icons/commodities/currency/coin-engraved-tail-gold.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157059949
+      modifiedTime: 1754157398578
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.u1KFHud0GXXaln9L
+    _key: '!tables.results!YJQvjVgQD0LgytY3.NUeRWRkPh2usqzQJ'
+  - type: document
+    weight: 1
+    range:
+      - 16
+      - 16
+    _id: 4oaxwmQ245PQWvmT
+    name: Skeleton Key
+    img: icons/sundries/misc/key-steel.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157060129
+      modifiedTime: 1754157415855
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.Tdx2T1Gng0hMyPqJ
+    _key: '!tables.results!YJQvjVgQD0LgytY3.4oaxwmQ245PQWvmT'
+  - type: document
+    weight: 1
+    range:
+      - 17
+      - 17
+    _id: 7mhvyZUe01aZm6cq
+    name: Arcane Prism
+    img: icons/commodities/treasure/crown-blue-gold.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157060312
+      modifiedTime: 1754157426939
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.qPo77eUr5e0RKBHK
+    _key: '!tables.results!YJQvjVgQD0LgytY3.7mhvyZUe01aZm6cq'
+  - type: document
+    weight: 1
+    range:
+      - 18
+      - 18
+    _id: 0NHrlkBnZPMfJN4F
+    name: Minor Stamina Potion Recipe
+    img: icons/sundries/documents/document-letter-formal-tan.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157060499
+      modifiedTime: 1754157439006
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.NVNJhQCydsapzDIr
+    _key: '!tables.results!YJQvjVgQD0LgytY3.0NHrlkBnZPMfJN4F'
+  - type: document
+    weight: 1
+    range:
+      - 19
+      - 19
+    _id: KiHqL6EOgFFpdqej
+    name: Minor Health Potion Recipe
+    img: icons/sundries/documents/document-letter-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157060675
+      modifiedTime: 1754157457589
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.GlpB9A02b6e2hFcG
+    _key: '!tables.results!YJQvjVgQD0LgytY3.KiHqL6EOgFFpdqej'
+  - type: document
+    weight: 1
+    range:
+      - 20
+      - 20
+    _id: spQazU2Bsyim1TvL
+    name: Homing Compasses
+    img: icons/tools/navigation/compass-worn-copper.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157060849
+      modifiedTime: 1754157472149
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.SSa62P1PZfCBZ7qf
+    _key: '!tables.results!YJQvjVgQD0LgytY3.spQazU2Bsyim1TvL'
+  - type: document
+    weight: 1
+    range:
+      - 21
+      - 21
+    _id: tkafCEdpED2cTd8Z
+    name: Corrector Sprite
+    img: icons/magic/control/mouth-smile-deception-purple.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157060984
+      modifiedTime: 1754157487061
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.AUswRFhYeZqLhGUq
+    _key: '!tables.results!YJQvjVgQD0LgytY3.tkafCEdpED2cTd8Z'
+  - type: document
+    weight: 1
+    range:
+      - 22
+      - 22
+    _id: 63I26yYYAvbOeSgO
+    name: Gecko Gloves
+    img: icons/equipment/hand/glove-ring-leather-green.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157062785
+      modifiedTime: 1754157496524
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.aOiRWDcZJZMZ2gRE
+    _key: '!tables.results!YJQvjVgQD0LgytY3.63I26yYYAvbOeSgO'
+  - type: document
+    weight: 1
+    range:
+      - 23
+      - 23
+    _id: IxmLqhvU7vcNVvit
+    name: Lorekeeper
+    img: icons/sundries/books/book-symbol-leaf-green.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157062960
+      modifiedTime: 1754157504697
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.lNTwsgNnk2SFsTK2
+    _key: '!tables.results!YJQvjVgQD0LgytY3.IxmLqhvU7vcNVvit'
+  - type: document
+    weight: 1
+    range:
+      - 24
+      - 24
+    _id: 5TiD860MuzpDdVDo
+    name: Vial of Darksmoke
+    img: icons/commodities/tech/smoke-bomb-purple.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157063137
+      modifiedTime: 1754157515116
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.q8Gk7KyaXcZiLn0Y
+    _key: '!tables.results!YJQvjVgQD0LgytY3.5TiD860MuzpDdVDo'
+  - type: document
+    weight: 1
+    range:
+      - 25
+      - 25
+    _id: PAwiNV8NVSMBzQxU
+    name: Bloodstone
+    img: icons/commodities/gems/gem-cluster-red.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157063281
+      modifiedTime: 1754157529193
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.9NM6sYtg1Fhxkoix
+    _key: '!tables.results!YJQvjVgQD0LgytY3.PAwiNV8NVSMBzQxU'
+  - type: document
+    weight: 1
+    range:
+      - 26
+      - 26
+    _id: 9aKB22jbDGIRiACp
+    name: Greatstone
+    img: icons/commodities/currency/coin-inset-copper-axe.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157064643
+      modifiedTime: 1754157544936
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.GBTQGVVZdKRk6Xrc
+    _key: '!tables.results!YJQvjVgQD0LgytY3.9aKB22jbDGIRiACp'
+  - type: document
+    weight: 1
+    range:
+      - 27
+      - 27
+    _id: oSVw59RSeEwxS2NM
+    name: Glider
+    img: icons/commodities/cloth/cloth-worn-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157064798
+      modifiedTime: 1754157553857
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.biKjiYff6GjFasVc
+    _key: '!tables.results!YJQvjVgQD0LgytY3.oSVw59RSeEwxS2NM'
+  - type: document
+    weight: 1
+    range:
+      - 28
+      - 28
+    _id: GA81rYItHvdPkFoI
+    name: Ring of Silence
+    img: icons/equipment/finger/ring-cabochon-spiral-gold-green.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157064970
+      modifiedTime: 1754157563504
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.a6hyNvrufZ44TL8P
+    _key: '!tables.results!YJQvjVgQD0LgytY3.GA81rYItHvdPkFoI'
+  - type: document
+    weight: 1
+    range:
+      - 29
+      - 29
+    _id: hygjbPAmVDay5Qmd
+    name: Calming Pendant
+    img: icons/equipment/neck/amulet-round-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157065126
+      modifiedTime: 1754157572872
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.L0rONpifcZLtuxif
+    _key: '!tables.results!YJQvjVgQD0LgytY3.hygjbPAmVDay5Qmd'
+  - type: document
+    weight: 1
+    range:
+      - 30
+      - 30
+    _id: v2sCOsMDWmcn6GCz
+    name: Dual Flask
+    img: icons/consumables/drinks/alcohol-spirits-bottle-green.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157065283
+      modifiedTime: 1754157581269
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.Wwvt4q4eDmOGYx6c
+    _key: '!tables.results!YJQvjVgQD0LgytY3.v2sCOsMDWmcn6GCz'
+  - type: document
+    weight: 1
+    range:
+      - 31
+      - 31
+    _id: FWyU9z3hpJfRq0dV
+    name: Bag of Ficklesand
+    img: icons/containers/bags/sack-worn-brown.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157066975
+      modifiedTime: 1754157589885
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.iiXcPXN8RCWn8Mrf
+    _key: '!tables.results!YJQvjVgQD0LgytY3.FWyU9z3hpJfRq0dV'
+  - type: document
+    weight: 1
+    range:
+      - 32
+      - 32
+    _id: zkX5u1jUIDmzKfti
+    name: Ring of Resistance
+    img: icons/equipment/finger/ring-shield-silver.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157067158
+      modifiedTime: 1754157599610
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.nJGPONYBlhhsAqOZ
+    _key: '!tables.results!YJQvjVgQD0LgytY3.zkX5u1jUIDmzKfti'
+  - type: document
+    weight: 1
+    range:
+      - 33
+      - 33
+    _id: FKf71VQyWZCad81o
+    name: Phoenix Feather
+    img: icons/commodities/materials/feather-orange.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157067314
+      modifiedTime: 1754157610043
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.vvwygAds3ccHNBqI
+    _key: '!tables.results!YJQvjVgQD0LgytY3.FKf71VQyWZCad81o'
+  - type: document
+    weight: 1
+    range:
+      - 34
+      - 34
+    _id: 19jmkVNSkZWRO85A
+    name: Box of Many Goods
+    img: icons/containers/chest/chest-reinforced-box-brown.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157067484
+      modifiedTime: 1754157619250
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.LBebTBJk8CAg22ET
+    _key: '!tables.results!YJQvjVgQD0LgytY3.19jmkVNSkZWRO85A'
+  - type: document
+    weight: 1
+    range:
+      - 35
+      - 35
+    _id: XQgfmPnDw1uylRqz
+    name: Airblade Charm
+    img: icons/commodities/treasure/token-engraved-spiral-grey.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157067656
+      modifiedTime: 1754157627544
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.pI7OxC8aORVEB93w
+    _key: '!tables.results!YJQvjVgQD0LgytY3.XQgfmPnDw1uylRqz'
+  - type: document
+    weight: 1
+    range:
+      - 36
+      - 36
+    _id: mJzlc69pU7tTWiA7
+    name: Portal Seed
+    img: icons/commodities/materials/plant-sprout-teal.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157067814
+      modifiedTime: 1754157635514
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.XQDJECHAp0qcGvgc
+    _key: '!tables.results!YJQvjVgQD0LgytY3.mJzlc69pU7tTWiA7'
+  - type: document
+    weight: 1
+    range:
+      - 37
+      - 37
+    _id: pLDMdN7qYg2Eyxis
+    name: Paragon’s Chain
+    img: icons/equipment/neck/amulet-round-engraved-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157067986
+      modifiedTime: 1754157644015
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.Epi7TkQohxsIamGl
+    _key: '!tables.results!YJQvjVgQD0LgytY3.pLDMdN7qYg2Eyxis'
+  - type: document
+    weight: 1
+    range:
+      - 38
+      - 38
+    _id: WTyvcW8JCkVWbZLf
+    name: Elusive Amulet
+    img: icons/equipment/neck/necklace-triquetra-silver.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157069534
+      modifiedTime: 1754157652435
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.YwtxMakAe7576wsh
+    _key: '!tables.results!YJQvjVgQD0LgytY3.WTyvcW8JCkVWbZLf'
+  - type: document
+    weight: 1
+    range:
+      - 39
+      - 39
+    _id: 2GHU1o3wJyu4fBFs
+    name: Hopekeeper Locket
+    img: icons/equipment/neck/amulet-round-engraved-spiral-gold.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157069702
+      modifiedTime: 1754157660632
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.hXl3zZyGK2YSsjgg
+    _key: '!tables.results!YJQvjVgQD0LgytY3.2GHU1o3wJyu4fBFs'
+  - type: document
+    weight: 1
+    range:
+      - 40
+      - 40
+    _id: E9sr9XV18ruQiNKY
+    name: Infinite Bag
+    img: icons/containers/bags/pack-leather-black-brown.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157069875
+      modifiedTime: 1754157673257
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.AP1Dia1WFioQgqQn
+    _key: '!tables.results!YJQvjVgQD0LgytY3.E9sr9XV18ruQiNKY'
+  - type: document
+    weight: 1
+    range:
+      - 41
+      - 41
+    _id: Tb81bC4yL2LeiggO
+    name: Stride Relic
+    img: icons/commodities/treasure/plaque-wood-leaves.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157070035
+      modifiedTime: 1754157683763
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.4rTtsXQ6eOjZFNb3
+    _key: '!tables.results!YJQvjVgQD0LgytY3.Tb81bC4yL2LeiggO'
+  - type: document
+    weight: 1
+    range:
+      - 42
+      - 42
+    _id: BCIYr5xq7pGQeDOv
+    name: Bolster Relic
+    img: icons/commodities/treasure/brooch-crown-gold.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157070183
+      modifiedTime: 1754157693450
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.51iseriohcT6EH8M
+    _key: '!tables.results!YJQvjVgQD0LgytY3.BCIYr5xq7pGQeDOv'
+  - type: document
+    weight: 1
+    range:
+      - 43
+      - 43
+    _id: 9AdYrnACMBMOxwUY
+    name: Control Relic
+    img: icons/commodities/treasure/token-worn-yang-brown.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157071672
+      modifiedTime: 1754157989039
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.MZmHHEXMCSQBncUR
+    _key: '!tables.results!YJQvjVgQD0LgytY3.9AdYrnACMBMOxwUY'
+  - type: document
+    weight: 1
+    range:
+      - 44
+      - 44
+    _id: IKd9RzPkj5FNm9BD
+    name: Attune Relic
+    img: icons/commodities/treasure/token-runed-spiral-grey.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157071839
+      modifiedTime: 1754157751139
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.lyXRyKQ914WrnMdp
+    _key: '!tables.results!YJQvjVgQD0LgytY3.IKd9RzPkj5FNm9BD'
+  - type: document
+    weight: 1
+    range:
+      - 45
+      - 45
+    _id: A2Qztaav2pLrMmkr
+    name: Charm Relic
+    img: icons/commodities/treasure/token-runed-circles-purple.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157072015
+      modifiedTime: 1754157761299
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.PwT2D4Q7kmd6wCdI
+    _key: '!tables.results!YJQvjVgQD0LgytY3.A2Qztaav2pLrMmkr'
+  - type: document
+    weight: 1
+    range:
+      - 46
+      - 46
+    _id: Gx646RqEBN3HGuyZ
+    name: Enlighten Relic
+    img: icons/commodities/treasure/brooch-eye-silver-teal.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157072188
+      modifiedTime: 1754157769393
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.gkmWJMR9obH2ZgAM
+    _key: '!tables.results!YJQvjVgQD0LgytY3.Gx646RqEBN3HGuyZ'
+  - type: document
+    weight: 1
+    range:
+      - 47
+      - 47
+    _id: 3HM9cUkmWwEGp8eJ
+    name: Honing Relic
+    img: icons/commodities/treasure/token-silver-gem-cut.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157073486
+      modifiedTime: 1754157781787
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.Aez7qnAuNMM3aWZ3
+    _key: '!tables.results!YJQvjVgQD0LgytY3.3HM9cUkmWwEGp8eJ'
+  - type: document
+    weight: 1
+    range:
+      - 48
+      - 48
+    _id: 6zDWaNUYVffEew29
+    name: Flickerfly Pendant
+    img: icons/commodities/gems/gem-amber-insect-orange.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157073652
+      modifiedTime: 1754157794109
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.bk4FhnV9RkWjc8Rp
+    _key: '!tables.results!YJQvjVgQD0LgytY3.6zDWaNUYVffEew29'
+  - type: document
+    weight: 1
+    range:
+      - 49
+      - 49
+    _id: mXBLnCo0hG3WNOAf
+    name: Lakestrider Boots
+    img: icons/equipment/feet/shoes-collared-leather-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157073820
+      modifiedTime: 1754157803893
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.XY5fpMYMOd2noyIy
+    _key: '!tables.results!YJQvjVgQD0LgytY3.mXBLnCo0hG3WNOAf'
+  - type: document
+    weight: 1
+    range:
+      - 50
+      - 50
+    _id: cRrjOERYfj3Zm54H
+    name: Clay Companion
+    img: icons/commodities/treasure/figurine-rabbit.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157073994
+      modifiedTime: 1754157813556
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.bsQ473VeMLoUoQ8i
+    _key: '!tables.results!YJQvjVgQD0LgytY3.cRrjOERYfj3Zm54H'
+  - type: document
+    weight: 1
+    range:
+      - 51
+      - 51
+    _id: fbkt2xB5pESxEJEr
+    name: Mythic Dust Recipe
+    img: icons/sundries/documents/document-bound-white-tan.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157074152
+      modifiedTime: 1754157826523
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.v4lgb1wPDO7qHPcO
+    _key: '!tables.results!YJQvjVgQD0LgytY3.fbkt2xB5pESxEJEr'
+  - type: document
+    weight: 1
+    range:
+      - 52
+      - 52
+    _id: C3XFdbTpkY5t32L7
+    name: Shard of Memory
+    img: icons/commodities/gems/pearl-swirl-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157074307
+      modifiedTime: 1754157837452
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.NjTdg1p5Dnu0aP48
+    _key: '!tables.results!YJQvjVgQD0LgytY3.C3XFdbTpkY5t32L7'
+  - type: document
+    weight: 1
+    range:
+      - 53
+      - 53
+    _id: KvHlsgyQrLWqHWKY
+    name: Gem of Alacrity
+    img: icons/commodities/gems/gem-faceted-diamond-green.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157076047
+      modifiedTime: 1754157847669
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.9BoiPDVVr0IVF0g5
+    _key: '!tables.results!YJQvjVgQD0LgytY3.KvHlsgyQrLWqHWKY'
+  - type: document
+    weight: 1
+    range:
+      - 54
+      - 54
+    _id: 2IavjD7DRU5gl1a3
+    name: Gem of Might
+    img: icons/commodities/gems/gem-rough-cushion-orange-white.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157076378
+      modifiedTime: 1754157855384
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.OYw11ikWeswAEjNi
+    _key: '!tables.results!YJQvjVgQD0LgytY3.2IavjD7DRU5gl1a3'
+  - type: document
+    weight: 1
+    range:
+      - 55
+      - 55
+    _id: hYTE98dBcvTcK1tE
+    name: Gem of Precision
+    img: icons/commodities/gems/gem-raw-rough-purple.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157076536
+      modifiedTime: 1754157862986
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.hMLTV9GIHfCyLcqi
+    _key: '!tables.results!YJQvjVgQD0LgytY3.hYTE98dBcvTcK1tE'
+  - type: document
+    weight: 1
+    range:
+      - 56
+      - 56
+    _id: uDvEy5XtJG9yy52m
+    name: Gem of Insight
+    img: icons/commodities/gems/gem-faceted-round-white.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157078161
+      modifiedTime: 1754157870102
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.9KCydrNOT6lOLEHn
+    _key: '!tables.results!YJQvjVgQD0LgytY3.uDvEy5XtJG9yy52m'
+  - type: document
+    weight: 1
+    range:
+      - 57
+      - 57
+    _id: evGGgyTMoJ4Z4Ust
+    name: Gem of Audacity
+    img: icons/commodities/gems/gem-faceted-diamond-pink-gold.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157078348
+      modifiedTime: 1754157877935
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.ws8V4QQDIhLG52mT
+    _key: '!tables.results!YJQvjVgQD0LgytY3.evGGgyTMoJ4Z4Ust'
+  - type: document
+    weight: 1
+    range:
+      - 58
+      - 58
+    _id: 7FwfQyrlLuvS4QoO
+    name: Gem of Sagacity
+    img: icons/commodities/gems/gem-faceted-teardrop-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157078520
+      modifiedTime: 1754157885458
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.zfexTiBmTjpmUxZv
+    _key: '!tables.results!YJQvjVgQD0LgytY3.7FwfQyrlLuvS4QoO'
+  - type: document
+    weight: 1
+    range:
+      - 59
+      - 59
+    _id: ebAN808duy7zDrEK
+    name: Ring of Unbreakable Resolve
+    img: icons/equipment/finger/ring-faceted-engraved-gold-purple.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157079903
+      modifiedTime: 1754157896093
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.lje9OcZ2huhlTaxA
+    _key: '!tables.results!YJQvjVgQD0LgytY3.ebAN808duy7zDrEK'
+  - type: document
+    weight: 1
+    range:
+      - 60
+      - 60
+    _id: SHcbYetMDwi0yB9w
+    name: Belt of Unity
+    img: icons/equipment/waist/belt-buckle-spiral-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754157082774
+      modifiedTime: 1754157906772
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.FAcDxmaIzZOPYqAd
+    _key: '!tables.results!YJQvjVgQD0LgytY3.SHcbYetMDwi0yB9w'
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754156993991
+  modifiedTime: 1754157260262
+  lastModifiedBy: PBdPE9squMuZKhHK
+formula: 1d61
+_key: '!tables!YJQvjVgQD0LgytY3'

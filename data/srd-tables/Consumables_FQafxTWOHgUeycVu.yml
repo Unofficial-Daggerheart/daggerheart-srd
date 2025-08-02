@@ -1,0 +1,1409 @@
+name: Consumables
+_id: FQafxTWOHgUeycVu
+img: icons/consumables/potions/potion-bottle-corked-labeled-red.webp
+description: ''
+results:
+  - type: document
+    weight: 1
+    range:
+      - 1
+      - 1
+    _id: UXmkfWreDAQoMZ1j
+    name: Stride Potion
+    img: icons/consumables/potions/bottle-bulb-corked-green.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158030259
+      modifiedTime: 1754158086696
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.DrAbe3vSR7ukUjmR
+    _key: '!tables.results!FQafxTWOHgUeycVu.UXmkfWreDAQoMZ1j'
+  - type: document
+    weight: 1
+    range:
+      - 2
+      - 2
+    _id: AknrHYKGpsHeZKaD
+    name: Bolster Potion
+    img: icons/consumables/potions/potion-vial-tube-yellow.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158049598
+      modifiedTime: 1754158108123
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.aFMTz3f6EmWH2CGx
+    _key: '!tables.results!FQafxTWOHgUeycVu.AknrHYKGpsHeZKaD'
+  - type: document
+    weight: 1
+    range:
+      - 3
+      - 3
+    _id: M1pckr67HBLogzAF
+    name: Control Potion
+    img: icons/consumables/potions/potion-tube-corked-labeled-cyan.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158050114
+      modifiedTime: 1754158117432
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.NJxz3hOHiKSlJojY
+    _key: '!tables.results!FQafxTWOHgUeycVu.M1pckr67HBLogzAF'
+  - type: document
+    weight: 1
+    range:
+      - 4
+      - 4
+    _id: zdCyJq4UL8Ie5fWw
+    name: Attune Potion
+    img: icons/consumables/potions/potion-tube-corked-blue.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158050300
+      modifiedTime: 1754158130906
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.BLu00fffAcfs3YMk
+    _key: '!tables.results!FQafxTWOHgUeycVu.zdCyJq4UL8Ie5fWw'
+  - type: document
+    weight: 1
+    range:
+      - 5
+      - 5
+    _id: afON8LEVZDn0eFUj
+    name: Charm Potion
+    img: icons/consumables/potions/potion-flask-corked-labeled-pink.webp
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158050481
+      modifiedTime: 1754158139648
+      lastModifiedBy: PBdPE9squMuZKhHK
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.echxUTkYcSwzPYcN
+    _key: '!tables.results!FQafxTWOHgUeycVu.afON8LEVZDn0eFUj'
+  - type: document
+    weight: 1
+    range:
+      - 6
+      - 6
+    name: Enlighten Potion
+    img: icons/consumables/potions/vial-cork-blue.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.fQYxQYDvDMVuUpuf
+    _id: SnvIiy7yPOfZLfF4
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158388991
+      modifiedTime: 1754158388991
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.SnvIiy7yPOfZLfF4'
+  - type: document
+    weight: 1
+    range:
+      - 7
+      - 7
+    name: Minor Health Potion
+    img: icons/consumables/potions/potion-tube-corked-red.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.02UTsK4t9cTWJv96
+    _id: Ps1YaQskVfS18oWf
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158437886
+      modifiedTime: 1754158437886
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.Ps1YaQskVfS18oWf'
+  - type: document
+    weight: 1
+    range:
+      - 8
+      - 8
+    name: Minor Stamina Potion
+    img: icons/consumables/potions/potion-tube-corked-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.kuQEDwquGtNCKHN3
+    _id: ey6WUhz7grzKY1j1
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158442449
+      modifiedTime: 1754158442449
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.ey6WUhz7grzKY1j1'
+  - type: document
+    weight: 1
+    range:
+      - 9
+      - 9
+    name: Grindletooth Venom
+    img: >-
+      icons/consumables/potions/bottle-conical-corked-labeled-skull-poison-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.ZovcvYLRMbwf755c
+    _id: KKgV5uIy9NAhlUoO
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158448840
+      modifiedTime: 1754158448840
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.KKgV5uIy9NAhlUoO'
+  - type: document
+    weight: 1
+    range:
+      - 10
+      - 10
+    name: Varik Leaves
+    img: icons/consumables/plants/leaf-eaten-holes-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.NVrHzR8Gw8SPVmeN
+    _id: BHJC8spn364I2USD
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158452340
+      modifiedTime: 1754158452340
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.BHJC8spn364I2USD'
+  - type: document
+    weight: 1
+    range:
+      - 11
+      - 11
+    name: Vial of Moondrip
+    img: icons/magic/perception/eye-ringed-glow-angry-small-teal.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.ovzjGp0UUVSic8Lc
+    _id: bjtoyW3EWWVtbqWo
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158457838
+      modifiedTime: 1754158457838
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.bjtoyW3EWWVtbqWo'
+  - type: document
+    weight: 1
+    range:
+      - 12
+      - 12
+    name: Unstable Arcane Shard
+    img: icons/commodities/gems/gem-shattered-teal.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.MxZS6OK19lkA7t3j
+    _id: TAbFD2yDbb689EHQ
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158462484
+      modifiedTime: 1754158462484
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.TAbFD2yDbb689EHQ'
+  - type: document
+    weight: 1
+    range:
+      - 13
+      - 13
+    name: Potion of Stability
+    img: icons/consumables/potions/potion-bottle-corked-labeled-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.avvg5G32kvDaSujy
+    _id: I9LKiuMg6nkqfgxM
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158467167
+      modifiedTime: 1754158467167
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.I9LKiuMg6nkqfgxM'
+  - type: document
+    weight: 1
+    range:
+      - 14
+      - 14
+    name: Improved Grindletooth Venom
+    img: >-
+      icons/consumables/potions/bottle-conical-corked-labeled-skull-poison-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.WpPcnzxQlFcOy9zq
+    _id: Py6q7tadbIcUAyTL
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158471298
+      modifiedTime: 1754158471298
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.Py6q7tadbIcUAyTL'
+  - type: document
+    weight: 1
+    range:
+      - 15
+      - 15
+    name: Morphing Clay
+    img: icons/containers/kitchenware/vase-clay-etched-brown.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.iNKeUIo4QnRR58BT
+    _id: M562KMCotNzfvtMg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158478534
+      modifiedTime: 1754158478534
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.M562KMCotNzfvtMg'
+  - type: document
+    weight: 1
+    range:
+      - 16
+      - 16
+    name: Vial of Darksmoke
+    img: icons/commodities/tech/smoke-bomb-purple.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.q8Gk7KyaXcZiLn0Y
+    _id: 9a0utEMvuFXLyjjD
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158484723
+      modifiedTime: 1754158484723
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.9a0utEMvuFXLyjjD'
+  - type: document
+    weight: 1
+    range:
+      - 17
+      - 17
+    name: Jumping Root
+    img: icons/consumables/plants/dried-stem-vine-root-bramble-brown.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.1M48KvgW6T26ynTy
+    _id: CnHvBJGBoRlisAMR
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158492933
+      modifiedTime: 1754158492933
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.CnHvBJGBoRlisAMR'
+  - type: document
+    weight: 1
+    range:
+      - 18
+      - 18
+    name: Snap Powder
+    img: icons/commodities/materials/powder-teal.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.SlRQPHk7Y1X04eRW
+    _id: Z56fn1UXr04d4p2y
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158497387
+      modifiedTime: 1754158497387
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.Z56fn1UXr04d4p2y'
+  - type: document
+    weight: 1
+    range:
+      - 19
+      - 19
+    name: Health Potion
+    img: icons/consumables/potions/bottle-corked-red.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.SD99FVJVeVET0UdN
+    _id: EDHXj2ofFFiy3mja
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158504304
+      modifiedTime: 1754158504304
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.EDHXj2ofFFiy3mja'
+  - type: document
+    weight: 1
+    range:
+      - 20
+      - 20
+    name: Stamina Potion
+    img: icons/consumables/potions/bottle-corked-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.36uTNkpKEDNRBI14
+    _id: Pha3HUL79Z5rALva
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158509740
+      modifiedTime: 1754158509740
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.Pha3HUL79Z5rALva'
+  - type: document
+    weight: 1
+    range:
+      - 21
+      - 21
+    name: Armor Stitcher
+    img: icons/tools/hand/needle-grey.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.OJoy82cvaGDIvq85
+    _id: iXCZo5NZxiU4Gx5t
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158516682
+      modifiedTime: 1754158516682
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.iXCZo5NZxiU4Gx5t'
+  - type: document
+    weight: 1
+    range:
+      - 22
+      - 22
+    name: Gill Salve
+    img: icons/containers/kitchenware/vase-clay-painted-blue-gold.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.sdQSxxWD1GFzCuBv
+    _id: DOjYUcOBkKcSnWuV
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158552679
+      modifiedTime: 1754158552679
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.DOjYUcOBkKcSnWuV'
+  - type: document
+    weight: 1
+    range:
+      - 23
+      - 23
+    name: Replication Parchment
+    img: icons/sundries/documents/blueprint-recipe-alchemical.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.H9VsPXsVItXirDjR
+    _id: xqDmojIW1cusIhue
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158558895
+      modifiedTime: 1754158558895
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.xqDmojIW1cusIhue'
+  - type: document
+    weight: 1
+    range:
+      - 24
+      - 24
+    name: Improved Arcane Shard
+    img: icons/commodities/gems/gem-faceted-trillion-blue.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.75YEWNNJwBeSZ2Cz
+    _id: d5fErePXtVdZ15ZX
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158565955
+      modifiedTime: 1754158565955
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.d5fErePXtVdZ15ZX'
+  - type: document
+    weight: 1
+    range:
+      - 25
+      - 25
+    name: Major Stride Potion
+    img: icons/consumables/potions/bottle-round-label-cork-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.BAeoJazgCZHQXY4Q
+    _id: QmfZ6kliThWp66Fg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158577687
+      modifiedTime: 1754158577687
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.QmfZ6kliThWp66Fg'
+  - type: document
+    weight: 1
+    range:
+      - 26
+      - 26
+    name: Major Bolster Potion
+    img: icons/consumables/potions/bottle-round-label-cork-yellow.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.NwFaUf9mM7qZFdtY
+    _id: 8FuWv7fBFVQN5TKc
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158578986
+      modifiedTime: 1754158578986
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.8FuWv7fBFVQN5TKc'
+  - type: document
+    weight: 1
+    range:
+      - 27
+      - 27
+    name: Major Control Potion
+    img: icons/consumables/potions/bottle-round-label-cork-red.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.kZFgqrYaRtH7uK4f
+    _id: sgXzs0mV5o1O8hvv
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158580304
+      modifiedTime: 1754158580304
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.sgXzs0mV5o1O8hvv'
+  - type: document
+    weight: 1
+    range:
+      - 28
+      - 28
+    name: Major Attune Potion
+    img: icons/consumables/potions/potion-jar-corked-glowing-blue.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.iWNtV35l0ZqD85cC
+    _id: 7PZv1Ro0tRhlyT5c
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158590139
+      modifiedTime: 1754158590139
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.7PZv1Ro0tRhlyT5c'
+  - type: document
+    weight: 1
+    range:
+      - 29
+      - 29
+    name: Major Charm Potion
+    img: icons/consumables/potions/bottle-round-label-cork-purple.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.zsMWS4FRpBzqz5wL
+    _id: mIi4ifyHKFAMVVnT
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158592792
+      modifiedTime: 1754158592792
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.mIi4ifyHKFAMVVnT'
+  - type: document
+    weight: 1
+    range:
+      - 30
+      - 30
+    name: Major Enlighten Potion
+    img: icons/consumables/potions/bottle-round-label-cork-blue.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.a66MoWqPnekZmn5N
+    _id: Ra9lziSNRiC1yJqG
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158593862
+      modifiedTime: 1754158593862
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.Ra9lziSNRiC1yJqG'
+  - type: document
+    weight: 1
+    range:
+      - 31
+      - 31
+    name: Blood of the Yorgi
+    img: >-
+      icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.IXrpUlRAvBV0uIun
+    _id: ERBo00NmYyInCYXD
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158602169
+      modifiedTime: 1754158602169
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.ERBo00NmYyInCYXD'
+  - type: document
+    weight: 1
+    range:
+      - 32
+      - 32
+    name: Homet’s Secret Potion
+    img: icons/consumables/potions/bottle-bulb-corked-labeled-blue.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.6WnSCvewoVtiXQx5
+    _id: TELoQn944HiPVEVK
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158607686
+      modifiedTime: 1754158607686
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.TELoQn944HiPVEVK'
+  - type: document
+    weight: 1
+    range:
+      - 33
+      - 33
+    name: Redthorn Saliva
+    img: icons/consumables/potions/round-cork-leaf-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.Fk6pWBEQbJcP1H2T
+    _id: qTEgHrwO4cu2OoFj
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158618584
+      modifiedTime: 1754158618584
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.qTEgHrwO4cu2OoFj'
+  - type: document
+    weight: 1
+    range:
+      - 34
+      - 34
+    name: Channelstone
+    img: icons/commodities/stone/engraved-symbol-water-grey.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.bWny7nMeQ1R1rZdc
+    _id: rNkI8YsnEW6gy3Dl
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158625276
+      modifiedTime: 1754158625276
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.rNkI8YsnEW6gy3Dl'
+  - type: document
+    weight: 1
+    range:
+      - 35
+      - 35
+    name: Mythic Dust
+    img: icons/tools/laboratory/bowl-powder-purple.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.GcwRcLk4W2y3ZWG1
+    _id: JyBTDItZOFeEVf5L
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158631995
+      modifiedTime: 1754158631995
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.JyBTDItZOFeEVf5L'
+  - type: document
+    weight: 1
+    range:
+      - 36
+      - 36
+    name: Acidpaste
+    img: icons/magic/acid/dissolve-pool-bubbles.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.Zeoo3ivtDERfuzBn
+    _id: tfwI20OdGwClzCKV
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158636717
+      modifiedTime: 1754158636717
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.tfwI20OdGwClzCKV'
+  - type: document
+    weight: 1
+    range:
+      - 37
+      - 37
+    name: Hopehold Flare
+    img: icons/magic/light/projectile-flare-blue.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.9KJatcDmnZb8KUr0
+    _id: 9dfgMQAXZUgZUQnC
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158641427
+      modifiedTime: 1754158641427
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.9dfgMQAXZUgZUQnC'
+  - type: document
+    weight: 1
+    range:
+      - 38
+      - 38
+    name: Major Arcane Shard
+    img: icons/commodities/gems/gem-faceted-teardrop-blue.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.7rgE3g9kwLZEhF5h
+    _id: eAKw4h7Y168yGe90
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158646707
+      modifiedTime: 1754158646707
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.eAKw4h7Y168yGe90'
+  - type: document
+    weight: 1
+    range:
+      - 39
+      - 39
+    name: Featherbone
+    img: icons/commodities/materials/feather-curled-white.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.KoaPBzuSxd9teoIn
+    _id: GQTrBYaNydTfMWPS
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158652270
+      modifiedTime: 1754158652270
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.GQTrBYaNydTfMWPS'
+  - type: document
+    weight: 1
+    range:
+      - 40
+      - 40
+    name: Circle of the Void
+    img: icons/creatures/eyes/void-single-black-purple.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.HjnBsQD3vWpBR6br
+    _id: iCyJgiaxheFhL5S5
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158660692
+      modifiedTime: 1754158660692
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.iCyJgiaxheFhL5S5'
+  - type: document
+    weight: 1
+    range:
+      - 41
+      - 41
+    name: Sun Tree Sap
+    img: icons/environment/wilderness/tree-oak.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.UanwmU0xsBq2t6ac
+    _id: E8DFBW9Pm4sTXOib
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158667888
+      modifiedTime: 1754158667888
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.E8DFBW9Pm4sTXOib'
+  - type: document
+    weight: 1
+    range:
+      - 42
+      - 42
+    name: Dripfang Poison
+    img: >-
+      icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.CNApnUV7JyAa4nYG
+    _id: A1t5BXN1hvDVNJiv
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158676816
+      modifiedTime: 1754158676816
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.A1t5BXN1hvDVNJiv'
+  - type: document
+    weight: 1
+    range:
+      - 43
+      - 43
+    name: Major Health Potion
+    img: icons/consumables/potions/bottle-round-corked-orante-red.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.5qzx5a0TXWpqLvxl
+    _id: MV2QRDWxegKtKTtB
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158683438
+      modifiedTime: 1754158683438
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.MV2QRDWxegKtKTtB'
+  - type: document
+    weight: 1
+    range:
+      - 44
+      - 44
+    name: Major Stamina Potion
+    img: icons/consumables/potions/bottle-bulb-corked-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.FFuctSKnwUBftNLR
+    _id: cwzx6BcqOAHRZ1Fx
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158691921
+      modifiedTime: 1754158691921
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.cwzx6BcqOAHRZ1Fx'
+  - type: document
+    weight: 1
+    range:
+      - 45
+      - 45
+    name: Ogre Musk
+    img: icons/magic/acid/dissolve-vomit-green-brown.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.YzByTWLgWISFojex
+    _id: kxBtgD5KoASZj3uj
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158706043
+      modifiedTime: 1754158706043
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.kxBtgD5KoASZj3uj'
+  - type: document
+    weight: 1
+    range:
+      - 46
+      - 46
+    name: Wingsprout
+    img: icons/commodities/materials/feather-white-glowing-beams.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.DpE1VvjWTkSemz9T
+    _id: obbw2N6TVrRD4fXZ
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158744243
+      modifiedTime: 1754158744243
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.obbw2N6TVrRD4fXZ'
+  - type: document
+    weight: 1
+    range:
+      - 47
+      - 47
+    name: Jar of Lost Voices
+    img: icons/consumables/drinks/clay-jar-glowing-orange-blue.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.7JCqrurmsPM0FyAG
+    _id: P3x79jVNhIpHSfON
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158750281
+      modifiedTime: 1754158750281
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.P3x79jVNhIpHSfON'
+  - type: document
+    weight: 1
+    range:
+      - 48
+      - 48
+    name: Dragonbloom Tea
+    img: icons/consumables/fruit/dragonfruit-red-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.4k8aywdUwW9QL3kY
+    _id: gHhSRN1gB2iAGvtS
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158756788
+      modifiedTime: 1754158756788
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.gHhSRN1gB2iAGvtS'
+  - type: document
+    weight: 1
+    range:
+      - 49
+      - 49
+    name: Bridge Seed
+    img: icons/commodities/materials/plant-sprout-seed-brown-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.WXEdhXcPqJBU33DH
+    _id: rUjm90K8j2aqWFcH
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158762105
+      modifiedTime: 1754158762105
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.rUjm90K8j2aqWFcH'
+  - type: document
+    weight: 1
+    range:
+      - 50
+      - 50
+    name: Sleeping Sap
+    img: icons/consumables/potions/bottle-conical-corked-cyan.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.8oAUJsThjpuTxM7D
+    _id: TeDQ9j8vhJYgaQlU
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158768982
+      modifiedTime: 1754158768982
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.TeDQ9j8vhJYgaQlU'
+  - type: document
+    weight: 1
+    range:
+      - 51
+      - 51
+    name: Feast of Xuria
+    img: icons/consumables/food/berries-cream-bowl-mint-red.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.tp9mQVyi2I6WbrCW
+    _id: 18RQYEnGIf3sxvE3
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158773732
+      modifiedTime: 1754158773732
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.18RQYEnGIf3sxvE3'
+  - type: document
+    weight: 1
+    range:
+      - 52
+      - 52
+    name: Bonding Honey
+    img: icons/consumables/food/honey-beehive-brown.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.KTVhooKa8RHfYiDI
+    _id: hjRmT1vVzUUW5j2r
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158779261
+      modifiedTime: 1754158779261
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.hjRmT1vVzUUW5j2r'
+  - type: document
+    weight: 1
+    range:
+      - 53
+      - 53
+    name: Shrinking Potion
+    img: icons/consumables/potions/potion-vial-corked-labeled-purple.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.WEFaQD3ejZ6OHHUI
+    _id: rYywL0dLNkdHyqBU
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158786885
+      modifiedTime: 1754158786885
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.rYywL0dLNkdHyqBU'
+  - type: document
+    weight: 1
+    range:
+      - 54
+      - 54
+    name: Growing Potion
+    img: icons/consumables/potions/potion-flask-corked-shiny-red.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.0c9seymuZqWrx2dh
+    _id: w57MQjo0D623bOR2
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158791947
+      modifiedTime: 1754158791947
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.w57MQjo0D623bOR2'
+  - type: document
+    weight: 1
+    range:
+      - 55
+      - 55
+    name: Knowledge Stone
+    img: icons/commodities/treasure/token-engraved-blue-glowing.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.tZcQjxkNGf8ApjJJ
+    _id: yiJUhhBEEtz0fL0e
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158797787
+      modifiedTime: 1754158797787
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.yiJUhhBEEtz0fL0e'
+  - type: document
+    weight: 1
+    range:
+      - 56
+      - 56
+    name: Sweet Moss
+    img: icons/tools/laboratory/bowl-herbs-green.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.AsLPnbn8ftlkhmLB
+    _id: QAfNdPIxzrscEzaG
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158803126
+      modifiedTime: 1754158803126
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.QAfNdPIxzrscEzaG'
+  - type: document
+    weight: 1
+    range:
+      - 57
+      - 57
+    name: Blinding Orb
+    img: icons/commodities/gems/pearl-blue-gold.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.2dbXKnuwSOkOYX7Y
+    _id: O2VEyJ66WeksQYUL
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158807821
+      modifiedTime: 1754158807821
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.O2VEyJ66WeksQYUL'
+  - type: document
+    weight: 1
+    range:
+      - 58
+      - 58
+    name: Death Tea
+    img: icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.sfNFKndBiARK9Uwu
+    _id: K3lVVgFRwzYWFO07
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158812578
+      modifiedTime: 1754158812578
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.K3lVVgFRwzYWFO07'
+  - type: document
+    weight: 1
+    range:
+      - 59
+      - 59
+    name: Mirror of Marigold
+    img: icons/sundries/survival/mirror-plain.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.qELaNXSwf3oX6L4y
+    _id: 1BcK6y5bUKuRohhI
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158817684
+      modifiedTime: 1754158817684
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.1BcK6y5bUKuRohhI'
+  - type: document
+    weight: 1
+    range:
+      - 60
+      - 60
+    name: Stardrop
+    img: icons/magic/light/explosion-star-glow-blue.webp
+    documentUuid: Compendium.daggerheart-srd.srd-items.Item.DPjLN4b02HyNFizD
+    _id: QzIGE4cVpRtkosmG
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.11.5
+      createdTime: 1754158821277
+      modifiedTime: 1754158821277
+      lastModifiedBy: PBdPE9squMuZKhHK
+    _key: '!tables.results!FQafxTWOHgUeycVu.QzIGE4cVpRtkosmG'
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754156973720
+  modifiedTime: 1754158825325
+  lastModifiedBy: PBdPE9squMuZKhHK
+formula: 1d60
+_key: '!tables!FQafxTWOHgUeycVu'

@@ -2,7 +2,7 @@ name: Gill Salve
 type: item
 folder: mBkEaHY2IDFQbm6q
 _id: sdQSxxWD1GFzCuBv
-img: icons/containers/kitchenware/vase-clay-etched-brown.webp
+img: icons/containers/kitchenware/vase-clay-painted-blue-gold.webp
 system:
   description: >-
     <p>You can apply this salve to your neck to breathe underwater for a number
@@ -30,6 +30,6 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754138330052
-  modifiedTime: 1754138330052
+  modifiedTime: 1754158546872
   lastModifiedBy: PBdPE9squMuZKhHK
 _key: '!items!sdQSxxWD1GFzCuBv'
