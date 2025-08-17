@@ -1,0 +1,43 @@
+name: Nightwalker
+type: subclass
+folder: Eayp0LmOVUrcwpAj
+_id: kgMtIqXDPJGxCykx
+img: modules/daggerheart-unofficial-srd/assets/subclasses/nightwalker.svg
+system:
+  description: >-
+    <p>Play the Nightwalker if you want to manipulate shadows to maneuver
+    through the environment.</p><h6>Spellcast
+    Trait</h6><p>Finesse</p><h6>Foundation
+    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.oLJreKvUUQEZ3XTn]{Shadow
+    Stepper}</p><h6>Specialization
+    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.SfiIeCEmnr6LWWNK]{Dark
+    Cloud}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.6NKdhHiunnw9YgJj]{Adrenaline}</p><h6>Mastery
+    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.35fXpLVezKFX8qxk]{Fleeting
+    Shadow}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.qTLDDA1XsD7eHK75]{Vanishing
+    Act}</p>
+  category: Subclass
+  rarity: Rogue
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  modifiedTime: 1754778211987
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!kgMtIqXDPJGxCykx"

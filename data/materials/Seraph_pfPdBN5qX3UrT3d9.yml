@@ -1,0 +1,57 @@
+name: Seraph
+type: class
+folder: WpN6W0wyYE3XeeYu
+img: modules/daggerheart-unofficial-srd/assets/classes/seraph.svg
+system:
+  description: >-
+    <h2>Stats</h2><ul class="list-unstyled"><li><span
+    class="og-omit"><strong>Starting</strong></span><strong> Evasion:</strong>
+    9</li><li><span class="og-omit"><strong>Starting</strong></span><strong> Hit
+    Points:</strong> 7</li><li class="d-block"><strong>Class Items:</strong> A
+    bundle of offerings, or a sigil of your god</li></ul><h2>Features</h2><ul
+    class="list-unstyled"><li><strong>Domains:</strong>
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.kRq1nQxq63vBQYSd]{Valor}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.KNHZiWPXbHnLVOvZ]{Splendor}</li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.dV6VElZFg6Hvlpek]{Divine
+    Wielder}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.uEsb3UAH7cOHizOW]{Winged
+    Sentinel}</li><li><strong>Seraph Features:
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.OFmViKh10T0bh1mj]{Prayer
+    Dice}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.z1OgcfjflinOjlky]{Life
+    Support}</strong></li></ul><h2>Description</h2><p>Seraphs are divine
+    fighters and healers imbued with sacred purpose. <span class="og-omit">A
+    wide array of deities exist within the realms, and thus numerous kinds of
+    seraphs are appointed by these gods. Their ethos traditionally aligns with
+    the domain or goals of their god, such as defending the weak, exacting
+    vengeance, protecting a land or artifact, or upholding a particular faith.
+    Some seraphs ally themselves with an army or locale, much to the
+    satisfaction of their rulers, but other crusaders fight in opposition to the
+    follies of the Mortal Realm. It is better to be a seraph's ally than their
+    enemy, as they are terrifying foes to those who defy their
+    purpose.</span></p>
+  category: class
+  rarity: SRD
+  location: class
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  modifiedTime: 1754175943907
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: pfPdBN5qX3UrT3d9
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!pfPdBN5qX3UrT3d9"

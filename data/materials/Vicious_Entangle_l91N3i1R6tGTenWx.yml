@@ -1,0 +1,41 @@
+name: Vicious Entangle
+type: domain
+folder: 3BhH0CHcWEADjsea
+_id: l91N3i1R6tGTenWx
+img: modules/daggerheart-unofficial-srd/assets/domains/sage.svg
+system:
+  description: >-
+    <p>Make a <strong>Spellcast Roll</strong> against a target within
+    <strong>Far</strong> range. On a success, roots and vines reach out from the
+    ground, dealing [[/roll 1d8+1]] physical damage and temporarily
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.967FSSCW150Zpp5E]{restraining}the
+    target.</p><p>Additionally on a success, you can spend a Hope to temporarily
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.967FSSCW150Zpp5E]{restrain}
+    another adversary within <strong>Very Close</strong> range of your
+    target.</p>
+  category: Sage - level 1
+  rarity: Recall cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139708798
+  modifiedTime: 1754152577894
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!l91N3i1R6tGTenWx"

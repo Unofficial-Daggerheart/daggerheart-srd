@@ -1,0 +1,47 @@
+name: Katari
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+img: modules/daggerheart-unofficial-srd/assets/ancestry/katari.svg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.Bhlcnj61J2H8kdTh]{Feline
+    Instincts}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.wDHF7jzw91aByvOG]{Retracting
+    Claws}</p><h2>Description</h2><p>Katari are feline humanoids with
+    retractable claws, vertically slit pupils, and high, triangular ears. <span
+    class="og-omit">They can also have small, pointed canine teeth, soft fur,
+    and long whiskers that assist their perception and navigation. Their ears
+    can swivel nearly 180 degrees to detect sound, adding to their heightened
+    senses. Katari may look more or less feline or humanoid, with catlike
+    attributes in the form of hair, whiskers, and a muzzle.</span></p><p
+    class="og-omit">About half of the katari population have tails. Their skin
+    and fur come in a wide range of hues and patterns, including solid colors,
+    calico tones, tabby stripes, and an array of spots, patches, marbling, or
+    bands. Their height ranges from about 3–6½ feet (0.9–2.0 m), and they live
+    to around 150 years.</p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.daggerheart-unofficial-srd.materials.Item.47DXMv3REgRHAaIN
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951686191
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: oBEmM3eG7VfNquiR
+sort: 0
+_key: "!items!oBEmM3eG7VfNquiR"

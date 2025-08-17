@@ -1,0 +1,40 @@
+name: Divine Wielder
+type: subclass
+folder: tjazmAf4emSucxS5
+_id: dV6VElZFg6Hvlpek
+img: modules/daggerheart-unofficial-srd/assets/subclasses/divine-wielder.svg
+system:
+  description: >-
+    <p>Play the Divine Wielder if you want to dominate the battlefield with a
+    legendary weapon.</p><h6>Spellcast Trait</h6><p>Strength</p><h6>Foundation
+    Features</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.N4uh5InLS9qVyDVY]{Spirit
+    Weapon}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.JtsbpMeSheUXMbvy]{Sparing
+    Touch}</strong></em></p><h6>Specialization
+    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.dgholm6kvL6v5PAk]{Devout}</strong></em></p><h6>Mastery
+    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.xT3SIIHq55LctWWd]{Sacred
+    Resonance}</p>
+  category: Subclass
+  rarity: Winged Sentinel
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  modifiedTime: 1754777832716
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!dV6VElZFg6Hvlpek"

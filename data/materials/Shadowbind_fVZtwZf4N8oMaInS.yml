@@ -1,0 +1,38 @@
+name: Shadowbind
+type: domain
+folder: 6BYlet86ilWXh5AL
+img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
+system:
+  description: >-
+    <p>Make a <strong>Spellcast Roll</strong> against all adversaries within
+    <strong>Very Close</strong> range. Targets you succeed against are
+    temporarily
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.967FSSCW150Zpp5E]{restrained}
+    as their shadow binds them in place.</p>
+  category: Midnight - level 2
+  rarity: Recall cost 0
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139707625
+  modifiedTime: 1754143876848
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: fVZtwZf4N8oMaInS
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!fVZtwZf4N8oMaInS"

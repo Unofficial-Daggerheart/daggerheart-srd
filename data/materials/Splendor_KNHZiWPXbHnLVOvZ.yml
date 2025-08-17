@@ -1,0 +1,81 @@
+name: Splendor
+type: domain
+folder: CkTKhe4hp0YLzCnS
+img: modules/daggerheart-unofficial-srd/assets/domains/splendor.svg
+system:
+  description: >-
+    <h2>Life</h2><p>Splendor is the domain of life. Through this magic,
+    followers gain the ability to heal and—to an extent—control
+    death.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.pfPdBN5qX3UrT3d9]{Seraph}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.pOxeDyxIdsTqXLgk]{Wizard}</p><h4>Domain
+    Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
+    Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.mecGw1DP1gHudvLr]{Bolt
+    Beacon}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.EzlvBEPNv28BaxL7]{Mending
+    Touch}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.HTZKqyTjCluDgSM3]{Reassurance}</li></ul></td></tr><tr><td><p>2</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.OxTnBAAyV2iD1AwP]{Final
+    Words}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.o3EvjCiOcxWu2i5M]{Healing
+    Hands}</li></ul></td></tr><tr><td><p>3</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.NIMane8REY0GOWMi]{Second
+    Wind}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.NWcsBuhUS18h8H4i]{Voice
+    of Reason}</li></ul></td></tr><tr><td><p>4</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.1CB5OaflvoXDJ51S]{Divination}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.fx8yB8KaH1YU2TGs]{Life
+    Ward}</li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.RxqIYp4N4IVo6DNb]{Shape
+    Material}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.WHqANUOsMSVe4ytm]{Smite}</li></ul></td></tr><tr><td><p>6</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.qB6uET3YbjtmXDj7]{Restoration}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.AAF14uRqcYJBCT0i]{Zone
+    of Protection}</li></ul></td></tr><tr><td><p>7</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.m1UB6tQqpJod6J1L]{Healing
+    Strike}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.bradLyEJLV9bGDgT]{Splendor-Touched}</li></ul></td></tr><tr><td><p>8</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.UjVxUpgV53awvRjk]{Shield
+    Aura}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.6wz8NqbGEIxycAPw]{Stunning
+    Sunlight}</li></ul></td></tr><tr><td><p>9</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.2LgxYrxgDd2n06H6]{Overwhelming
+    Aura}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.1IoaiJ9ruBO24GNI]{Salvation
+    Beam}</li></ul></td></tr><tr><td><p>10</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.xb4ISHbY8QaeKIHJ]{Invigoration}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.zEaA5haeh38jMvv1]{Resurrection}</li></ul></td></tr></tbody></table>
+  category: Domain
+  rarity: SRD
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  modifiedTime: 1754164379566
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: KNHZiWPXbHnLVOvZ
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!KNHZiWPXbHnLVOvZ"

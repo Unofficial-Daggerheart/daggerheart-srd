@@ -1,0 +1,36 @@
+name: Vulnerable
+type: inventory
+folder: 61WWExuBldpmE4UT
+img: icons/sundries/scrolls/scroll-runed-brown.webp
+system:
+  description: >-
+    <p>While you are <em><strong>Vulnerable</strong></em>, all rolls targeting
+    you have
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.EOCcQNYMlH9T7IKu]{Advantage}.</p>
+  category: Condition
+  rarity: Reference
+  location: backpack
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754061348482
+  modifiedTime: 1754061381401
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: pVg7g82AfOmtxjWU
+sort: 0
+_key: "!items!pVg7g82AfOmtxjWU"

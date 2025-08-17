@@ -1,0 +1,46 @@
+name: Wanderborne
+type: community
+folder: JKK1U2Q9eeUWaXKy
+_id: cBU3eu1bWlLlkZYh
+img: modules/daggerheart-unofficial-srd/assets/communities/wanderborne.svg
+system:
+  description: >-
+    <blockquote><p>Wanderborne are often inscrutable, magnanimous, mirthful,
+    reliable, savvy, and
+    unorthodox.</p></blockquote><h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.OtqhUUpnFjyL0Dh6]{Nomadic
+    Pack}</p><h2>Description</h2><p>Being part of a wanderborne community means
+    you've lived as a nomad, forgoing a permanent home and experiencing a wide
+    variety of cultures. <span class="og-omit">Unlike many communities that are
+    defined by their locale, wanderborne are defined by their traveling
+    lifestyle. Because of their frequent migration, wanderborne put less value
+    on the accumulation of material possessions in favor of acquiring
+    information, skills, and connections. While some wanderborne are allied by a
+    common ethos, such as a religion or a set of political or economic values,
+    others come together after shared tragedy, such as the loss of their home or
+    land. No matter the reason, the dangers posed by life on the road and the
+    choice to continue down that road together mean that wanderborne are known
+    for their unwavering loyalty.</span></p>
+  category: Community
+  rarity: SRD
+  location: community
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  modifiedTime: 1753957618220
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!cBU3eu1bWlLlkZYh"

@@ -1,0 +1,38 @@
+name: Tactician
+type: domain
+folder: ngC0J0PUTxDDZVPn
+img: modules/daggerheart-unofficial-srd/assets/domains/bone.svg
+system:
+  description: >-
+    <p>When you
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.HmWSlrKpDNnEDTGS]{Help
+    an Ally}, they can spend a Hope to add one of your Experiences to their roll
+    alongside your advantage die. When making a Tag Team Roll, you can roll a
+    d20 as your Hope Die.</p>
+  category: Bone - Level 3
+  rarity: Recall Cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139703511
+  modifiedTime: 1754142418252
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: ejXbDVuApSqonmJi
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!ejXbDVuApSqonmJi"

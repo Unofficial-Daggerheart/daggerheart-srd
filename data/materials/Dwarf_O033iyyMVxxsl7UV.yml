@@ -1,0 +1,46 @@
+name: Dwarf
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+img: modules/daggerheart-unofficial-srd/assets/ancestry/dwarf.svg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.ft3foVRqJxAxBW4o]{Thick
+    Skin}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.LnvjMml4nj0w6Sc9]{Increased
+    Fortitude}</p><h2>Description</h2><p>Dwarves are most easily recognized as
+    short humanoids with square frames, dense musculature, and thick hair. <span
+    class="og-omit">Their average height ranges from 4–5½ feet (1.2–1.7 m), and
+    they are often broad in proportion to their stature. Their skin and nails
+    contain a high amount of keratin, making them naturally resilient. This
+    allows dwarves to embed gemstones into their bodies and decorate themselves
+    with tattoos or piercings.</span></p><p class="og-omit">Their hair grows
+    thickly—usually on their heads, but some dwarves have thick hair across
+    their bodies as well. Dwarves of all genders can grow facial hair, which
+    they often style in elaborate arrangements. Typically, dwarves live up to
+    250 years of age, maintaining their muscle mass well into later life.</p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.daggerheart-unofficial-srd.materials.Item.mMJ09LHw4eT5PQTI
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951732491
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: O033iyyMVxxsl7UV
+sort: 0
+_key: "!items!O033iyyMVxxsl7UV"

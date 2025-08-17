@@ -1,0 +1,56 @@
+name: Rogue
+type: class
+folder: WpN6W0wyYE3XeeYu
+img: modules/daggerheart-unofficial-srd/assets/classes/rogue.svg
+system:
+  description: >-
+    <h2>Stats</h2><ul class="list-unstyled"><li><span
+    class="og-omit"><strong>Starting</strong></span><strong> Evasion:</strong>
+    12</li><li><span class="og-omit"><strong>Starting</strong></span><strong>
+    Hit Points:</strong> 6</li><li class="d-block"><strong>Class Items:</strong>
+    A set of forgery tools, or a grappling hook</li></ul><h2>Features</h2><ul
+    class="list-unstyled"><li><strong>Domains:</strong>
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.M6tycAZRsAu135Dy]{Grace}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.kt8Ue5ykLD9Yee8a]{Midnight}</li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.SirX9MGUWV9D16n6]{Syndicate}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.kgMtIqXDPJGxCykx]{Nightwalker}</li><li><strong>Rogue
+    Features:
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.KaZXCm1aG3Cblfei]{Cloaked}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.Mqg6Yy918IE2SDoX]{Sneak
+    Attack}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.rBDfil6QG5j6oKo8]{Rogue's
+    Dodge}</strong></li></ul><h2>Description</h2><p>Rogues are scoundrels, often
+    in both attitude and practice. <span class="og-omit">Broadly known as liars
+    and thieves, the best among this class move through the world anonymously.
+    Utilizing their sharp wits and blades, rogues trick their foes through
+    social manipulation as easily as breaking locks, climbing through windows,
+    or dealing underhanded blows. These masters of magical craft manipulate
+    shadow and movement, adding an array of useful and deadly tools to their
+    repertoire. Rogues frequently establish guilds to meet future accomplices,
+    hire out jobs, and hone secret skills, proving that there's honor among
+    thieves for those who know where to look.</span></p>
+  category: Class
+  rarity: SRD
+  location: class
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  modifiedTime: 1754175746166
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: ueIaRGO8pa6fT3lY
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!ueIaRGO8pa6fT3lY"

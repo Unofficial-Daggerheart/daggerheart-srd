@@ -1,0 +1,49 @@
+name: Clank
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+img: modules/daggerheart-unofficial-srd/assets/ancestry/clank.svg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.X6UDxJWRACKWU8oi]{Efficient}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.Uhx8L1uH5KR2uQfM]{Purposeful
+    Design}</p><h2>Description</h2><p>Clanks are sentient mechanical beings
+    built from a variety of materials, including metal, wood, and stone. <span
+    class="og-omit">They can resemble humanoids, animals, or even inanimate
+    objects. Like organic beings, their bodies come in a wide array of sizes.
+    Because of their bespoke construction, many clanks have highly specialized
+    physical configurations. Examples include clawed hands for grasping, wheels
+    for movement, or built-in weaponry.</span></p><p class="og-omit">Many clanks
+    embrace body modifications for style as well as function, and members of
+    other ancestries often turn to clank artisans to construct customized
+    mobility aids and physical adornments. Other ancestries can create clanks,
+    even using their own physical characteristics as inspiration, but it's also
+    common for clanks to build one another. A clank's lifespan extends as long
+    as they're able to acquire or craft new parts, making their physical form
+    effectively immortal. That said, their minds are subject to the effects of
+    time, and deteriorate as the magic that powers them loses potency.</p>
+  category: "Ancestry "
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.daggerheart-unofficial-srd.materials.Item.Tka1vxJoqnGDVUSq
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951671599
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: xjuzp9sE6WUBaGP7
+sort: 0
+_key: "!items!xjuzp9sE6WUBaGP7"

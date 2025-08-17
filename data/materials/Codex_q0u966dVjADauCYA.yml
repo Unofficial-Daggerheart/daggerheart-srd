@@ -1,0 +1,88 @@
+name: Codex
+type: domain
+folder: CkTKhe4hp0YLzCnS
+img: modules/daggerheart-unofficial-srd/assets/domains/codex.svg
+system:
+  description: >-
+    <h2>Intensive Magical Study</h2><p>Those who seek magical knowledge turn to
+    the equations of power recorded in books, written on scrolls, etched into
+    walls, or tattooed on bodies. Codex offers a commanding and versatile
+    understanding of magic to devotees who pursue knowledge beyond the
+    boundaries of common
+    wisdom.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.wydYvRR0JHAuYGkT]{Bard}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.pOxeDyxIdsTqXLgk]{Wizard}</p><h4>Domain
+    Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
+    Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.nhTAE8eEgzwhxNPy]{Book
+    of Ava}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.DhaRNVcSuZww1ok4]{Book
+    of Illiat}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.FQVc2F47dRfzaqiz]{Book
+    of Tyfar}</li></ul></td></tr><tr><td><p>2</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.yKHOApfgw6oDtffz]{Book
+    of Sitil}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.STUVqs7hNhaWkgBj]{Book
+    of Vagras}</li></ul></td></tr><tr><td><p>3</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.013PLKRnnrYpLPmb]{Book
+    of Korvax}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.z9JwN1LW8Wzq9fKc]{Book
+    of Norai}</li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.5kyXbhVsdFAZyBzt]{Book
+    of Exota}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.IeC7brN25UOH6dft]{Book
+    of Grynn}</li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.FQvsOeUDmJFZGu5f]{Manifest
+    Wall}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.Mzdwuw0FBlTEbfYc]{Teleport}</li></ul></td></tr><tr><td><p>6</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.fnYFZGbjOKH14xop]{Banish}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.SUMJOUITzRSfSs2s]{Sigil
+    of Retribution}</li></ul></td></tr><tr><td><p>7</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.QIh9KdJV9JgOMks4]{Book
+    of Homet}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.kcfjRKgYa4pfVd5w]{Codex-Touched}</li></ul></td></tr><tr><td><p>8</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.w8wACQUNt1kSEyT3]{Book
+    of Vyola}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.RqHSRtRXPr9pL8AE]{Safe
+    Haven}</li></ul></td></tr><tr><td><p>9</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.tFWJqPvPuaNRJ8JA]{Book
+    of Ronin}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.pTr4H94mSeOE3TUv]{Disintegration
+    Wave}</li></ul></td></tr><tr><td><p>10</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.AToXSUXYM4opmM9M]{Book
+    of Yarrow}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.XHfIsA3o2TChzGJO]{Transcendent
+    Union}</li></ul></td></tr></tbody></table>
+  category: Domain
+  rarity: SRD
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  modifiedTime: 1754163048990
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: q0u966dVjADauCYA
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!q0u966dVjADauCYA"

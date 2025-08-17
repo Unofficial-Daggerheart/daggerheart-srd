@@ -1,0 +1,40 @@
+name: Winged Sentinel
+type: subclass
+folder: tjazmAf4emSucxS5
+_id: uEsb3UAH7cOHizOW
+img: modules/daggerheart-unofficial-srd/assets/subclasses/winged-sentinel.svg
+system:
+  description: >-
+    <p>Play the Winged Sentinel if you want to take flight and strike crushing
+    blows from the sky.</p><h6>Spellcast Trait</h6><p>Strength</p><h6>Foundation
+    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.7FzvIzwbhmHWLPGr]{Wings
+    of Light}</p><h6>Specialization
+    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.yRsStNyZlT0eQhCt]{Ethereal
+    Visage}</p><h6>Mastery
+    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.EW4AxE5QQHLWXItC]{Ascendant}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.BfbClG7pnMi1POR8]{Power
+    of the Gods}</p>
+  category: Subclass
+  rarity: Winged Sentinel
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  modifiedTime: 1754777992206
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!uEsb3UAH7cOHizOW"

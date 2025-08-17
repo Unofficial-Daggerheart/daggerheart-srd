@@ -1,0 +1,41 @@
+name: Warden of Renewal
+type: subclass
+folder: oOPjrB7U160kSlB9
+_id: aXJV5IyEZ85WiGKb
+img: modules/daggerheart-unofficial-srd/assets/subclasses/warden-of-the-elements.svg
+system:
+  description: >-
+    <p>Play the Warden of Renewal if you want to use powerful magic to heal your
+    party.</p><h6>Spellcast Trait</h6><p>Instinct</p><h6>Foundation
+    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.E2hKeP5TLGqFOQwV]{Regeneration}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.ZJqODpIxphVnH4YA]{Clarity
+    of Nature}</p><h6>Specialization
+    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.BMrrvl6CPQvut0Vz]{Regenerative
+    Reach}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.KG3ryiQ0ohGupEEK]{Warden’s
+    Protection}</p><h6>Mastery
+    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.2d7ktEWovLWTTpUd]{Defender}</p>
+  category: Subclass
+  rarity: Druid
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  modifiedTime: 1754779245965
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!aXJV5IyEZ85WiGKb"

@@ -1,0 +1,83 @@
+name: Grace
+type: domain
+folder: CkTKhe4hp0YLzCnS
+img: modules/daggerheart-unofficial-srd/assets/domains/grace.svg
+system:
+  description: >-
+    <h2>Charisma</h2><p>Through rapturous storytelling, charming spells, or a
+    shroud of lies, those who channel this power define the realities of their
+    adversaries, bending perception to their will. Grace offers its wielders raw
+    magnetism and mastery over
+    language.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.wydYvRR0JHAuYGkT]{Bard}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.ueIaRGO8pa6fT3lY]{Rogue}</p><h4>Domain
+    Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
+    Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.YB54azR7oSdfIa0L]{Deft
+    Deceiver}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.prurW7d9qx1Oplqc]{Enrapture}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.CpJ4ooQTV8vvMQjw]{Inspirational
+    Words}</li></ul></td></tr><tr><td><p>2</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.LF0YxDkq3kxZvucL]{Tell
+    No Lies}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.KG7AVa2KDq9SFtFX]{Troublemaker}</li></ul></td></tr><tr><td><p>3</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.pXXIoTYkqerRrxiF]{Hypnotic
+    Shimmer}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.f7Z3EUAcxrpeLqDG]{Invisibility}</li></ul></td></tr><tr><td><p>4</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.T2I6FTsnCwqKR186]{Soothing
+    Speech}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.fahnyicVxXkKC3qs]{Through
+    Your Eyes}</li></ul></td></tr><tr><td><p>5</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.Lt9Wgwf6NA2dqi4s]{Thought
+    Delver}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.3OZbnBlKPbiVUfS0]{Words
+    of Discord}</li></ul></td></tr><tr><td><p>6</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.MIPqfuCjQDyD7Jz5]{Never
+    Upstaged}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.OQFN9jRmU4Qmwdxy]{Share
+    the Burden}</li></ul></td></tr><tr><td><p>7</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.N4JRDBpklEvhlJg7]{Endless
+    Charisma}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.OuBEsIkBnAGG4kmS]{Grace-Touched}</li></ul></td></tr><tr><td><p>8</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.holyJpXhsUU7cng3]{Astral
+    Projection}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.bM5lacKHFN5cN3L3]{Mass
+    Enrapture}</li></ul></td></tr><tr><td><p>9</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.VekHadynUYCfMaHn]{Copycat}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.RptzQ1vR6WgSIt9A]{Master
+    of the Craft}</li></ul></td></tr><tr><td><p>10</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.Rj7zl6lEdV4LfBXT]{Encore}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.EWZKWLczeKLVb4Pz]{Notorious}</li></ul></td></tr></tbody></table>
+  category: Domain
+  rarity: SRD
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  modifiedTime: 1754163370865
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: M6tycAZRsAu135Dy
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!M6tycAZRsAu135Dy"

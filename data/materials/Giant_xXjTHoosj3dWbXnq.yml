@@ -1,0 +1,43 @@
+name: Giant
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+img: modules/daggerheart-unofficial-srd/assets/ancestry/giant.svg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.eaYzEOer96ZtHvPP]{Reach}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.FPA1MVrYU0TpZ2z7]{Endurance}</p><h2>Description</h2><p>Giants
+    are towering humanoids with broad shoulders, long arms, and one to three
+    eyes. <span class="og-omit">Adult giants range from 6½–8½ feet (2–2.6 m)
+    tall and are naturally muscular, regardless of body type. They are easily
+    recognized by their wide frames and elongated arms and necks. Though they
+    can have up to three eyes, all giants are born with none and remain
+    sightless for their first year of life. Until a giant reaches the age of 10
+    and their features fully develop, the formation of their eyes may fluctuate.
+    Those with a single eye are commonly known as cyclops. The average giant
+    lifespan is about 75 years.</span></p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.daggerheart-unofficial-srd.materials.Item.sdhcUMHSS6gFFbVu
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951705169
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: xXjTHoosj3dWbXnq
+sort: 0
+_key: "!items!xXjTHoosj3dWbXnq"

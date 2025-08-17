@@ -1,0 +1,40 @@
+name: Hidden
+type: inventory
+folder: 61WWExuBldpmE4UT
+img: icons/sundries/scrolls/scroll-runed-brown.webp
+system:
+  description: >-
+    <p>While you’re out of sight from all foes and they don’t know where you
+    are, you gain the <em><strong>Hidden</strong></em> condition. While
+    <em>Hidden</em> any rolls against you have
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.ouVh4k105I1Jc1QS]{Disadvantage}.
+    <br /><br />After an adversary moves to where they would see you, you move
+    into their line of sight, or you make an attack, you are no longer
+    <em><strong>Hidden</strong></em>.</p>
+  category: Condition
+  rarity: Reference
+  location: backpack
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754061341005
+  modifiedTime: 1754061471301
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: TDFAueO3NKyB4mxZ
+sort: 300000
+_key: "!items!TDFAueO3NKyB4mxZ"

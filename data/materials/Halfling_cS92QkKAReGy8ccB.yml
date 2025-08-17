@@ -1,0 +1,44 @@
+name: Halfling
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+img: modules/daggerheart-unofficial-srd/assets/ancestry/halfling.svg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.XepNmwqAknI23umz]{Luckbringer}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.OlJ8CCOW8h2b6qZI]{Internal
+    Compass}</p><h2>Description</h2><p>Halflings are small humanoids with large
+    hairy feet and prominent rounded ears. <span class="og-omit">On average,
+    halflings are 3–4 feet (0.9–1.2 m) in height, and their ears, nose, and feet
+    are larger in proportion to the rest of their body. Members of this ancestry
+    live for around 150 years, and a halfling's appearance is likely to remain
+    youthful even as they progress from adulthood into old age. Halflings are
+    naturally attuned to the magnetic fields of the Mortal Realm, granting them
+    a strong internal compass. They also possess acute senses of hearing and
+    smell, and can often detect those who are familiar to them by the sound of
+    their movements.</span></p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.daggerheart-unofficial-srd.materials.Item.xtxWYnhIMAyUwuCI
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951696951
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: cS92QkKAReGy8ccB
+sort: 0
+_key: "!items!cS92QkKAReGy8ccB"

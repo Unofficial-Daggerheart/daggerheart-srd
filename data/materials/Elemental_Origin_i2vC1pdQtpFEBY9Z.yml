@@ -1,0 +1,38 @@
+name: Elemental Origin
+type: subclass
+folder: DqhtOk8xgbk6Ndsz
+_id: i2vC1pdQtpFEBY9Z
+img: modules/daggerheart-unofficial-srd/assets/subclasses/elemental-origin.svg
+system:
+  description: >-
+    <p>Play the Elemental Origin if you want to channel raw magic to take the
+    shape of a particular element.</p><h6>Spellcast
+    Trait</h6><p>Instinct</p><h6>Foundation
+    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.hJrG2JckG51UBBAO]{Elementalist}</strong></em></p><h6>Specialization
+    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.Rrc1IMRnHJA4aytJ]{Natural
+    Evasion}</strong></em></p><h6>Mastery
+    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.kNLHpexVdgWerZij]{Transcendence}</strong></em></p>
+  category: Subclass
+  rarity: Sorcerer
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  modifiedTime: 1754777695838
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!i2vC1pdQtpFEBY9Z"

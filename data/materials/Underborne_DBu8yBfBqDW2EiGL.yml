@@ -1,0 +1,46 @@
+name: Underborne
+type: community
+folder: JKK1U2Q9eeUWaXKy
+_id: DBu8yBfBqDW2EiGL
+img: modules/daggerheart-unofficial-srd/assets/communities/underborne.svg
+system:
+  description: >-
+    <blockquote><p>Underborne are often composed, elusive, indomitable,
+    innovative, resourceful, and
+    unpretentious.</p></blockquote><h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.XSSDs8S8lR8QyW8P]{Low-Light
+    Living}</p><h2>Description</h2><p>Being part of an underborne community
+    means you're from a subterranean society. Many underborne live right beneath
+    the cities and villages of other collectives, while some live much deeper.
+    <span class="og-omit">These communities range from small family groups in
+    burrows to massive metropolises in caverns of stone. In many locales,
+    underborne are recognized for their incredible boldness and skill that
+    enable great feats of architecture and engineering. Underborne are regularly
+    hired for their bravery, as even the least daring among them has likely
+    encountered formidable belowground beasts, and learning to dispatch such
+    creatures is common practice amongst these societies. Because of the dangers
+    of their environment, many underborne communities develop unique nonverbal
+    languages that prove equally useful on the surface.</span></p>
+  category: Community
+  rarity: SRD
+  location: community
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  modifiedTime: 1753957593976
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!DBu8yBfBqDW2EiGL"

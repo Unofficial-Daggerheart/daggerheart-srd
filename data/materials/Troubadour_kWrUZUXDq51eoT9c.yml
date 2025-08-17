@@ -1,0 +1,37 @@
+name: Troubadour
+type: subclass
+folder: k4kZgB72Ebo0eFFL
+_id: kWrUZUXDq51eoT9c
+img: modules/daggerheart-unofficial-srd/assets/subclasses/troubadour.svg
+system:
+  description: >-
+    <p>Play the Troubadour if you want to play music to bolster your
+    allies.</p><h6>Spellcast Trait</h6><p>Presence</p><h6>Foundation
+    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.x3zswnv8VaWin50y]{Gifted
+    Performer}</strong></em></p><h6>Specialization
+    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.ancP2GI3BkRFDvnc]{Maestro}</strong></em></p><h6>Mastery
+    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.UIJID7F8AHSmibDE]{Virtuoso}</strong></em></p>
+  category: Subclass
+  rarity: Bard
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  modifiedTime: 1754779343904
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!kWrUZUXDq51eoT9c"

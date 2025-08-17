@@ -1,0 +1,85 @@
+name: Midnight
+type: domain
+folder: CkTKhe4hp0YLzCnS
+img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
+system:
+  description: >-
+    <h2>Shadows and Secrecy</h2><p>Whether by clever tricks, deft magic, or the
+    cloak of night, those who channel these forces practice the art of obscurity
+    and can uncover sequestered treasures. Midnight offers practitioners the
+    power to control and create
+    enigmas.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.ueIaRGO8pa6fT3lY]{Rogue}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.WZ06sVt5NcHcdVZ5]{Sorcerer}</p><h4>Domain
+    Deck:</h4><table><tbody><tr><td
+    data-colwidth="104"><p>Level</p></td><td><p>Domain
+    Cards</p></td></tr><tr><td data-colwidth="104"><p>1</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.YD7Fk0Ifla5Sx8KI]{Pick
+    and Pull}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.f2BsT8uNIN6S7ViY]{Rain
+    of Blades}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.WuDDDtCgOLA2pWjv]{Uncanny
+    Disguise}</li></ul></td></tr><tr><td
+    data-colwidth="104"><p>2</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.ta9YxEs7ZRZtCbNt]{Midnight
+    Spirit}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.fVZtwZf4N8oMaInS]{Shadowbind}</li></ul></td></tr><tr><td
+    data-colwidth="104"><p>3</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.aG5Pr6o1i8sa2zVC]{Chokehold}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.UtdzXnTiqB5JaNc3]{Veil
+    of Night}</li></ul></td></tr><tr><td
+    data-colwidth="104"><p>4</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.UD727nzcVJCSpDPs]{Glyph
+    of Nightfall}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.tNanJ159rVKXGxnf]{Stealth
+    Expertise}</li></ul></td></tr><tr><td
+    data-colwidth="104"><p>5</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.vGRXkbGt8C0G4YfP]{Hush}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.zeapLNMTrDrSq5hd]{Phantom
+    Retreat}</li></ul></td></tr><tr><td data-colwidth="104"><p>6</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.m9b0VUzEQQ9FtkB3]{Dark
+    Whispers}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.5GoInr7xtpYWxRzb]{Mass
+    Disguise}</li></ul></td></tr><tr><td
+    data-colwidth="104"><p>7</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.8Ax6tTo0dckhRasL]{Midnight-Touched}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.dj056vCHnyB5Ij6p]{Vanishing
+    Dodge}</li></ul></td></tr><tr><td data-colwidth="104"><p>8</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.zKDQY4U2pxfbGo2M]{Shadowhunter}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.YzF9yczaCmNaVf7H]{Spellcharge}</li></ul></td></tr><tr><td
+    data-colwidth="104"><p>9</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.OjeNQR8Dnemmj5l7]{Night
+    Terror}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.begroFrRHEk2eP4T]{Twilight
+    Toll}</li></ul></td></tr><tr><td data-colwidth="104"><p>10</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.2ZMrhqqbLKbIWwwQ]{Eclipse}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.c7CbZHuHfpnLKOOr]{Specter
+    of the Dark}</li></ul></td></tr></tbody></table>
+  category: Domain
+  rarity: SRD
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  modifiedTime: 1754163629833
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: kt8Ue5ykLD9Yee8a
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!kt8Ue5ykLD9Yee8a"

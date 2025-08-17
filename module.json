@@ -20,9 +20,9 @@
   },
   "packs": [
     {
-      "name": "srd-adversaries",
-      "label": "srd-adversaries",
-      "path": "packs/srd-adversaries",
+      "name": "adversaries",
+      "label": "adversaries",
+      "path": "packs/adversaries",
       "type": "Actor",
       "system": "daggerheart-unofficial",
       "ownership": {
@@ -31,9 +31,9 @@
       }
     },
     {
-      "name": "srd-frames",
-      "label": "srd-frames",
-      "path": "packs/srd-frames",
+      "name": "frames",
+      "label": "frames",
+      "path": "packs/frames",
       "type": "JournalEntry",
       "system": "daggerheart-unofficial",
       "ownership": {
@@ -42,9 +42,9 @@
       }
     },
     {
-      "name": "srd-items",
-      "label": "srd-items",
-      "path": "packs/srd-items",
+      "name": "items",
+      "label": "items",
+      "path": "packs/items",
       "type": "Item",
       "system": "daggerheart-unofficial",
       "ownership": {
@@ -53,9 +53,9 @@
       }
     },
     {
-      "name": "srd-materials",
-      "label": "srd-materials",
-      "path": "packs/srd-materials",
+      "name": "materials",
+      "label": "materials",
+      "path": "packs/materials",
       "type": "Item",
       "system": "daggerheart-unofficial",
       "ownership": {
@@ -64,9 +64,9 @@
       }
     },
     {
-      "name": "srd-rules",
-      "label": "srd-rules",
-      "path": "packs/srd-rules",
+      "name": "rules",
+      "label": "rules",
+      "path": "packs/rules",
       "type": "JournalEntry",
       "system": "daggerheart-unofficial",
       "ownership": {
@@ -75,9 +75,9 @@
       }
     },
     {
-      "name": "srd-tables",
-      "label": "srd-tables",
-      "path": "packs/srd-tables",
+      "name": "tables",
+      "label": "tables",
+      "path": "packs/tables",
       "type": "RollTable",
       "system": "daggerheart-unofficial",
       "ownership": {

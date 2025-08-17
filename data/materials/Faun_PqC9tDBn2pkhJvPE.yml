@@ -1,0 +1,47 @@
+name: Faun
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+img: modules/daggerheart-unofficial-srd/assets/ancestry/faun.svg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.SOCl5q8PXFvZMYPg]{Kick}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.YrztqMMYcHxT240e]{Caprine
+    Leap}</p><h2>Description</h2><p>Fauns resemble humanoid goats with curving
+    horns, square pupils, and cloven hooves. <span class="og-omit">Though their
+    appearances may vary, most fauns have a humanoid torso and a goatlike lower
+    body covered in dense fur.</span></p><p class="og-omit">Faun faces can be
+    more caprine or more humanlike, and they have a wide variety of ear and horn
+    shapes. Faun horns range from short with minimal curvature to much larger
+    with a distinct curl. The average faun ranges from 4–6½ feet (1.2–2.0 m)
+    tall, but their height can change dramatically from one moment to the next
+    based on their stance. The majority of fauns have proportionately long
+    limbs, no matter their size or shape, and are known for their ability to
+    deliver powerful blows with their split hooves. Fauns live for roughly 225
+    years, and as they age, their appearance can become increasingly
+    goatlike.</p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.daggerheart-unofficial-srd.materials.Item.8BX7F4HvZBLqaJJm
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951720340
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: PqC9tDBn2pkhJvPE
+sort: 0
+_key: "!items!PqC9tDBn2pkhJvPE"

@@ -1,0 +1,43 @@
+name: Death Grip
+type: domain
+folder: gJv72Jd0fCiWzBk5
+img: modules/daggerheart-unofficial-srd/assets/domains/sage.svg
+system:
+  description: >-
+    <p>Make a <strong>Spellcast Roll</strong> against a target within
+    <strong>Close</strong> range and choose one of the following
+    options:</p><ul><li><p>You pull the target into Melee range or pull yourself
+    into Melee range of them.</p></li><li><p>You constrict the target and force
+    them to mark 2 Stress.</p></li><li><p>All adversaries between you and the
+    target must succeed on a <strong>Reaction Roll (13)</strong> or be hit by
+    vines, taking [[/roll 3d6+2]] physical damage.</p></li></ul><p>On a success,
+    vines reach out from your hands, causing the chosen effect and temporarily
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.967FSSCW150Zpp5E]{restraining}
+    the target.</p>
+  category: Sage - level 4
+  rarity: Recall cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139708798
+  modifiedTime: 1754144186583
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: sPHCRnmh4Q8jNK1y
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!sPHCRnmh4Q8jNK1y"

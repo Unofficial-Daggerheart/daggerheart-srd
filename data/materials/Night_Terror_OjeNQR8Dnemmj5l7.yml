@@ -1,0 +1,44 @@
+name: Night Terror
+type: domain
+folder: Mn10DVTIvft7cUdr
+img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
+system:
+  description: >-
+    <p>Once per long rest, choose any targets within <strong>Very Close</strong>
+    range to perceive you as a nightmarish horror. The targets must succeed on a
+    <strong>Reaction Roll (16</strong>) or become temporarily
+    <em><strong>Horrified</strong></em>. While
+    <em><strong>Horrified</strong></em>, they're
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.pVg7g82AfOmtxjWU]{vulnerable}.</p><p>Steal
+    a number of Fear from the GM equal to the number of targets that are
+    <em><strong>Horrified</strong></em> (up to the number of Fear in the GM's
+    pool). Roll a number of d6s equal to the number of stolen Fear and deal the
+    total damage to each <em><strong>Horrified</strong></em> target. Discard the
+    stolen Fear.</p>
+  category: Midnight - level 9
+  rarity: Recall cost 2
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139707625
+  modifiedTime: 1754144002444
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: OjeNQR8Dnemmj5l7
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!OjeNQR8Dnemmj5l7"

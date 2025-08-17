@@ -1,0 +1,85 @@
+name: Sage
+type: domain
+folder: CkTKhe4hp0YLzCnS
+img: modules/daggerheart-unofficial-srd/assets/domains/sage.svg
+system:
+  description: >-
+    <h2>The Natural World</h2><p>Those who walk this path tap into the
+    unfettered power of the earth and its creatures to unleash raw magic. Sage
+    grants its adherents the vitality of a blooming flower and the ferocity of a
+    ravenous
+    predator.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.i8J9eTZHWpbm2ZAL]{Druid}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.9tpicQBdcAApd01G]{Ranger}</p><h4>Domain
+    Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
+    Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.d2ewrPkbwt0WkrgD]{Gifted
+    Tracker}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.jreX7GZREB2Hq5Ue]{Nature's
+    Tongue}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.l91N3i1R6tGTenWx]{Vicious
+    Entangle}</li></ul></td></tr><tr><td><p>2</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.iaJz7512pgMCfIc7]{Conjure
+    Swarm}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.dORVGLzvXs4MLCsH]{Natural
+    Familiar}</li></ul></td></tr><tr><td><p>3</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.GI1bnWUEIBZPgh9d]{Corrosive
+    Projectile}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.XEONDmtXpP2mYhdQ]{Towering
+    Stalk}</li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.sPHCRnmh4Q8jNK1y]{Death
+    Grip}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.pKUf2tre1YrDc4P4]{Healing
+    Field}</li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.v7Xyxfi8baLK9VkE]{Thorn
+    Skin}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.q8GLXYpNCF0U7daB]{Wild
+    Fortress}</li></ul></td></tr><tr><td><p>6</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.tfQ1cODeyIA4WE7x]{Conjured
+    Steeds}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.k3g03takB8eroo8H]{Forager}</li></ul></td></tr><tr><td><p>7</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.FOgHvyxPBPaYtZUB]{Sage-Touched}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.jSgCqBXeDD8uzAcP]{Wild
+    Surge}</li></ul></td></tr><tr><td><p>8</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.QYt8YnvHNoZigCUr]{Forest
+    Sprites}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.RopfqJRhMw6VIWT3]{Rejuvenation
+    Barrier}</li></ul></td></tr><tr><td><p>9</p></td><td><ul><li><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.rMJK4aWhvYZnyWsx]{Fane
+    of the Wilds}</p></li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.VKPgo9K2hqPSy1O8]{Plant
+    Dominion}</li></ul></td></tr><tr><td><p>10</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.5IXqaK7ACJ2hNdiT]{Force
+    of Nature}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.ryJVDgTz3P3lvnXB]{Tempest}</li></ul></td></tr></tbody></table>
+  category: Domain
+  rarity: SRD
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  modifiedTime: 1754163931505
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: q0GrMrQsDuAl4z1B
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!q0GrMrQsDuAl4z1B"

@@ -1,0 +1,46 @@
+name: Fungril
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+img: modules/daggerheart-unofficial-srd/assets/ancestry/fungril.svg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.d2N7M5ZaeE0ximbY]{Fungril
+    Network}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.sAlPhwGOLmbpntoi]{Death
+    Connection}</p><h2>Description</h2><p>Fungril resemble humanoid mushrooms.
+    <span class="og-omit">They can be either more humanoid or more fungal in
+    appearance, and they come in an assortment of colors, from earth tones to
+    bright reds, yellows, purples, and blues. Fungril display an incredible
+    variety of bodies, faces, and limbs, as there's no single common shape among
+    them. Even their heights range from a tiny 2 feet tall to a staggering 7
+    feet (0.6–2.1 m) tall. While the common lifespan of a fungril is about 300
+    years, some have been reported to live much longer. They can communicate
+    nonverbally, and many members of this ancestry use a mycelial array to
+    chemically exchange information with other fungril across long
+    distances.</span></p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.daggerheart-unofficial-srd.materials.Item.zsRjKx7CqZvkjS6I
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951712628
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: fsreQoaaRiaqNpdU
+sort: 0
+_key: "!items!fsreQoaaRiaqNpdU"

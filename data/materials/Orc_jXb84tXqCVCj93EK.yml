@@ -1,0 +1,43 @@
+name: Orc
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+img: modules/daggerheart-unofficial-srd/assets/ancestry/orc.svg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.xWF5VVFgi8qVq5Q3]{Tusks}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.1xCRnUdcPJdgowau]{Sturdy}</p><h2>Description</h2><p>Orcs
+    are humanoids most easily recognized by their square features and boar-like
+    tusks that protrude from their lower jaw.</p><p class="og-omit">Tusks come
+    in various sizes, and though they extend from the mouth, they aren't used
+    for consuming food. Instead, many orcs choose to decorate their tusks with
+    significant ornamentation. Orcs typically live for 125 years, and unless
+    altered, their tusks continue to grow throughout the course of their lives.
+    Their ears are pointed, and their hair and skin typically have green, blue,
+    pink, or gray tones. Orcs tend toward a muscular build, and their average
+    height ranges from 5–6½ feet (1.5–2.0 m).</p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.daggerheart-unofficial-srd.materials.Item.8PXUKfSXiN6SxJQM
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951682582
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: jXb84tXqCVCj93EK
+sort: 0
+_key: "!items!jXb84tXqCVCj93EK"

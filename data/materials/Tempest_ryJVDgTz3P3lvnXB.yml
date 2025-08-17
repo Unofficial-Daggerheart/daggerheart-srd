@@ -1,0 +1,44 @@
+name: Tempest
+type: domain
+folder: C6qnqG5r1eW3c5AW
+img: modules/daggerheart-unofficial-srd/assets/domains/sage.svg
+system:
+  description: >-
+    <p>Choose one of the following tempests and make a <strong>Spellcast
+    Roll</strong> against all targets within <strong>Far</strong> range. Targets
+    you succeed against experience its effects until the GM spends a Fear on
+    their turn to end this spell.</p><ul><li><p>Blizzard: Deal [[/roll 2d20+8]]
+    magic damage and targets are temporarily
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.pVg7g82AfOmtxjWU]{vulnerable}</p></li><li><p>Hurricane:
+    Deal [[/roll 3d10+10]] magic damage and choose a direction the wind is
+    blowing. Targets can't move against the wind</p></li><li><p>Sandstorm: Deal
+    [[/roll 5d6+9]] magic damage. Attacks made from beyond
+    <strong>Melee</strong> range have
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.ouVh4k105I1Jc1QS]{disadvantage}.</p></li></ul>
+  category: Sage - level 10
+  rarity: Recall cost 2
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139708798
+  modifiedTime: 1754144374598
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: ryJVDgTz3P3lvnXB
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!ryJVDgTz3P3lvnXB"

@@ -1,0 +1,40 @@
+name: Wordsmith
+type: subclass
+folder: k4kZgB72Ebo0eFFL
+_id: GgiU1DPpFHpvXTBq
+img: modules/daggerheart-unofficial-srd/assets/subclasses/wordsmith.svg
+system:
+  description: >-
+    <p>Play the Wordsmith if you want to use clever wordplay and captivate
+    crowds.</p><h6>Spellcast Trait</h6><p>Presence</p><h6>Foundation
+    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.UjxYc1L7zhcOxecD]{Rousing
+    Speech}
+    @UUID[Compendium.daggerheart-unofficial-srd.materials.Item.YO2Xtz1GRzJUdW3o]{Heart
+    of a Poet}</p><h6>Specialization
+    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.ak4EkVRHb41cCT95]{Eloquent}</strong></em></p><h6>Mastery
+    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.materials.Item.tRdUqq5o8tAziDrr]{Epic
+    Poetry}</strong></em></p>
+  category: Subclass
+  rarity: Bard
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  modifiedTime: 1754779431462
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!GgiU1DPpFHpvXTBq"
