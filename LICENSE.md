@@ -1,4 +1,4 @@
-Code and project structure are released under the MIT License. Content in the YAML files and images are distributed under the DPCGL.
+Code and project structure are released under the MIT License. Content in the YAML files and images are distributed under the DPCGL unless stated otherwise.
 
 ---
 
