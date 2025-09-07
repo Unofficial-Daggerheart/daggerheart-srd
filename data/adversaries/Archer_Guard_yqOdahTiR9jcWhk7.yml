@@ -1,5 +1,5 @@
 name: Archer Guard
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -15,12 +15,12 @@ system:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 2
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 4
     severe: 8
@@ -47,21 +47,21 @@ system:
   groups: {}
   weapon-main:
     name: Longbow
-    description: 'Far | ATK: +1| Phys'
+    description: "Far | ATK: +1| Phys"
     damage:
       baseValue: 1d8
       modifiers:
         - name: Modifier
-          value: '+3'
+          value: "+3"
           enabled: true
       value: 1d8+3 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 1
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -83,7 +83,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -159,7 +159,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917004471
@@ -167,4 +167,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: yqOdahTiR9jcWhk7
 sort: 300000
-_key: '!actors!yqOdahTiR9jcWhk7'
+_key: "!actors!yqOdahTiR9jcWhk7"

@@ -1,5 +1,5 @@
 name: Bladed Guard
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -19,12 +19,12 @@ system:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 2
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 5
     severe: 9
@@ -51,21 +51,21 @@ system:
   groups: {}
   weapon-main:
     name: Longsword
-    description: 'Melee | ATK: +1| Phys'
+    description: "Melee | ATK: +1| Phys"
     damage:
       baseValue: 1d6
       modifiers:
         - name: Modifier
-          value: '+1'
+          value: "+1"
           enabled: true
       value: 1d6+1 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 1
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -87,7 +87,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -163,7 +163,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917111033
@@ -171,4 +171,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: UcOSrfrqMi1r4sFc
 sort: 700000
-_key: '!actors!UcOSrfrqMi1r4sFc'
+_key: "!actors!UcOSrfrqMi1r4sFc"

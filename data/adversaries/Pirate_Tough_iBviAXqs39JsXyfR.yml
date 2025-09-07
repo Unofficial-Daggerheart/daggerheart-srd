@@ -1,5 +1,5 @@
 name: Pirate Tough
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -16,12 +16,12 @@ system:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 8
     severe: 15
@@ -48,21 +48,21 @@ system:
   groups: {}
   weapon-main:
     name: Massive Fists
-    description: 'Melee | ATK: +1| Phys'
+    description: "Melee | ATK: +1| Phys"
     damage:
       baseValue: 2d6 phy
       modifiers:
         - name: Modifier
-          value: ''
+          value: ""
           enabled: true
       value: 2d6 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 1
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -84,7 +84,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -160,7 +160,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751919030910
@@ -168,4 +168,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: iBviAXqs39JsXyfR
 sort: 200000
-_key: '!actors!iBviAXqs39JsXyfR'
+_key: "!actors!iBviAXqs39JsXyfR"

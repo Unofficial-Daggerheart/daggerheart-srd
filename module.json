@@ -1,7 +1,7 @@
 {
   "id": "daggerheart-unofficial-srd",
   "title": "Daggerheart UO: SRD",
-  "version": "1.0.0",
+  "version": "0.1.4",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -17,9 +17,8 @@
         "id": "daggerheart-unofficial",
         "type": "system",
         "compatibility": {
-          "minimum": "3.0.0",
-          "maximum": "3.0.14",
-          "verified": "3.0.14"
+          "minimum": "3.0.15",
+          "verified": "3.0.15"
         }
       }
     ]

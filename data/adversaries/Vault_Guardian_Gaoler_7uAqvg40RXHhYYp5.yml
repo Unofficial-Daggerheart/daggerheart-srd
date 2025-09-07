@@ -1,5 +1,5 @@
 name: Vault Guardian Gaoler
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -17,12 +17,12 @@ system:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 19
     severe: 33
@@ -49,21 +49,21 @@ system:
   groups: {}
   weapon-main:
     name: Body Bash
-    description: 'Very Close | ATK: +2| 3d6+2 Phys'
+    description: "Very Close | ATK: +2| 3d6+2 Phys"
     damage:
       baseValue: 3d6
       modifiers:
         - name: Modifier
-          value: '+2'
+          value: "+2"
           enabled: true
       value: 3d6+2 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 2
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 3
@@ -85,7 +85,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -161,7 +161,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751919483693
@@ -169,4 +169,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: 7uAqvg40RXHhYYp5
 sort: 200000
-_key: '!actors!7uAqvg40RXHhYYp5'
+_key: "!actors!7uAqvg40RXHhYYp5"

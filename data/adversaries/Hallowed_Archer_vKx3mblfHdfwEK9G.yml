@@ -1,5 +1,5 @@
 name: Hallowed Archer
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -14,12 +14,12 @@ system:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 2
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 25
     severe: 45
@@ -46,21 +46,21 @@ system:
   groups: {}
   weapon-main:
     name: Sanctified Longbow
-    description: 'Far | ATK: +4| Phys'
+    description: "Far | ATK: +4| Phys"
     damage:
       baseValue: 4d8
       modifiers:
         - name: Modifier
-          value: '+8'
+          value: "+8"
           enabled: true
       value: 4d8+8 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 4
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
@@ -82,7 +82,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -158,7 +158,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918055082
@@ -166,4 +166,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: vKx3mblfHdfwEK9G
 sort: 0
-_key: '!actors!vKx3mblfHdfwEK9G'
+_key: "!actors!vKx3mblfHdfwEK9G"

@@ -1,5 +1,5 @@
 name: Fallen Shock Troop
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -19,12 +19,12 @@ system:
     value: 0
     min: 0
     max: 1
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 1
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: null
     severe: 0
@@ -51,21 +51,21 @@ system:
   groups: {}
   weapon-main:
     name: Cursed Axe
-    description: 'Very Close | ATK: +2| 12 Phys'
+    description: "Very Close | ATK: +2| 12 Phys"
     damage:
-      baseValue: '12'
+      baseValue: "12"
       modifiers:
         - name: Modifier
-          value: ''
+          value: ""
           enabled: true
-      value: '12'
+      value: "12"
     to-hit:
       baseValue: 0
       modifiers: []
       value: 2
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
@@ -87,7 +87,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -163,7 +163,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917645887
@@ -171,4 +171,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: imikKjTtN7G8yniL
 sort: 300000
-_key: '!actors!imikKjTtN7G8yniL'
+_key: "!actors!imikKjTtN7G8yniL"

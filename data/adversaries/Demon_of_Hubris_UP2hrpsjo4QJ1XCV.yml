@@ -1,5 +1,5 @@
 name: Demon of Hubris
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -21,12 +21,12 @@ system:
     value: 0
     min: 0
     max: 7
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 18
     severe: 36
@@ -53,21 +53,21 @@ system:
   groups: {}
   weapon-main:
     name: Perfect Spear
-    description: 'Very Close | ATK: +4| Phys'
+    description: "Very Close | ATK: +4| Phys"
     damage:
       baseValue: 3d10 phy
       modifiers:
         - name: Modifier
-          value: ''
+          value: ""
           enabled: true
       value: 3d10 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 4
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 3
@@ -89,7 +89,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -165,7 +165,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917392668
@@ -173,4 +173,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: UP2hrpsjo4QJ1XCV
 sort: 100000
-_key: '!actors!UP2hrpsjo4QJ1XCV'
+_key: "!actors!UP2hrpsjo4QJ1XCV"

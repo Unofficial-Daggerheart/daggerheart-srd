@@ -1,5 +1,5 @@
-name: 'Fallen Warlord: Undefeated Champion'
-type: npc
+name: "Fallen Warlord: Undefeated Champion"
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -30,12 +30,12 @@ system:
     value: 0
     min: 0
     max: 11
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 35
     severe: 58
@@ -62,25 +62,25 @@ system:
   groups: {}
   weapon-main:
     name: Heart-Shattering Sword
-    description: 'Very Close | ATK: +8| Phys'
+    description: "Very Close | ATK: +8| Phys"
     damage:
       baseValue: 4d12
       modifiers:
         - name: Modifier
-          value: '+13'
+          value: "+13"
           enabled: true
       value: 4d12+13 phy
     to-hit: null
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
     domain-two: Solo
   isNPC: true
 prototypeToken:
-  name: 'Fallen Warlord: Undefeated Champion'
+  name: "Fallen Warlord: Undefeated Champion"
   displayName: 0
   actorLink: false
   width: 1
@@ -95,7 +95,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -171,7 +171,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.3
   createdTime: 1751917731879
@@ -179,4 +179,4 @@ _stats:
   lastModifiedBy: oP9DOnt48gLdnVCV
 _id: z8y0BNlLW8zALqNi
 sort: 600000
-_key: '!actors!z8y0BNlLW8zALqNi'
+_key: "!actors!z8y0BNlLW8zALqNi"

@@ -1,5 +1,5 @@
 name: Outer Realms Corrupter
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -15,12 +15,12 @@ system:
     value: 0
     min: 0
     max: 4
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 27
     severe: 47
@@ -47,21 +47,21 @@ system:
   groups: {}
   weapon-main:
     name: Corroding Pseudopod
-    description: 'Very Close | ATK: +7| Phys'
+    description: "Very Close | ATK: +7| Phys"
     damage:
       baseValue: 4d8
       modifiers:
         - name: Modifier
-          value: '+5'
+          value: "+5"
           enabled: true
       value: 4d8+5 mag
     to-hit:
       baseValue: 0
       modifiers: []
       value: 7
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
@@ -83,7 +83,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -159,7 +159,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918921944
@@ -167,4 +167,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: 1wJ9i6zm8hueIJ1S
 sort: 0
-_key: '!actors!1wJ9i6zm8hueIJ1S'
+_key: "!actors!1wJ9i6zm8hueIJ1S"

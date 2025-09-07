@@ -1,5 +1,5 @@
 name: Outer Realms Abomination
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -23,12 +23,12 @@ system:
     value: 0
     min: 0
     max: 7
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 35
     severe: 71
@@ -55,18 +55,18 @@ system:
   groups: {}
   weapon-main:
     name: Massive Pseudopod
-    description: 'Very Close | ATK: +2d4| Phys'
+    description: "Very Close | ATK: +2d4| Phys"
     damage:
       baseValue: 4d6
       modifiers:
         - name: Modifier
-          value: '+13'
+          value: "+13"
           enabled: true
       value: 4d6+13 mag
     to-hit: null
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
@@ -88,7 +88,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -164,7 +164,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.3
   createdTime: 1751918908757
@@ -172,4 +172,4 @@ _stats:
   lastModifiedBy: oP9DOnt48gLdnVCV
 _id: dpg618y1CKutraol
 sort: 0
-_key: '!actors!dpg618y1CKutraol'
+_key: "!actors!dpg618y1CKutraol"

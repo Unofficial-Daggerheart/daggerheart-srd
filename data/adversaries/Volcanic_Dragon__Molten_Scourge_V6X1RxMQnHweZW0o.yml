@@ -1,5 +1,5 @@
-name: 'Volcanic Dragon: Molten Scourge'
-type: npc
+name: "Volcanic Dragon: Molten Scourge"
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -36,12 +36,12 @@ system:
     value: 0
     min: 0
     max: 7
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 30
     severe: 58
@@ -68,28 +68,28 @@ system:
   groups: {}
   weapon-main:
     name: Lava-Coated Claws
-    description: 'Close | ATK: +9| Phys'
+    description: "Close | ATK: +9| Phys"
     damage:
       baseValue: 4d12
       modifiers:
         - name: Modifier
-          value: '+4'
+          value: "+4"
           enabled: true
       value: 4d12+4 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 9
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
     domain-two: Solo
   isNPC: true
 prototypeToken:
-  name: 'Volcanic Dragon: Molten Scourge'
+  name: "Volcanic Dragon: Molten Scourge"
   displayName: 0
   actorLink: false
   width: 1
@@ -104,7 +104,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -180,7 +180,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751919569162
@@ -188,4 +188,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: V6X1RxMQnHweZW0o
 sort: 200000
-_key: '!actors!V6X1RxMQnHweZW0o'
+_key: "!actors!V6X1RxMQnHweZW0o"

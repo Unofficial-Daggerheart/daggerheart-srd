@@ -1,5 +1,5 @@
 name: Greater Earth Elemental
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -27,12 +27,12 @@ system:
     value: 0
     min: 0
     max: 10
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 4
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 22
     severe: 40
@@ -59,21 +59,21 @@ system:
   groups: {}
   weapon-main:
     name: Boulder Fist
-    description: 'Very Close | ATK: +7| Phys'
+    description: "Very Close | ATK: +7| Phys"
     damage:
       baseValue: 3d10
       modifiers:
         - name: Modifier
-          value: '+1'
+          value: "+1"
           enabled: true
       value: 3d10+1 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 7
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 3
@@ -95,7 +95,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -171,7 +171,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918002712
@@ -179,4 +179,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: OCY6MXyGVM95Goxr
 sort: 100000
-_key: '!actors!OCY6MXyGVM95Goxr'
+_key: "!actors!OCY6MXyGVM95Goxr"

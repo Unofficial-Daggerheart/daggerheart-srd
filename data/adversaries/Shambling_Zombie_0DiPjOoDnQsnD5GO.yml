@@ -1,5 +1,5 @@
 name: Shambling Zombie
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -15,12 +15,12 @@ system:
     value: 0
     min: 0
     max: 4
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 1
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 4
     severe: 6
@@ -47,21 +47,21 @@ system:
   groups: {}
   weapon-main:
     name: Bite
-    description: 'Melee | ATK: +0| Phys'
+    description: "Melee | ATK: +0| Phys"
     damage:
       baseValue: 1d6
       modifiers:
         - name: Modifier
-          value: '+1'
+          value: "+1"
           enabled: true
       value: 1d6+1 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 0
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -83,7 +83,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -159,7 +159,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751919113597
@@ -167,4 +167,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: 0DiPjOoDnQsnD5GO
 sort: 100000
-_key: '!actors!0DiPjOoDnQsnD5GO'
+_key: "!actors!0DiPjOoDnQsnD5GO"

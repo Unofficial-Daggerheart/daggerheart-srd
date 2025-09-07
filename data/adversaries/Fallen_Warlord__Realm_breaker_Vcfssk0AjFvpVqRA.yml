@@ -1,5 +1,5 @@
-name: 'Fallen Warlord: Realm-breaker'
-type: npc
+name: "Fallen Warlord: Realm-breaker"
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -32,12 +32,12 @@ system:
     value: 0
     min: 0
     max: 8
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 36
     severe: 66
@@ -64,28 +64,28 @@ system:
   groups: {}
   weapon-main:
     name: Barbed Whip
-    description: 'Close | ATK: +7| Phys'
+    description: "Close | ATK: +7| Phys"
     damage:
       baseValue: 4d8
       modifiers:
         - name: Modifier
-          value: '+7'
+          value: "+7"
           enabled: true
       value: 4d8+7 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 7
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
     domain-two: Solo
   isNPC: true
 prototypeToken:
-  name: 'Fallen Warlord: Realm-breaker'
+  name: "Fallen Warlord: Realm-breaker"
   displayName: 0
   actorLink: false
   width: 1
@@ -100,7 +100,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -176,7 +176,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917721224
@@ -184,4 +184,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: Vcfssk0AjFvpVqRA
 sort: 400000
-_key: '!actors!Vcfssk0AjFvpVqRA'
+_key: "!actors!Vcfssk0AjFvpVqRA"

@@ -1,5 +1,5 @@
 name: Juvenile Flickerfly
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -26,12 +26,12 @@ system:
     value: 0
     min: 0
     max: 10
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 13
     severe: 26
@@ -58,21 +58,21 @@ system:
   groups: {}
   weapon-main:
     name: Wing Slash
-    description: 'Very Close | ATK: +3| Phys'
+    description: "Very Close | ATK: +3| Phys"
     damage:
       baseValue: 2d10
       modifiers:
         - name: Modifier
-          value: '+4'
+          value: "+4"
           enabled: true
       value: 2d10+4 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 3
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 2
@@ -94,7 +94,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -170,7 +170,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918485973
@@ -178,4 +178,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: nAukNKma2QXxBh0Z
 sort: 200000
-_key: '!actors!nAukNKma2QXxBh0Z'
+_key: "!actors!nAukNKma2QXxBh0Z"

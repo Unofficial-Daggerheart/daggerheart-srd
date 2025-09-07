@@ -1,5 +1,5 @@
 name: Adult Flickerfly
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -32,12 +32,12 @@ system:
     value: 0
     min: 0
     max: 12
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 6
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 20
     severe: 35
@@ -64,21 +64,21 @@ system:
   groups: {}
   weapon-main:
     name: Wing Slash
-    description: 'Very Close | ATK: +3| 3d20 Phys'
+    description: "Very Close | ATK: +3| 3d20 Phys"
     damage:
       baseValue: 3d20
       modifiers:
         - name: Modifier
-          value: ''
+          value: ""
           enabled: true
       value: 3d20
     to-hit:
       baseValue: 0
       modifiers: []
       value: 3
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 3
@@ -100,7 +100,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -176,7 +176,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751916951089
@@ -184,4 +184,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: EZSoReUYlbgUQrvV
 sort: 100000
-_key: '!actors!EZSoReUYlbgUQrvV'
+_key: "!actors!EZSoReUYlbgUQrvV"

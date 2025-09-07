@@ -1,5 +1,5 @@
 name: Kraken
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -27,12 +27,12 @@ system:
     value: 0
     min: 0
     max: 11
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 8
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 35
     severe: 70
@@ -59,21 +59,21 @@ system:
   groups: {}
   weapon-main:
     name: Tentacles
-    description: 'Close | ATK: +7| Phys'
+    description: "Close | ATK: +7| Phys"
     damage:
       baseValue: 4d12
       modifiers:
         - name: Modifier
-          value: '+10'
+          value: "+10"
           enabled: true
       value: 4d12+10 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 7
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
@@ -95,7 +95,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -171,7 +171,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918563631
@@ -179,4 +179,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: u8XInjdaG1hEhPHW
 sort: 500000
-_key: '!actors!u8XInjdaG1hEhPHW'
+_key: "!actors!u8XInjdaG1hEhPHW"

@@ -1,5 +1,5 @@
 name: Head Guard
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -19,12 +19,12 @@ system:
     value: 0
     min: 0
     max: 7
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 7
     severe: 13
@@ -51,21 +51,21 @@ system:
   groups: {}
   weapon-main:
     name: Mace
-    description: 'Melee | ATK: +4| Phys'
+    description: "Melee | ATK: +4| Phys"
     damage:
       baseValue: 1d10
       modifiers:
         - name: Modifier
-          value: '+4'
+          value: "+4"
           enabled: true
       value: 1d10+4 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 4
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -87,7 +87,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -163,7 +163,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918159383
@@ -171,4 +171,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: S708HlOeHXyBvyyG
 sort: 300000
-_key: '!actors!S708HlOeHXyBvyyG'
+_key: "!actors!S708HlOeHXyBvyyG"

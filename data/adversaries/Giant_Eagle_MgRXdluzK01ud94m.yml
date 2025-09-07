@@ -1,5 +1,5 @@
 name: Giant Eagle
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -23,12 +23,12 @@ system:
     value: 0
     min: 0
     max: 4
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 4
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 8
     severe: 19
@@ -55,21 +55,21 @@ system:
   groups: {}
   weapon-main:
     name: Claws and Beak
-    description: 'Very Close | ATK: +1| Phys'
+    description: "Very Close | ATK: +1| Phys"
     damage:
       baseValue: 2d6
       modifiers:
         - name: Modifier
-          value: '+3'
+          value: "+3"
           enabled: true
       value: 2d6+3 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 1
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 2
@@ -91,7 +91,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -167,7 +167,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917828715
@@ -175,4 +175,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: MgRXdluzK01ud94m
 sort: 500000
-_key: '!actors!MgRXdluzK01ud94m'
+_key: "!actors!MgRXdluzK01ud94m"

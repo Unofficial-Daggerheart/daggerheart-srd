@@ -1,5 +1,5 @@
 name: Perfected Zombie
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -20,12 +20,12 @@ system:
     value: 0
     min: 0
     max: 9
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 4
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 40
     severe: 70
@@ -52,21 +52,21 @@ system:
   groups: {}
   weapon-main:
     name: Greataxe
-    description: 'Very Close | ATK: +4| Phys'
+    description: "Very Close | ATK: +4| Phys"
     damage:
       baseValue: 4d12
       modifiers:
         - name: Modifier
-          value: '+15'
+          value: "+15"
           enabled: true
       value: 4d12+15 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 4
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
@@ -88,7 +88,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -164,7 +164,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918966676
@@ -172,4 +172,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: VsQG8pVCISLMitxZ
 sort: 0
-_key: '!actors!VsQG8pVCISLMitxZ'
+_key: "!actors!VsQG8pVCISLMitxZ"

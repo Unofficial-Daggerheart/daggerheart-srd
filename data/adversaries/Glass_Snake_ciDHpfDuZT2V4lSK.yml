@@ -1,5 +1,5 @@
 name: Glass Snake
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -22,12 +22,12 @@ system:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 6
     severe: 10
@@ -54,21 +54,21 @@ system:
   groups: {}
   weapon-main:
     name: Glass Fangs
-    description: 'Very Close | ATK: +2| Phys'
+    description: "Very Close | ATK: +2| Phys"
     damage:
       baseValue: 1d8
       modifiers:
         - name: Modifier
-          value: '+2'
+          value: "+2"
           enabled: true
       value: 1d8+2 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 2
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -90,7 +90,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -166,7 +166,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917961582
@@ -174,4 +174,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: ciDHpfDuZT2V4lSK
 sort: 400000
-_key: '!actors!ciDHpfDuZT2V4lSK'
+_key: "!actors!ciDHpfDuZT2V4lSK"

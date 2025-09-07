@@ -1,5 +1,5 @@
 name: Minor Fire Elemental
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -24,12 +24,12 @@ system:
     value: 0
     min: 0
     max: 9
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 7
     severe: 15
@@ -56,21 +56,21 @@ system:
   groups: {}
   weapon-main:
     name: Elemental Blast
-    description: 'Far | ATK: +3| Phys'
+    description: "Far | ATK: +3| Phys"
     damage:
       baseValue: 1d10
       modifiers:
         - name: Modifier
-          value: '+4'
+          value: "+4"
           enabled: true
       value: 1d10+4 mag
     to-hit:
       baseValue: 0
       modifiers: []
       value: 3
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -92,7 +92,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -168,7 +168,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918815190
@@ -176,4 +176,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: CSTEkEdERsk9oQee
 sort: 300000
-_key: '!actors!CSTEkEdERsk9oQee'
+_key: "!actors!CSTEkEdERsk9oQee"

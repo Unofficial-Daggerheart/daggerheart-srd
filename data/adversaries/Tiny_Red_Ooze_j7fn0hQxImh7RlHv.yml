@@ -1,5 +1,5 @@
 name: Tiny Red Ooze
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -12,12 +12,12 @@ system:
     value: 0
     min: 0
     max: 2
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 1
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 5
     severe: null
@@ -44,21 +44,21 @@ system:
   groups: {}
   weapon-main:
     name: Ooze Appendage
-    description: 'Melee | ATK: -1| 1d4+2 Phys'
+    description: "Melee | ATK: -1| 1d4+2 Phys"
     damage:
       baseValue: 1d4
       modifiers:
         - name: Modifier
-          value: '+2'
+          value: "+2"
           enabled: true
       value: 1d4+2
     to-hit:
       baseValue: 0
       modifiers: []
       value: -1
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -80,7 +80,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -156,7 +156,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751919432402
@@ -164,4 +164,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: j7fn0hQxImh7RlHv
 sort: 200000
-_key: '!actors!j7fn0hQxImh7RlHv'
+_key: "!actors!j7fn0hQxImh7RlHv"

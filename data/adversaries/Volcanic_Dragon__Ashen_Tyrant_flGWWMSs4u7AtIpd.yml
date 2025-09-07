@@ -1,5 +1,5 @@
-name: 'Volcanic Dragon: Ashen Tyrant'
-type: npc
+name: "Volcanic Dragon: Ashen Tyrant"
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -35,12 +35,12 @@ system:
     value: 0
     min: 0
     max: 8
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 29
     severe: 55
@@ -67,28 +67,28 @@ system:
   groups: {}
   weapon-main:
     name: Claws and Teeth
-    description: 'Close | ATK: +10| Phys'
+    description: "Close | ATK: +10| Phys"
     damage:
       baseValue: 4d12
       modifiers:
         - name: Modifier
-          value: '+15'
+          value: "+15"
           enabled: true
       value: 4d12+15 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 10
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
     domain-two: Solo
   isNPC: true
 prototypeToken:
-  name: 'Volcanic Dragon: Ashen Tyrant'
+  name: "Volcanic Dragon: Ashen Tyrant"
   displayName: 0
   actorLink: false
   width: 1
@@ -103,7 +103,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -179,7 +179,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751919547630
@@ -187,4 +187,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: flGWWMSs4u7AtIpd
 sort: 300000
-_key: '!actors!flGWWMSs4u7AtIpd'
+_key: "!actors!flGWWMSs4u7AtIpd"

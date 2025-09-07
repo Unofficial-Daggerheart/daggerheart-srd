@@ -1,5 +1,5 @@
 name: Dire Bat
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -17,12 +17,12 @@ system:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 16
     severe: 30
@@ -49,21 +49,21 @@ system:
   groups: {}
   weapon-main:
     name: Claws and Teeth
-    description: 'Melee | ATK: +2| Phys'
+    description: "Melee | ATK: +2| Phys"
     damage:
       baseValue: 2d6
       modifiers:
         - name: Modifier
-          value: '+7'
+          value: "+7"
           enabled: true
       value: 2d6+7 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 2
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 3
@@ -85,7 +85,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -161,7 +161,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917477080
@@ -169,4 +169,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: UnfFMg3kMRTQZKwO
 sort: 0
-_key: '!actors!UnfFMg3kMRTQZKwO'
+_key: "!actors!UnfFMg3kMRTQZKwO"

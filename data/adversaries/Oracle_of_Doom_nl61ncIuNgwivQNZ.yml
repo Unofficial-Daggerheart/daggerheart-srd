@@ -1,5 +1,5 @@
 name: Oracle of Doom
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -27,12 +27,12 @@ system:
     value: 0
     min: 0
     max: 11
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 10
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 38
     severe: 68
@@ -59,21 +59,21 @@ system:
   groups: {}
   weapon-main:
     name: Psychic Attack
-    description: 'Far | ATK: +8| Phys'
+    description: "Far | ATK: +8| Phys"
     damage:
       baseValue: 4d8
       modifiers:
         - name: Modifier
-          value: '+9'
+          value: "+9"
           enabled: true
       value: 4d8+9 mag
     to-hit:
       baseValue: 0
       modifiers: []
       value: 8
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
@@ -95,7 +95,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -171,7 +171,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918894665
@@ -179,4 +179,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: nl61ncIuNgwivQNZ
 sort: 100000
-_key: '!actors!nl61ncIuNgwivQNZ'
+_key: "!actors!nl61ncIuNgwivQNZ"

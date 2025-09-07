@@ -1,5 +1,5 @@
 name: Deeproot Defender
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -16,12 +16,12 @@ system:
     value: 0
     min: 0
     max: 7
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 8
     severe: 14
@@ -48,21 +48,21 @@ system:
   groups: {}
   weapon-main:
     name: Vines
-    description: 'Close | ATK: +2| Phys'
+    description: "Close | ATK: +2| Phys"
     damage:
       baseValue: 1d8
       modifiers:
         - name: Modifier
-          value: '+3'
+          value: "+3"
           enabled: true
       value: 1d8+3 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 2
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -84,7 +84,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -160,7 +160,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917329161
@@ -168,4 +168,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: 86HxGi34NISxPRiU
 sort: 500000
-_key: '!actors!86HxGi34NISxPRiU'
+_key: "!actors!86HxGi34NISxPRiU"

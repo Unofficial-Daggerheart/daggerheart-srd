@@ -1,5 +1,5 @@
 name: Hallowed Soldier
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -19,12 +19,12 @@ system:
     value: 0
     min: 0
     max: 1
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 2
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: null
     severe: 0
@@ -51,21 +51,21 @@ system:
   groups: {}
   weapon-main:
     name: Sword and Shield
-    description: 'Melee | ATK: +2| 10 Phys'
+    description: "Melee | ATK: +2| 10 Phys"
     damage:
-      baseValue: '10'
+      baseValue: "10"
       modifiers:
         - name: Modifier
-          value: ''
+          value: ""
           enabled: true
-      value: '10'
+      value: "10"
     to-hit:
       baseValue: 0
       modifiers: []
       value: 2
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 4
@@ -87,7 +87,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -163,7 +163,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918088168
@@ -171,4 +171,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: K86loZ6CBduj1KWV
 sort: 100000
-_key: '!actors!K86loZ6CBduj1KWV'
+_key: "!actors!K86loZ6CBduj1KWV"

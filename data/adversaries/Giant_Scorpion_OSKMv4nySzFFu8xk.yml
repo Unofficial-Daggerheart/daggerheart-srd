@@ -1,5 +1,5 @@
 name: Giant Scorpion
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -18,12 +18,12 @@ system:
     value: 0
     min: 0
     max: 6
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 7
     severe: 13
@@ -50,21 +50,21 @@ system:
   groups: {}
   weapon-main:
     name: Pincers
-    description: 'Melee | ATK: +1| Phys'
+    description: "Melee | ATK: +1| Phys"
     damage:
       baseValue: 1d12
       modifiers:
         - name: Modifier
-          value: '+2'
+          value: "+2"
           enabled: true
       value: 1d12+2 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 1
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -86,7 +86,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -162,7 +162,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917937258
@@ -170,4 +170,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: OSKMv4nySzFFu8xk
 sort: 300000
-_key: '!actors!OSKMv4nySzFFu8xk'
+_key: "!actors!OSKMv4nySzFFu8xk"

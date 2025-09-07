@@ -1,5 +1,5 @@
 name: Cult Initiate
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -18,12 +18,12 @@ system:
     value: 0
     min: 0
     max: 1
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 1
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: null
     severe: 0
@@ -50,21 +50,21 @@ system:
   groups: {}
   weapon-main:
     name: Ritual Dagger
-    description: 'Melee | ATK: +0| 5 Phys'
+    description: "Melee | ATK: +0| 5 Phys"
     damage:
-      baseValue: '5'
+      baseValue: "5"
       modifiers:
         - name: Modifier
-          value: ''
+          value: ""
           enabled: true
-      value: '5'
+      value: "5"
     to-hit:
       baseValue: 0
       modifiers: []
       value: 0
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 2
@@ -86,7 +86,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -162,7 +162,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917310421
@@ -170,4 +170,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: euW5A5EWeXEYqvOl
 sort: 400000
-_key: '!actors!euW5A5EWeXEYqvOl'
+_key: "!actors!euW5A5EWeXEYqvOl"

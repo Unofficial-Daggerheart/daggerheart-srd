@@ -1,5 +1,5 @@
 name: Hydra
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -21,12 +21,12 @@ system:
     value: 0
     min: 0
     max: 10
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 19
     severe: 35
@@ -53,21 +53,21 @@ system:
   groups: {}
   weapon-main:
     name: Bite
-    description: 'Close | ATK: +3| Phys'
+    description: "Close | ATK: +3| Phys"
     damage:
       baseValue: 2d12
       modifiers:
         - name: Modifier
-          value: '+2'
+          value: "+2"
           enabled: true
       value: 2d12+2 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 3
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 3
@@ -89,7 +89,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -165,7 +165,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751918231836
@@ -173,4 +173,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: Pcumk1pce38ApcVG
 sort: 300000
-_key: '!actors!Pcumk1pce38ApcVG'
+_key: "!actors!Pcumk1pce38ApcVG"

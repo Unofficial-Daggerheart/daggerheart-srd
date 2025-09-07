@@ -1,5 +1,5 @@
 name: Swarm of Rats
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -15,12 +15,12 @@ system:
     value: 0
     min: 0
     max: 6
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 2
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 6
     severe: 10
@@ -47,21 +47,21 @@ system:
   groups: {}
   weapon-main:
     name: Claws
-    description: 'Melee | ATK: -3| 1d8+2 Phys'
+    description: "Melee | ATK: -3| 1d8+2 Phys"
     damage:
       baseValue: 1d8
       modifiers:
         - name: Modifier
-          value: '+2'
+          value: "+2"
           enabled: true
       value: 1d8+2
     to-hit:
       baseValue: 0
       modifiers: []
       value: -3
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 1
@@ -83,7 +83,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -159,7 +159,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751919342360
@@ -167,4 +167,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: 3oXY740Z1GZ49xSv
 sort: 200000
-_key: '!actors!3oXY740Z1GZ49xSv'
+_key: "!actors!3oXY740Z1GZ49xSv"

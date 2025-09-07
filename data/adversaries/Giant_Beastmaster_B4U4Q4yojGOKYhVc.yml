@@ -1,5 +1,5 @@
 name: Giant Beastmaster
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -20,12 +20,12 @@ system:
     value: 0
     min: 0
     max: 6
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 12
     severe: 24
@@ -52,21 +52,21 @@ system:
   groups: {}
   weapon-main:
     name: Longbow
-    description: 'Far | ATK: +2| Phys'
+    description: "Far | ATK: +2| Phys"
     damage:
       baseValue: 2d8
       modifiers:
         - name: Modifier
-          value: '+4'
+          value: "+4"
           enabled: true
       value: 2d8+4 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 2
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 2
@@ -88,7 +88,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -164,7 +164,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917774074
@@ -172,4 +172,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: B4U4Q4yojGOKYhVc
 sort: 400000
-_key: '!actors!B4U4Q4yojGOKYhVc'
+_key: "!actors!B4U4Q4yojGOKYhVc"

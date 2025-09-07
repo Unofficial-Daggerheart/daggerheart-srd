@@ -1,5 +1,5 @@
 name: Failed Experiment
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -16,12 +16,12 @@ system:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 3
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 12
     severe: 23
@@ -48,21 +48,21 @@ system:
   groups: {}
   weapon-main:
     name: Bite and Claw
-    description: 'Melee | ATK: +1| Phys'
+    description: "Melee | ATK: +1| Phys"
     damage:
       baseValue: 2d6
       modifiers:
         - name: Modifier
-          value: '+5'
+          value: "+5"
           enabled: true
       value: 2d6+5 phy
     to-hit:
       baseValue: 0
       modifiers: []
       value: 1
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 2
@@ -84,7 +84,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -160,7 +160,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751917624010
@@ -168,4 +168,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: psc6VwI2cD0OiDUX
 sort: 300000
-_key: '!actors!psc6VwI2cD0OiDUX'
+_key: "!actors!psc6VwI2cD0OiDUX"

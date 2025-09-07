@@ -1,5 +1,5 @@
 name: Vault Guardian Turret
-type: npc
+type: adversary
 img: icons/svg/mystery-man.svg
 system:
   biography: >-
@@ -25,12 +25,12 @@ system:
     value: 0
     min: 0
     max: 5
-    tooltip: ''
+    tooltip: ""
   stress:
     value: 0
     min: 0
     max: 4
-    tooltip: ''
+    tooltip: ""
   threshold:
     major: 20
     severe: 32
@@ -57,21 +57,21 @@ system:
   groups: {}
   weapon-main:
     name: Magitech Cannon
-    description: 'Far | ATK: +3| Phys'
+    description: "Far | ATK: +3| Phys"
     damage:
       baseValue: 3d10
       modifiers:
         - name: Modifier
-          value: '+3'
+          value: "+3"
           enabled: true
       value: 3d10+3 mag
     to-hit:
       baseValue: 0
       modifiers: []
       value: 3
-    range: ''
-    modifier: ''
-    dmgType: ''
+    range: ""
+    modifier: ""
+    dmgType: ""
   resourceTrackers: []
   chosenDomains:
     domain-one: Tier 3
@@ -93,7 +93,7 @@ prototypeToken:
     scaleX: 1
     scaleY: 1
     rotation: 0
-    tint: '#ffffff'
+    tint: "#ffffff"
     alphaThreshold: 0.75
   lockRotation: true
   rotation: 0
@@ -169,7 +169,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.10.5
   createdTime: 1751919523500
@@ -177,4 +177,4 @@ _stats:
   lastModifiedBy: DcmXmiW2xhTpcNhE
 _id: q7GTiqt9fCotlvr4
 sort: 0
-_key: '!actors!q7GTiqt9fCotlvr4'
+_key: "!actors!q7GTiqt9fCotlvr4"
